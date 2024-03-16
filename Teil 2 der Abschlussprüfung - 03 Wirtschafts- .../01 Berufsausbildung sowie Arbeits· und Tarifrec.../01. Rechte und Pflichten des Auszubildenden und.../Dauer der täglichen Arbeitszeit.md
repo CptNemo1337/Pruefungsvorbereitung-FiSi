@@ -1,0 +1,2 @@
+# Dauer der täglichen Arbeitszeit
+

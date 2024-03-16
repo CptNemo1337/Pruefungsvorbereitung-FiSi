@@ -1,0 +1,2 @@
+# Datenmenge, Speicherbedarf, Komprimierung
+

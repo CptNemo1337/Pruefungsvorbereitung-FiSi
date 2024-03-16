@@ -1,0 +1,2 @@
+# Abomodell vs. Kaufmodell
+

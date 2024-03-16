@@ -1,0 +1,2 @@
+# PIN-Code für Zutrittsberechtigung
+

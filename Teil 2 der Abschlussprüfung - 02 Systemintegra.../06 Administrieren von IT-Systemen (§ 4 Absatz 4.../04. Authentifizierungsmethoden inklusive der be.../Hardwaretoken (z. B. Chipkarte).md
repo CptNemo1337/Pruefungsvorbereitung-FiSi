@@ -1,0 +1,2 @@
+# Hardwaretoken (z. B. Chipkarte)
+

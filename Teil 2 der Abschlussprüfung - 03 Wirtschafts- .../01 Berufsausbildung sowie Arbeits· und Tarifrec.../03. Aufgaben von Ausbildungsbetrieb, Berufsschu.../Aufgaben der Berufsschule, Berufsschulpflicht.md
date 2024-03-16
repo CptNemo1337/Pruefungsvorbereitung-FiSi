@@ -1,0 +1,2 @@
+# Aufgaben der Berufsschule, Berufsschulpflicht
+
