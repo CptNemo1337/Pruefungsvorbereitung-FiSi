@@ -20,9 +20,12 @@ Die Datenstruktur dieses Repos folgt einer klaren und einfachen Logik, die sich 
 - **Hauptthema**: Konkrete Themen, die unter jedem Fragenkomplex behandelt werden.
 - **Unterthema.md**: Markdown-Dateien für jedes Unterthema, die Raum für Inhalte, Erklärungen und Ressourcen bieten.
 
-**/Oberkategorie/Fragenkomplex/Hauptthema/Unterthema.md**
-
 **Komm ins Boot!**  
 Deine Ideen, Beiträge und Fragen sind Gold wert. Lass uns gemeinsam dieses Projekt zum besten Vorbereitungstool für die AP machen.
 
 Gemeinsam zur Ziellinie – auf eine Prüfungsvorbereitung, die uns bestens gewappnet in den Prüfungstag starten lässt!
+
+**To-Do's**
+
+Inhalte befüllen (Don't you say :D)
+Wiki Seite mit Static Site Generator erstellen
