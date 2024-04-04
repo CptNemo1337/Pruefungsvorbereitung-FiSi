@@ -14,7 +14,7 @@ Ich habe die Gesamtstruktur direkt aus dem offiziellen Prüfungskatalog übernom
 Egal, ob du kurz vor der Prüfung stehst, dich in der IT-Welt weiterbilden möchtest oder einfach nur aus Interesse hier bist – jeder ist willkommen!
 
 **Datenstruktur**
-Die Datenstruktur dieses Repos folgt einer klaren und einfachen Logik, die sich an den offiziellen Prüfungsthemen orientiert. Jedes Hauptthema der Prüfung ist ein eigener Ordner, in dem spezifische Fragenkomplexe und Themenbereiche weiter unterteilt sind. Innerhalb dieser Unterordner findest du Markdown-Dateien zu jedem Unterthema, die als Basis für Diskussionen, Notizen und Lernmaterial dienen. Die Struktur sieht wie folgt aus:
+Die Datenstruktur dieses Repos folgt einer klaren und einfachen Logik, die sich an den offiziellen Prüfungsthemen orientiert. Jedes Hauptthema der Prüfung ist ein eigener Ordner, in dem spezifische Fragenkomplexe und Themenbereiche weiter unterteilt sind. Innerhalb dieser Unterordner findest du Markdown-Dateien zu jedem Unterthema, die als Basis für Diskussionen, Notizen und Lernmaterial dienen. Die Struktur sieht wie folgt aus: **/Oberkategorie/Fragenkomplex/Hauptthema/Unterthema.md**
 - **Oberkategorie**: Die breiteste Klassifizierung, die den großen Themenbereichen der Prüfung entspricht.
 - **Fragenkomplex**: Detailliertere Themenbereiche innerhalb einer Oberkategorie, die spezifische Fragenkomplexe oder Wissensgebiete umfassen.
 - **Hauptthema**: Konkrete Themen, die unter jedem Fragenkomplex behandelt werden.
