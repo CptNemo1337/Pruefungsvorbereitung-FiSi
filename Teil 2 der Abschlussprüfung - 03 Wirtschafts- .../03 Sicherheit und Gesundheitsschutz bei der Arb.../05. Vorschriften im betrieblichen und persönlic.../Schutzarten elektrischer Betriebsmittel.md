@@ -1,2 +1,0 @@
-# Schutzarten elektrischer Betriebsmittel
-

@@ -1,2 +1,0 @@
-# Identitätsdiebstahl (Phishing)
-

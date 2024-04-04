@@ -1,2 +1,0 @@
-# Zugriffslizenzen (CALs)
-

@@ -1,2 +1,0 @@
-# Viren- und Spamfilter
-

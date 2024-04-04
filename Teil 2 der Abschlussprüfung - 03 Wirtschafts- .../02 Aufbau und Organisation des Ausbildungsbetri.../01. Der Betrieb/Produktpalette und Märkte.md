@@ -1,2 +1,0 @@
-# Produktpalette und Märkte
-

@@ -1,2 +1,0 @@
-# Ermitteln von Ansprechpartnern
-

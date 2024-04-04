@@ -1,2 +1,0 @@
-# Internationale Spezialisierung, Globalisierung
-

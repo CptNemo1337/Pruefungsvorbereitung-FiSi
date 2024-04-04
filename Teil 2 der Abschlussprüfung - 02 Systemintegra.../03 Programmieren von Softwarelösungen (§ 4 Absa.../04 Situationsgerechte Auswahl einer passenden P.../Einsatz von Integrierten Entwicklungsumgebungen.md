@@ -1,2 +1,0 @@
-# Einsatz von Integrierten Entwicklungsumgebungen
-

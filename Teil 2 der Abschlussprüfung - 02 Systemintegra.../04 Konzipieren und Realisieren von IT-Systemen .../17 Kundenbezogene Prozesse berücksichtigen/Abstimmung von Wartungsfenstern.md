@@ -1,2 +1,0 @@
-# Abstimmung von Wartungsfenstern
-

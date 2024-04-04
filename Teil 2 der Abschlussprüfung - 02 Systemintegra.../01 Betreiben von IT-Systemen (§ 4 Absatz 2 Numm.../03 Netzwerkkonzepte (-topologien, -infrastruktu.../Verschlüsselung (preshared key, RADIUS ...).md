@@ -1,2 +1,0 @@
-# Verschlüsselung (preshared key, RADIUS ...)
-

@@ -1,2 +1,0 @@
-# UML (Use Case, Klassendiagramm)
-

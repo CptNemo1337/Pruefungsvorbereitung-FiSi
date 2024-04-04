@@ -1,2 +1,0 @@
-# PDCA-Zyklus
-

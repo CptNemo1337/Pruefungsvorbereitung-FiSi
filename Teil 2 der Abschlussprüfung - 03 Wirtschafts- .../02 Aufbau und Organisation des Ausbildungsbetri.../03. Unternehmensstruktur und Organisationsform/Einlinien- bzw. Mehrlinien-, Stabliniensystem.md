@@ -1,2 +1,0 @@
-# Einlinien- bzw. Mehrlinien-, Stabliniensystem
-

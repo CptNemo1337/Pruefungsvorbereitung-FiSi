@@ -1,2 +1,0 @@
-# Web Based Training (WBT)
-

@@ -1,2 +1,0 @@
-# Notfallkonzept (Disaster Recovery)
-

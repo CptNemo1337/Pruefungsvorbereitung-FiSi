@@ -1,2 +1,0 @@
-# Einigungsstelle
-

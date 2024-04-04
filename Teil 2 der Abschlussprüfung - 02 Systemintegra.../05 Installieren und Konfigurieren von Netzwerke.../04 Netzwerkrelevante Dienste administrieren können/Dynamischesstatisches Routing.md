@@ -1,2 +1,0 @@
-# Dynamisches/statisches Routing
-

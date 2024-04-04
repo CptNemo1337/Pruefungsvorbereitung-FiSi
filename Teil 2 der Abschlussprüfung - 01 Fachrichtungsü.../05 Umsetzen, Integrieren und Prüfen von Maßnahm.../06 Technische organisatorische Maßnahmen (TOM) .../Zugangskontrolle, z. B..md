@@ -1,2 +1,0 @@
-# Zugangskontrolle, z. B.:
-

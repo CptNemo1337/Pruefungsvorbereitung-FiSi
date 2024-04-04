@@ -1,2 +1,0 @@
-# Vergütungs- und Urlaubsregelungen
-

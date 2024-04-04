@@ -1,2 +1,0 @@
-# Abfalltrennung und -vermeidung
-

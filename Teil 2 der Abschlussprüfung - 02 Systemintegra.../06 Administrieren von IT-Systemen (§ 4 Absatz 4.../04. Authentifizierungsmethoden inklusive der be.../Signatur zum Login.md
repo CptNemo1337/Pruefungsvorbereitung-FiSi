@@ -1,2 +1,0 @@
-# Signatur zum Login
-

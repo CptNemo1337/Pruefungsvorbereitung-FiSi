@@ -1,2 +1,0 @@
-# Erste-Hilfe-Maßnahmen
-

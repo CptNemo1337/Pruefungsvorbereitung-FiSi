@@ -1,2 +1,0 @@
-# Netzwerktopologie (IT DV/SI)
-

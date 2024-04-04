@@ -1,2 +1,0 @@
-# Betriebliche und gesamtwirtschaftliche Arbeitsteilung
-

@@ -1,2 +1,0 @@
-# Moderations- und Präsentationstechniken
-

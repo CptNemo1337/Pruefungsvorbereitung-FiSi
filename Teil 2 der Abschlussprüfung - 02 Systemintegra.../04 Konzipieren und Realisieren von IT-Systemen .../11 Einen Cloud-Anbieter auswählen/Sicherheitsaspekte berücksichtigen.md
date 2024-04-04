@@ -1,2 +1,0 @@
-# Sicherheitsaspekte berücksichtigen
-

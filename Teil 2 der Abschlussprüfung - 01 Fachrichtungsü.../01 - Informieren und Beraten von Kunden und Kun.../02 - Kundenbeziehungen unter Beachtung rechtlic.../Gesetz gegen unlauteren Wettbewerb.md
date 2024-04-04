@@ -1,2 +1,0 @@
-# Gesetz gegen unlauteren Wettbewerb
-

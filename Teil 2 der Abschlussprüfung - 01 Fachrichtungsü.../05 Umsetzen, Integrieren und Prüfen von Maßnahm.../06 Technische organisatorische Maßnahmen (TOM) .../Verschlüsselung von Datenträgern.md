@@ -1,2 +1,0 @@
-# Verschlüsselung von Datenträgern
-

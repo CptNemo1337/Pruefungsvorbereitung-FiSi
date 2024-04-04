@@ -1,2 +1,0 @@
-# Kosten-Nutzen berücksichtigen
-

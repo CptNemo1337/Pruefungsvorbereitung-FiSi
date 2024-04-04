@@ -1,2 +1,0 @@
-# OpenData. API-Schnittstellen
-

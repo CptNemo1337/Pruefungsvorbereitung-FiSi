@@ -1,2 +1,0 @@
-# UML-Aktivitätsdiagramm
-

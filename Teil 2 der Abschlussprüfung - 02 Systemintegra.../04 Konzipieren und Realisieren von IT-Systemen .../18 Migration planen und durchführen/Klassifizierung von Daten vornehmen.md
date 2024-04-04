@@ -1,2 +1,0 @@
-# Klassifizierung von Daten vornehmen
-

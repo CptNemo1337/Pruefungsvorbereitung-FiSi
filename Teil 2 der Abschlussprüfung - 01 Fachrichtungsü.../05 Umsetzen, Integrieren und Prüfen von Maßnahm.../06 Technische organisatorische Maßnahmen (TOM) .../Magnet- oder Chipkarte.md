@@ -1,2 +1,0 @@
-# Magnet- oder Chipkarte
-

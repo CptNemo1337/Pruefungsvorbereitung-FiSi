@@ -1,2 +1,0 @@
-# Aufsichtsbehörde für Arbeitsschutz (Gewerbeaufsicht)
-

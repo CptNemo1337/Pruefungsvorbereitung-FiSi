@@ -1,2 +1,0 @@
-# Fluchtwege und Sammelplätze
-

@@ -1,2 +1,0 @@
-# Unnötige Gerätelaufzeiten vermeiden
-

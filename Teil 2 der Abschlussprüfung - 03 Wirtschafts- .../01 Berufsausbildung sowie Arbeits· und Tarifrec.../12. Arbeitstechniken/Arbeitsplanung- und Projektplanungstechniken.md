@@ -1,2 +1,0 @@
-# Arbeitsplanung- und Projektplanungstechniken
-

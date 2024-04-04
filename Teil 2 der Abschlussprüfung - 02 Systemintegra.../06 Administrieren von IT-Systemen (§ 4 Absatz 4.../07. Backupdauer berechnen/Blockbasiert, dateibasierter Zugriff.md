@@ -1,2 +1,0 @@
-# Blockbasiert, dateibasierter Zugriff
-

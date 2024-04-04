@@ -1,2 +1,0 @@
-# Komponententest, Funktionstest, Integrationstest
-

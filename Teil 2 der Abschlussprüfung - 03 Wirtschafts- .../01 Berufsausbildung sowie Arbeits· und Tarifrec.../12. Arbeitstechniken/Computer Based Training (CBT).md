@@ -1,2 +1,0 @@
-# Computer Based Training (CBT)
-

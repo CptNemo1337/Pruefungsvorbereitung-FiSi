@@ -1,2 +1,0 @@
-# Stakeholder-Analyse
-

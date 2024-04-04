@@ -1,2 +1,0 @@
-# Jugend- und Auszubildendenvertretung
-

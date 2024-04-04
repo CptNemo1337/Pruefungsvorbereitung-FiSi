@@ -1,2 +1,0 @@
-# Wirtschaftlicher Schaden
-

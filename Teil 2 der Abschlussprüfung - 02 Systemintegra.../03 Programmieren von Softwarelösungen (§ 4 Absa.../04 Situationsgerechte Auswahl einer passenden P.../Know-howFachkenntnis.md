@@ -1,2 +1,0 @@
-# Know-how/Fachkenntnis
-

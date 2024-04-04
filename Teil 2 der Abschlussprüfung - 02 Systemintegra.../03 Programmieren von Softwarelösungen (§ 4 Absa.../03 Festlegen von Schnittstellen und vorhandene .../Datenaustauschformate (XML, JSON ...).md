@@ -1,2 +1,0 @@
-# Datenaustauschformate (XML, JSON ...)
-

@@ -1,2 +1,0 @@
-# Ersthelfer, Notruf- und Notfallnummern
-

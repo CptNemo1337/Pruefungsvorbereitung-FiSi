@@ -1,2 +1,0 @@
-# Echtzeitkommunikation sicherstellen können
-

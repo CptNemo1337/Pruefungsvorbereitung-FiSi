@@ -1,2 +1,0 @@
-# Betrieblicher Ausbildungsplan
-

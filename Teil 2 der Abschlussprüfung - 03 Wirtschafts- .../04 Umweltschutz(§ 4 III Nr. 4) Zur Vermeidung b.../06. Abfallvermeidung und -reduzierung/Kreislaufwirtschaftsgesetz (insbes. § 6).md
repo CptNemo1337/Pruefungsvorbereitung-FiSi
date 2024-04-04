@@ -1,2 +1,0 @@
-# Kreislaufwirtschaftsgesetz (insbes. § 6)
-

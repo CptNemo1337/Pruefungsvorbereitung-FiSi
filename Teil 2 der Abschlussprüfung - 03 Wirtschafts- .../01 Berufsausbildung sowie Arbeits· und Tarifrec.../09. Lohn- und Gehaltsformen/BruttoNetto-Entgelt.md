@@ -1,2 +1,0 @@
-# Brutto/Netto-Entgelt
-

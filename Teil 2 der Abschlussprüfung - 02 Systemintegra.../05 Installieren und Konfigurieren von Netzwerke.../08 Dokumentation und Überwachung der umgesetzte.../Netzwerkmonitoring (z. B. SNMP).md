@@ -1,2 +1,0 @@
-# Netzwerkmonitoring (z. B. SNMP)
-

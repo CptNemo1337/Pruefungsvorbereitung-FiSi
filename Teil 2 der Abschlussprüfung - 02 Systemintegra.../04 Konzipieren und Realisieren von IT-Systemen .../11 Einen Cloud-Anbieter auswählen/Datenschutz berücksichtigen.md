@@ -1,2 +1,0 @@
-# Datenschutz berücksichtigen
-

@@ -1,2 +1,0 @@
-# Lohnsteuer, Kirchensteuer
-

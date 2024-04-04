@@ -1,2 +1,0 @@
-# Flucht und Rettungswege
-

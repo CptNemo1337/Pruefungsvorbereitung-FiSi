@@ -1,2 +1,0 @@
-# Kundendokumentation erstellen/übergeben
-

@@ -1,2 +1,0 @@
-# Verdeutlichung der Zuständigkeitsabgrenzung
-

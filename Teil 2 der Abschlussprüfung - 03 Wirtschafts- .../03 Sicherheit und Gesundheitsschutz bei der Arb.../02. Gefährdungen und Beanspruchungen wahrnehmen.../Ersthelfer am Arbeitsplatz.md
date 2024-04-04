@@ -1,2 +1,0 @@
-# Ersthelfer am Arbeitsplatz
-

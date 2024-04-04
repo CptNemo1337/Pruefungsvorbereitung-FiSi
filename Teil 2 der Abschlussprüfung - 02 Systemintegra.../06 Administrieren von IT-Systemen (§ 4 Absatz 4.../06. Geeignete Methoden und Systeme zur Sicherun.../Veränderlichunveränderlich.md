@@ -1,2 +1,0 @@
-# Veränderlich/unveränderlich
-

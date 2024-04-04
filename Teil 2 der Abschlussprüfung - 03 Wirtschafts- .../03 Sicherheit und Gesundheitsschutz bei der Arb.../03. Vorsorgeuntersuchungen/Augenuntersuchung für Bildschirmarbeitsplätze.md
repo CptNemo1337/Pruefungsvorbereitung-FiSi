@@ -1,2 +1,0 @@
-# Augenuntersuchung für Bildschirmarbeitsplätze
-

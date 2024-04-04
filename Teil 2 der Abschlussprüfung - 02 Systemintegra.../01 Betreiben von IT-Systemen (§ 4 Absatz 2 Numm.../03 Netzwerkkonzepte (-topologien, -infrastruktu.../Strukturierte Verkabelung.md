@@ -1,2 +1,0 @@
-# Strukturierte Verkabelung
-

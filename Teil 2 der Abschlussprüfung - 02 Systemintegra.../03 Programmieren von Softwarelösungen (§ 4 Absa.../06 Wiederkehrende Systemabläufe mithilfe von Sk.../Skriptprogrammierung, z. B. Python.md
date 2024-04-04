@@ -1,2 +1,0 @@
-# Skriptprogrammierung, z. B. Python
-

@@ -1,2 +1,0 @@
-# Normen anwenden
-

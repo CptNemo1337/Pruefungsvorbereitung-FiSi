@@ -1,2 +1,0 @@
-# Datenbankabfrage, Datenpffege
-

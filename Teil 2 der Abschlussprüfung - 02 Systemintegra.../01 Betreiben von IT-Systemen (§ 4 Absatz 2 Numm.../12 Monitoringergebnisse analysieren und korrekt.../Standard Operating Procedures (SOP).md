@@ -1,2 +1,0 @@
-# Standard Operating Procedures (SOP)
-

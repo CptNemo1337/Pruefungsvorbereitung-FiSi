@@ -1,2 +1,0 @@
-# Corporate ldentity (Cl)
-

@@ -1,2 +1,0 @@
-# Drahtlos: PAN/WLAN
-

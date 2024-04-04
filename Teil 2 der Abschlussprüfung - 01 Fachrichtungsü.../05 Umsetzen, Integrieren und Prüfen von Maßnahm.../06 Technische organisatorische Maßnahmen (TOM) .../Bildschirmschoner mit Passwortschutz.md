@@ -1,2 +1,0 @@
-# Bildschirmschoner mit Passwortschutz
-

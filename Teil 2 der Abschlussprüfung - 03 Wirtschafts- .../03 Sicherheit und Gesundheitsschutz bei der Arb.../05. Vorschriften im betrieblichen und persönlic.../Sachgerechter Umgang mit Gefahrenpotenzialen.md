@@ -1,2 +1,0 @@
-# Sachgerechter Umgang mit Gefahrenpotenzialen
-

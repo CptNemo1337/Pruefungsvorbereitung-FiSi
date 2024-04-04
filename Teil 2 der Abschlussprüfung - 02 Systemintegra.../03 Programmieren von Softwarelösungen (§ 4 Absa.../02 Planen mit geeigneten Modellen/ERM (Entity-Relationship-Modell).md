@@ -1,2 +1,0 @@
-# ERM (Entity-Relationship-Modell)
-

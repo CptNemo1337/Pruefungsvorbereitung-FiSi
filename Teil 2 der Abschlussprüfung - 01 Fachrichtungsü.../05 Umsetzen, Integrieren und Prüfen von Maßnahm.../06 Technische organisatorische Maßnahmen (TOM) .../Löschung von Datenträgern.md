@@ -1,2 +1,0 @@
-# Löschung von Datenträgern
-

@@ -1,2 +1,0 @@
-# Elektrotechnisch (USV)
-

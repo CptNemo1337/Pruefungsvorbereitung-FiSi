@@ -1,2 +1,0 @@
-# Rechte und Berechtigungen
-

@@ -1,2 +1,0 @@
-# Zeichensätze, Umlaute, Sprache
-

@@ -1,2 +1,0 @@
-# Feststellen/benennen von Migrationsmethoden
-

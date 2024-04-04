@@ -1,2 +1,0 @@
-# Richtschnur für Entwickler
-

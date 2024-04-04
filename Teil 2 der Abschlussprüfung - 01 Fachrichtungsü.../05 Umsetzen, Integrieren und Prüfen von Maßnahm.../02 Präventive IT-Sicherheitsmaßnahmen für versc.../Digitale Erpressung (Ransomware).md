@@ -1,2 +1,0 @@
-# Digitale Erpressung (Ransomware)
-

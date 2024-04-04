@@ -1,2 +1,0 @@
-# Gemeinnützige Organisationen
-

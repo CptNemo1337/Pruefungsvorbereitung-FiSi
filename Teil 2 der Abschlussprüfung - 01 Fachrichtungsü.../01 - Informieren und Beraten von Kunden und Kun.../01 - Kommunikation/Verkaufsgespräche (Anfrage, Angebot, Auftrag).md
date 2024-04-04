@@ -1,2 +1,0 @@
-# Verkaufsgespräche (Anfrage, Angebot, Auftrag)
-

@@ -1,2 +1,0 @@
-# Ergonomische Arbeitsplatzgestaltung
-

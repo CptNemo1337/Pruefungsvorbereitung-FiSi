@@ -1,2 +1,0 @@
-# Mitbestimmungs- und Mitwirkungsrechte
-

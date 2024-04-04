@@ -1,2 +1,0 @@
-# Block Chain, Smart Contracts
-

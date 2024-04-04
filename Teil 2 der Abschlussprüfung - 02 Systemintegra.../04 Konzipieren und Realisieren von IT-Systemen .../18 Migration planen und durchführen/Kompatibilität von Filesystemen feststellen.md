@@ -1,2 +1,0 @@
-# Kompatibilität von Filesystemen feststellen
-

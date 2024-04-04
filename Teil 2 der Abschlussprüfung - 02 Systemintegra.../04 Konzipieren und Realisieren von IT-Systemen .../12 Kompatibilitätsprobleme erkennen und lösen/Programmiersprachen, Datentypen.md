@@ -1,2 +1,0 @@
-# Programmiersprachen, Datentypen
-

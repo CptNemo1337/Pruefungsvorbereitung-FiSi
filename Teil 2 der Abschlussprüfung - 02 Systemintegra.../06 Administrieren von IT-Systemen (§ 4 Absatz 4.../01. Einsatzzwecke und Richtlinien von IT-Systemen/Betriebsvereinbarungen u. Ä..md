@@ -1,2 +1,0 @@
-# Betriebsvereinbarungen u. Ä.
-

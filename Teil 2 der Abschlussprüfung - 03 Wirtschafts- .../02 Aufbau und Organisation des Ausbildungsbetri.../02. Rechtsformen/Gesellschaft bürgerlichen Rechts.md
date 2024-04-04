@@ -1,2 +1,0 @@
-# Gesellschaft bürgerlichen Rechts
-

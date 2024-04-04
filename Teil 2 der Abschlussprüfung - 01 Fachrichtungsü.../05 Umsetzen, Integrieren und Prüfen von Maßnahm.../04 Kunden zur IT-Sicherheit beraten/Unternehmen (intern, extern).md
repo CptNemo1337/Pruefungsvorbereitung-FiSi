@@ -1,2 +1,0 @@
-# Unternehmen (intern, extern)
-

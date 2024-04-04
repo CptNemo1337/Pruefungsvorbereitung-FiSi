@@ -1,2 +1,0 @@
-# First hop redundancy
-

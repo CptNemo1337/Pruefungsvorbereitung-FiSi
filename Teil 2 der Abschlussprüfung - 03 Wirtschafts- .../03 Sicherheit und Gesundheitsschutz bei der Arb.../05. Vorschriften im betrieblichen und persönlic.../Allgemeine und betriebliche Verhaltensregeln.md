@@ -1,2 +1,0 @@
-# Allgemeine und betriebliche Verhaltensregeln
-

@@ -1,2 +1,0 @@
-# Vertretung gesamtgesellschaftlicher Interessen
-

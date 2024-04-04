@@ -1,2 +1,0 @@
-# Umgang mit mobilen Endgeräten
-

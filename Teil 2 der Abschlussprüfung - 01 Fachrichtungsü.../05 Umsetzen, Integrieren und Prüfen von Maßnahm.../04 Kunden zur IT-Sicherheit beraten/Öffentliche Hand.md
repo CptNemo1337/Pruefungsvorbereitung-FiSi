@@ -1,2 +1,0 @@
-# Öffentliche Hand
-

@@ -1,2 +1,0 @@
-# Aufgaben der Kammern
-

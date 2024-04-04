@@ -1,2 +1,0 @@
-# Europäische Sozialcharta
-

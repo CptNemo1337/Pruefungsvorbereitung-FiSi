@@ -1,2 +1,0 @@
-# Arbeitsabläufe und Aufgabenteilung
-

@@ -1,2 +1,0 @@
-# Allgemeines Gleichbehandlungsgesetz
-

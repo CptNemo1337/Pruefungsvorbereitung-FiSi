@@ -1,2 +1,0 @@
-# Verschiedene Arbeitstechniken erlernen
-

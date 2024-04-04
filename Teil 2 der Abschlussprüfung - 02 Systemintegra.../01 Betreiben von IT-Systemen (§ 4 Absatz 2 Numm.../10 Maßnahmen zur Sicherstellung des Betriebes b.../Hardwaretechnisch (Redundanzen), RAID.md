@@ -1,2 +1,0 @@
-# Hardwaretechnisch (Redundanzen), RAID
-

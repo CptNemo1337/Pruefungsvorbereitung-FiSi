@@ -1,2 +1,0 @@
-# Berufsständische Vertretungen und Organisationen
-
