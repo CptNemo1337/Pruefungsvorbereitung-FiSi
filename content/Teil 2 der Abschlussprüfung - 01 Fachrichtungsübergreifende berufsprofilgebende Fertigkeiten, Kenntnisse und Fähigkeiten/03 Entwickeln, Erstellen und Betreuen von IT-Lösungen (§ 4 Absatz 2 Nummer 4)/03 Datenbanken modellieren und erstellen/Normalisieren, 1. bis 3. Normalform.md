@@ -1,10 +1,4 @@
-## Theoretische Grundlagen
-
-- Wir normalisieren Datenbanken um **Redundanzen** zu vermeiden, die zu **Anomalien** führen können. Mehr dazu in [Podcast-Episode 18](https://it-berufe-podcast.de/normalisierung-haeufige-fragen-im-fachgespraech-anwendungsentwickler-podcast-18 "Normalisierung - Häufige Fragen im Fachgespräch - Anwendungsentwickler-Podcast #18").
-- Grundlagen wie Schlüssel, Kardinalitäten usw. erkläre ich in [Podcast-Episode 17](https://it-berufe-podcast.de/relationale-datenbanken-haeufige-fragen-im-fachgespraech-anwendungsentwickler-podcast-17 "Relationale Datenbanken - Häufige Fragen im Fachgespräch - Anwendungsentwickler-Podcast #17").
-- Merksatz: „The key, the whole key, and nothing but the key."
-
-## Beispieldaten
+## Normalisieren, 1. bis 3. Normalform
 
 Wir verwenden ein „klassisches" Beispiel, das so oder ähnlich in vielen IHK-Prüfungen genutzt wird.
 
