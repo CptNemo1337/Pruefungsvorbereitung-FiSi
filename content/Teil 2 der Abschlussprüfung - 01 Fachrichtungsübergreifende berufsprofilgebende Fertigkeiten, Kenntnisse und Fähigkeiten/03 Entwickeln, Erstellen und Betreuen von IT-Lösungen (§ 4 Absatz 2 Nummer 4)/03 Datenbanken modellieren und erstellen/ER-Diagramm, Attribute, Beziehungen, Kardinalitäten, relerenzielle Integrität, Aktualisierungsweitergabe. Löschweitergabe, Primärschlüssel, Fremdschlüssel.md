@@ -34,3 +34,6 @@
 
 Bildquelle - 06.04.24:
 https://www.herrmix.de/dokuwiki/lib/exe/fetch.php?media=datenbanken:relational:er-beispiel2.png
+
+Erklärvideo:
+[Youtube](https://www.youtube.com/watch?v=fVbYB_34v-E)
