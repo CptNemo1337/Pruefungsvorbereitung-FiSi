@@ -1,8 +1,6 @@
 # Datentypen: Boolesche Werte, Ganzzahl, Gleitkommawerte, Währung, Datumswerte, Texte fester und variabler Länge, BLO, Geokoordlnaten
 
-## SQL Datentypen
-
-# Erklärung zu SQL Datentypen
+## Erklärung zu SQL Datentypen
 
 SQL-Datentypen definieren die Art von Daten, die in einer Spalte eines Tabellen oder in Ausdrücken und Variablen gespeichert werden können. Die Auswahl des richtigen Datentyps für eine Spalte ist entscheidend, da sie die Integrität der Daten sicherstellt und die Performance der Datenbank beeinflussen kann. Hier eine kurze Erläuterung der Schlüsselaspekte:
 
@@ -33,6 +31,8 @@ SQL-Datentypen definieren die Art von Daten, die in einer Spalte eines Tabellen 
 - **`SET`**: Ähnlich wie `ENUM`, aber erlaubt die Speicherung von mehreren Werten aus der definierten Liste in einer Spalte.
 
 Die Wahl des Datentyps hat direkte Auswirkungen auf die Datenintegrität, Speicheranforderungen und Leistung der Datenbankabfragen. Es ist wichtig, den Datentyp basierend auf den erwarteten Daten und der Anwendung, die diese Daten verwendet, sorgfältig auszuwählen.
+
+## SQL Datentypen Tabelle
 
 | Datentyp    | Optionen              | Speicherplatz  | Beschreibung                                                                                                                                       |
 | ----------- | --------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
