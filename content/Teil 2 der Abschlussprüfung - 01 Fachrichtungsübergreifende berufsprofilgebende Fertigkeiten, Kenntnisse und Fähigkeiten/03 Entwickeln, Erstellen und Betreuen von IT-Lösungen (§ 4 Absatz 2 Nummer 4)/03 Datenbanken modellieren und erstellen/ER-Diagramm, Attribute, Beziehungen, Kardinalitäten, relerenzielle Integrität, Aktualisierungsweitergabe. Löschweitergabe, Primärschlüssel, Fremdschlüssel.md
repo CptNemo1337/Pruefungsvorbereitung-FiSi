@@ -30,4 +30,4 @@
 - **Aktualisierungsweitergabe**: Regeln, die definieren, was bei der Aktualisierung von Primärschlüsseln passiert.
 - **Löschweitergabe**: Regeln, die bestimmen, wie mit den verknüpften Daten umgegangen wird, wenn eine Entität gelöscht wird.
 
-[text](https://www.herrmix.de/dokuwiki/lib/exe/fetch.php?media%3Ddatenbanken%3Arelational%3Aer-beispiel2.png)
+![ER-Diagramm](https://www.herrmix.de/dokuwiki/lib/exe/fetch.php?media%3Ddatenbanken%3Arelational%3Aer-beispiel2.png)
