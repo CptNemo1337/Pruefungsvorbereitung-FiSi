@@ -1,0 +1,18 @@
+{
+  "name": "Hugo Docs",
+  "short_name": "Hugo Docs",
+  "lang": "en-us",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "icons": [{
+    "src": "/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

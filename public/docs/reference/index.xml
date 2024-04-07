@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reference | Hugo Docs</title>
+    <link>http://localhost:1313/docs/reference/</link>
+      <atom:link href="http://localhost:1313/docs/reference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Reference</title>
+      <link>http://localhost:1313/docs/reference/</link>
+    </image>
+    
+    <item>
+      <title>Customizing Hugo</title>
+      <link>http://localhost:1313/docs/reference/customization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/reference/customization/</guid>
+      <description>&lt;p&gt;View the full docs at &lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.hugoblox.com/getting-started/customize/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internationalization (i18n)</title>
+      <link>http://localhost:1313/docs/reference/i18n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/reference/i18n/</guid>
+      <description>&lt;p&gt;Hugo Blox enables you to easily edit the interface text as well as translating your site into multiple languages using Hugo&amp;rsquo;s &lt;a href=&#34;https://gohugo.io/content-management/multilingual/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;multilingual&lt;/a&gt; feature.&lt;/p&gt;
+&lt;p&gt;View the full docs at &lt;a href=&#34;https://docs.hugoblox.com/reference/language/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.hugoblox.com/reference/language/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

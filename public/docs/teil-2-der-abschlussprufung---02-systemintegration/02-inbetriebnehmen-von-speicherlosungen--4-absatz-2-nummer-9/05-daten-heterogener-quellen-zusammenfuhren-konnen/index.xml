@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>05 Daten heterogener Quellen zusammenführen können | Hugo Docs</title>
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/05-daten-heterogener-quellen-zusammenfuhren-konnen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/05-daten-heterogener-quellen-zusammenfuhren-konnen/index.xml" rel="self" type="application/rss+xml" />
+    <description>05 Daten heterogener Quellen zusammenführen können</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>05 Daten heterogener Quellen zusammenführen können</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/05-daten-heterogener-quellen-zusammenfuhren-konnen/</link>
+    </image>
+    
+    <item>
+      <title>Data Lake</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/05-daten-heterogener-quellen-zusammenfuhren-konnen/data-lake/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/05-daten-heterogener-quellen-zusammenfuhren-konnen/data-lake/</guid>
+      <description>&lt;h1 id=&#34;data-lake&#34;&gt;Data Lake&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Warehouse</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/05-daten-heterogener-quellen-zusammenfuhren-konnen/data-warehouse/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/05-daten-heterogener-quellen-zusammenfuhren-konnen/data-warehouse/</guid>
+      <description>&lt;h1 id=&#34;data-warehouse&#34;&gt;Data Warehouse&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

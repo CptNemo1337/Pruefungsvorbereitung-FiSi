@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>08 Anwendungsdienste sicherstellen können | Hugo Docs</title>
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/index.xml" rel="self" type="application/rss+xml" />
+    <description>08 Anwendungsdienste sicherstellen können</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>08 Anwendungsdienste sicherstellen können</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/</link>
+    </image>
+    
+    <item>
+      <title>Datenbanken</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/datenbanken/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/datenbanken/</guid>
+      <description>&lt;h1 id=&#34;datenbanken&#34;&gt;Datenbanken&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Echtzeitkommunikation sicherstellen können</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/echtzeitkommunikation-sicherstellen-konnen/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/echtzeitkommunikation-sicherstellen-konnen/</guid>
+      <description>&lt;h1 id=&#34;echtzeitkommunikation-sicherstellen-können&#34;&gt;Echtzeitkommunikation sicherstellen können&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Groupware</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/groupware/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/groupware/</guid>
+      <description>&lt;h1 id=&#34;groupware&#34;&gt;Groupware&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mailserver</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/mailserver/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/mailserver/</guid>
+      <description>&lt;h1 id=&#34;mailserver&#34;&gt;Mailserver&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Webserver</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/webserver/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/08-anwendungsdienste-sicherstellen-konnen/webserver/</guid>
+      <description>&lt;h1 id=&#34;webserver&#34;&gt;Webserver&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

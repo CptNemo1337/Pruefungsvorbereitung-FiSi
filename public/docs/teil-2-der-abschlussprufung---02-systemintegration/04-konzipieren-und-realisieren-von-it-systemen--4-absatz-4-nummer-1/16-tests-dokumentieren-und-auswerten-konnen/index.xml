@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>16 Tests dokumentieren und auswerten können | Hugo Docs</title>
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/16-tests-dokumentieren-und-auswerten-konnen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/16-tests-dokumentieren-und-auswerten-konnen/index.xml" rel="self" type="application/rss+xml" />
+    <description>16 Tests dokumentieren und auswerten können</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>16 Tests dokumentieren und auswerten können</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/16-tests-dokumentieren-und-auswerten-konnen/</link>
+    </image>
+    
+    <item>
+      <title>Changeprozess begleiten</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/16-tests-dokumentieren-und-auswerten-konnen/changeprozess-begleiten/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/16-tests-dokumentieren-und-auswerten-konnen/changeprozess-begleiten/</guid>
+      <description>&lt;h1 id=&#34;changeprozess-begleiten&#34;&gt;Changeprozess begleiten&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>etc.</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/16-tests-dokumentieren-und-auswerten-konnen/etc./</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/16-tests-dokumentieren-und-auswerten-konnen/etc./</guid>
+      <description>&lt;h1 id=&#34;etc&#34;&gt;etc.&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rollback planen</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/16-tests-dokumentieren-und-auswerten-konnen/rollback-planen/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/16-tests-dokumentieren-und-auswerten-konnen/rollback-planen/</guid>
+      <description>&lt;h1 id=&#34;rollback-planen&#34;&gt;Rollback planen&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testprotokolle</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/16-tests-dokumentieren-und-auswerten-konnen/testprotokolle/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/16-tests-dokumentieren-und-auswerten-konnen/testprotokolle/</guid>
+      <description>&lt;h1 id=&#34;testprotokolle&#34;&gt;Testprotokolle&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

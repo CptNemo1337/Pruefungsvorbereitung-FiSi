@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>02 Planen mit geeigneten Modellen | Hugo Docs</title>
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/index.xml" rel="self" type="application/rss+xml" />
+    <description>02 Planen mit geeigneten Modellen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>02 Planen mit geeigneten Modellen</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/</link>
+    </image>
+    
+    <item>
+      <title>ERM (Entity-Relationship-Modell)</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/erm-entity-relationship-modell/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/erm-entity-relationship-modell/</guid>
+      <description>&lt;h1 id=&#34;erm-entity-relationship-modell&#34;&gt;ERM (Entity-Relationship-Modell)&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mock-up</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/mock-up/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/mock-up/</guid>
+      <description>&lt;h1 id=&#34;mock-up&#34;&gt;Mock-up&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UML-Aktivitätsdiagramm</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/uml-aktivitatsdiagramm/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/uml-aktivitatsdiagramm/</guid>
+      <description>&lt;h1 id=&#34;uml-aktivitätsdiagramm&#34;&gt;UML-Aktivitätsdiagramm&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UML-Anwendungsfalldiagramm (für Fachinformatiker Anwendungsentwicklung, Datenverarbeitung)</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/uml-anwendungsfalldiagramm-fur-fachinformatiker-anwendungsentwicklung-datenverarbeitung/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/uml-anwendungsfalldiagramm-fur-fachinformatiker-anwendungsentwicklung-datenverarbeitung/</guid>
+      <description>&lt;h1 id=&#34;uml-anwendungsfalldiagramm-für-fachinformatiker-anwendungsentwicklung-datenverarbeitung&#34;&gt;UML-Anwendungsfalldiagramm (für Fachinformatiker Anwendungsentwicklung, Datenverarbeitung)&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UML-Klassendiagramm</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/uml-klassendiagramm/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/uml-klassendiagramm/</guid>
+      <description>&lt;h1 id=&#34;uml-klassendiagramm&#34;&gt;UML-Klassendiagramm&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UML-Sequenzdiagramm (für Fachinformatiker Anwendungsentwicklung)</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/uml-sequenzdiagramm-fur-fachinformatiker-anwendungsentwicklung/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/uml-sequenzdiagramm-fur-fachinformatiker-anwendungsentwicklung/</guid>
+      <description>&lt;h1 id=&#34;uml-sequenzdiagramm-für-fachinformatiker-anwendungsentwicklung&#34;&gt;UML-Sequenzdiagramm (für Fachinformatiker Anwendungsentwicklung)&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UML-Zustandsdiagramm (für Fachinformatiker Anwendungsentwicklung)</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/uml-zustandsdiagramm-fur-fachinformatiker-anwendungsentwicklung/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/02-planen-mit-geeigneten-modellen/uml-zustandsdiagramm-fur-fachinformatiker-anwendungsentwicklung/</guid>
+      <description>&lt;h1 id=&#34;uml-zustandsdiagramm-für-fachinformatiker-anwendungsentwicklung&#34;&gt;UML-Zustandsdiagramm (für Fachinformatiker Anwendungsentwicklung)&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

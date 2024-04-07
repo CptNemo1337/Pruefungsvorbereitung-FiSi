@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>08 Dokumentation und Überwachung der umgesetzten Maßnahmen durchführen | Hugo Docs</title>
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/index.xml" rel="self" type="application/rss+xml" />
+    <description>08 Dokumentation und Überwachung der umgesetzten Maßnahmen durchführen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>08 Dokumentation und Überwachung der umgesetzten Maßnahmen durchführen</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/</link>
+    </image>
+    
+    <item>
+      <title>Analysetools (z. B. Pakettracer, Wireshark)</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/analysetools-z.-b.-pakettracer-wireshark/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/analysetools-z.-b.-pakettracer-wireshark/</guid>
+      <description>&lt;h1 id=&#34;analysetools-z-b-pakettracer-wireshark&#34;&gt;Analysetools (z. B. Pakettracer, Wireshark)&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Auswertung von Protokolldateien oder Monitoring und die Dokumentation der implementierten Lösungen mit Änderungsverfolgung</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/auswertung-von-protokolldateien-oder-monitoring-und-die-dokumentation-der-implementierten-losungen-mit-anderungsverfolgung/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/auswertung-von-protokolldateien-oder-monitoring-und-die-dokumentation-der-implementierten-losungen-mit-anderungsverfolgung/</guid>
+      <description>&lt;h1 id=&#34;auswertung-von-protokolldateien-oder-monitoring-und-die-dokumentation-der-implementierten-lösungen-mit-änderungsverfolgung&#34;&gt;Auswertung von Protokolldateien oder Monitoring und die Dokumentation der implementierten Lösungen mit Änderungsverfolgung&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Netzwerkmonitoring (z. B. SNMP)</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/netzwerkmonitoring-z.-b.-snmp/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/netzwerkmonitoring-z.-b.-snmp/</guid>
+      <description>&lt;h1 id=&#34;netzwerkmonitoring-z-b-snmp&#34;&gt;Netzwerkmonitoring (z. B. SNMP)&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ping</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/ping/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/ping/</guid>
+      <description>&lt;h1 id=&#34;ping&#34;&gt;Ping&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trace Route</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/trace-route/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/08-dokumentation-und-uberwachung-der-umgesetzten-ma%C3%9Fnahmen-durchfuhren/trace-route/</guid>
+      <description>&lt;h1 id=&#34;trace-route&#34;&gt;Trace Route&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

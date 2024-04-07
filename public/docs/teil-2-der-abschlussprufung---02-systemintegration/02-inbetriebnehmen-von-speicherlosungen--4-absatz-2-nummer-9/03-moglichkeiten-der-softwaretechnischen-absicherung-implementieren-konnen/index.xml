@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>03 Möglichkeiten der softwaretechnischen Absicherung implementieren können | Hugo Docs</title>
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/03-moglichkeiten-der-softwaretechnischen-absicherung-implementieren-konnen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/03-moglichkeiten-der-softwaretechnischen-absicherung-implementieren-konnen/index.xml" rel="self" type="application/rss+xml" />
+    <description>03 Möglichkeiten der softwaretechnischen Absicherung implementieren können</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>03 Möglichkeiten der softwaretechnischen Absicherung implementieren können</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/03-moglichkeiten-der-softwaretechnischen-absicherung-implementieren-konnen/</link>
+    </image>
+    
+    <item>
+      <title>Firewall oder Netzfilter</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/03-moglichkeiten-der-softwaretechnischen-absicherung-implementieren-konnen/firewall-oder-netzfilter/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/03-moglichkeiten-der-softwaretechnischen-absicherung-implementieren-konnen/firewall-oder-netzfilter/</guid>
+      <description>&lt;h1 id=&#34;firewall-oder-netzfilter&#34;&gt;Firewall oder Netzfilter&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portsecurity</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/03-moglichkeiten-der-softwaretechnischen-absicherung-implementieren-konnen/portsecurity/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/03-moglichkeiten-der-softwaretechnischen-absicherung-implementieren-konnen/portsecurity/</guid>
+      <description>&lt;h1 id=&#34;portsecurity&#34;&gt;Portsecurity&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Usermanagement</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/03-moglichkeiten-der-softwaretechnischen-absicherung-implementieren-konnen/usermanagement/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/03-moglichkeiten-der-softwaretechnischen-absicherung-implementieren-konnen/usermanagement/</guid>
+      <description>&lt;h1 id=&#34;usermanagement&#34;&gt;Usermanagement&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verschlüsselung (TPM)</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/03-moglichkeiten-der-softwaretechnischen-absicherung-implementieren-konnen/verschlusselung-tpm/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/02-inbetriebnehmen-von-speicherlosungen--4-absatz-2-nummer-9/03-moglichkeiten-der-softwaretechnischen-absicherung-implementieren-konnen/verschlusselung-tpm/</guid>
+      <description>&lt;h1 id=&#34;verschlüsselung-tpm&#34;&gt;Verschlüsselung (TPM)&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

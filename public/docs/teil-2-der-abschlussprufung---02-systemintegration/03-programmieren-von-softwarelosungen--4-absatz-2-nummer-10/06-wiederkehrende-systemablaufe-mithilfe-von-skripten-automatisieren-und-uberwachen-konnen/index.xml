@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>06 Wiederkehrende Systemabläufe mithilfe von Skripten automatisieren und überwachen können | Hugo Docs</title>
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/06-wiederkehrende-systemablaufe-mithilfe-von-skripten-automatisieren-und-uberwachen-konnen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/06-wiederkehrende-systemablaufe-mithilfe-von-skripten-automatisieren-und-uberwachen-konnen/index.xml" rel="self" type="application/rss+xml" />
+    <description>06 Wiederkehrende Systemabläufe mithilfe von Skripten automatisieren und überwachen können</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>06 Wiederkehrende Systemabläufe mithilfe von Skripten automatisieren und überwachen können</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/06-wiederkehrende-systemablaufe-mithilfe-von-skripten-automatisieren-und-uberwachen-konnen/</link>
+    </image>
+    
+    <item>
+      <title>Shellprogrammierung, z. B. PowerShell, Bash</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/06-wiederkehrende-systemablaufe-mithilfe-von-skripten-automatisieren-und-uberwachen-konnen/shellprogrammierung-z.-b.-powershell-bash/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/06-wiederkehrende-systemablaufe-mithilfe-von-skripten-automatisieren-und-uberwachen-konnen/shellprogrammierung-z.-b.-powershell-bash/</guid>
+      <description>&lt;h1 id=&#34;shellprogrammierung-z-b-powershell-bash&#34;&gt;Shellprogrammierung, z. B. PowerShell, Bash&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skriptprogrammierung, z. B. Python</title>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/06-wiederkehrende-systemablaufe-mithilfe-von-skripten-automatisieren-und-uberwachen-konnen/skriptprogrammierung-z.-b.-python/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/06-wiederkehrende-systemablaufe-mithilfe-von-skripten-automatisieren-und-uberwachen-konnen/skriptprogrammierung-z.-b.-python/</guid>
+      <description>&lt;h1 id=&#34;skriptprogrammierung-z-b-python&#34;&gt;Skriptprogrammierung, z. B. Python&lt;/h1&gt;
+&lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

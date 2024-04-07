@@ -1,3 +1,0 @@
-# SaaS, XaaS ...
-
-Hier könnte Ihr Text stehen
