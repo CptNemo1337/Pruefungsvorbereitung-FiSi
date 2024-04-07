@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Hugo Docs</title>
-    <link>http://localhost:60031/blog/</link>
-      <atom:link href="http://localhost:60031/blog/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/blog/</link>
+      <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Blog</title>
-      <link>http://localhost:60031/blog/</link>
+      <link>http://localhost:1313/blog/</link>
     </image>
     
     <item>
       <title>v2.0.0 Released!</title>
-      <link>http://localhost:60031/blog/v2.0.0/</link>
+      <link>http://localhost:1313/blog/v2.0.0/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/blog/v2.0.0/</guid>
+      <guid>http://localhost:1313/blog/v2.0.0/</guid>
       <description>&lt;p&gt;Hugo v2.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p&gt;
 &lt;p&gt;Highlights include:&lt;/p&gt;
 &lt;ul&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>v1.0.0 Released!</title>
-      <link>http://localhost:60031/blog/v1.0.0/</link>
+      <link>http://localhost:1313/blog/v1.0.0/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/blog/v1.0.0/</guid>
+      <guid>http://localhost:1313/blog/v1.0.0/</guid>
       <description>&lt;p&gt;Hugo v1.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p&gt;
 &lt;p&gt;Highlights include:&lt;/p&gt;
 &lt;ul&gt;

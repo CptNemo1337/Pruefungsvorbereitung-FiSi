@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>03 Festlegen von Schnittstellen und vorhandene Schnittstellen nutzen | Hugo Docs</title>
-    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/</link>
-      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/index.xml" rel="self" type="application/rss+xml" />
     <description>03 Festlegen von Schnittstellen und vorhandene Schnittstellen nutzen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>03 Festlegen von Schnittstellen und vorhandene Schnittstellen nutzen</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/</link>
     </image>
     
     <item>
       <title>API</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/api/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/api/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/api/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/api/</guid>
       <description>&lt;h1 id=&#34;api&#34;&gt;API&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Datenaustauschformate (XML, JSON ...)</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/datenaustauschformate-xml-json-.../</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/datenaustauschformate-xml-json-.../</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/datenaustauschformate-xml-json-.../</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/datenaustauschformate-xml-json-.../</guid>
       <description>&lt;h1 id=&#34;datenaustauschformate-xml-json-&#34;&gt;Datenaustauschformate (XML, JSON &amp;hellip;)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Datenbankverbindung implementieren</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/datenbankverbindung-implementieren/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/datenbankverbindung-implementieren/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/datenbankverbindung-implementieren/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/datenbankverbindung-implementieren/</guid>
       <description>&lt;h1 id=&#34;datenbankverbindung-implementieren&#34;&gt;Datenbankverbindung implementieren&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>SQL</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/sql/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/sql/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/sql/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/03-festlegen-von-schnittstellen-und-vorhandene-schnittstellen-nutzen/sql/</guid>
       <description>&lt;h1 id=&#34;sql&#34;&gt;SQL&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>01 Verschiedene Netzwerkprotokolle je nach Anwendungsbereich und Anforderung auswählen | Hugo Docs</title>
-    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/</link>
-      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/index.xml" rel="self" type="application/rss+xml" />
     <description>01 Verschiedene Netzwerkprotokolle je nach Anwendungsbereich und Anforderung auswählen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>01 Verschiedene Netzwerkprotokolle je nach Anwendungsbereich und Anforderung auswählen</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/</link>
     </image>
     
     <item>
       <title>IPv4 oder IPv6</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/ipv4-oder-ipv6/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/ipv4-oder-ipv6/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/ipv4-oder-ipv6/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/ipv4-oder-ipv6/</guid>
       <description>&lt;h1 id=&#34;ipv4-oder-ipv6&#34;&gt;IPv4 oder IPv6&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>SSL oder TLS (Version)</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/ssl-oder-tls-version/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/ssl-oder-tls-version/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/ssl-oder-tls-version/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/ssl-oder-tls-version/</guid>
       <description>&lt;h1 id=&#34;ssl-oder-tls-version&#34;&gt;SSL oder TLS (Version)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>TCP oder UDP</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/tcp-oder-udp/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/tcp-oder-udp/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/tcp-oder-udp/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/01-verschiedene-netzwerkprotokolle-je-nach-anwendungsbereich-und-anforderung-auswahlen/tcp-oder-udp/</guid>
       <description>&lt;h1 id=&#34;tcp-oder-udp&#34;&gt;TCP oder UDP&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

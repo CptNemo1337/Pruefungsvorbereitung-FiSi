@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:60031/en/authors/</loc>
+    <loc>http://localhost:1313/en/authors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:60031/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:60031/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:60031/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:60031/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:60031/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:60031/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:60031/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:60031/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:60031/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

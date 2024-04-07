@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>01 Schichtenmodelle, z. B. OSI, TCP | Hugo Docs</title>
-    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/</link>
-      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/index.xml" rel="self" type="application/rss+xml" />
     <description>01 Schichtenmodelle, z. B. OSI, TCP</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>01 Schichtenmodelle, z. B. OSI, TCP</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/</link>
     </image>
     
   </channel>

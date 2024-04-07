@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>04 Netzwerkrelevante Dienste administrieren können | Hugo Docs</title>
-    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/</link>
-      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/index.xml" rel="self" type="application/rss+xml" />
     <description>04 Netzwerkrelevante Dienste administrieren können</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>04 Netzwerkrelevante Dienste administrieren können</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/</link>
     </image>
     
     <item>
       <title>DHCP</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dhcp/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dhcp/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dhcp/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dhcp/</guid>
       <description>&lt;h1 id=&#34;dhcp&#34;&gt;DHCP&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>DNS</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dns/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dns/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dns/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dns/</guid>
       <description>&lt;h1 id=&#34;dns&#34;&gt;DNS&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Dynamisches oder statisches Routing</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dynamisches-oder-statisches-routing/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dynamisches-oder-statisches-routing/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dynamisches-oder-statisches-routing/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/dynamisches-oder-statisches-routing/</guid>
       <description>&lt;h1 id=&#34;dynamisches-oder-statisches-routing&#34;&gt;Dynamisches oder statisches Routing&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>First hop redundancy</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/first-hop-redundancy/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/first-hop-redundancy/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/first-hop-redundancy/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/first-hop-redundancy/</guid>
       <description>&lt;h1 id=&#34;first-hop-redundancy&#34;&gt;First hop redundancy&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>Proxy</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/proxy/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/proxy/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/proxy/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/proxy/</guid>
       <description>&lt;h1 id=&#34;proxy&#34;&gt;Proxy&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@
     
     <item>
       <title>QoS</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/qos/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/qos/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/qos/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/qos/</guid>
       <description>&lt;h1 id=&#34;qos&#34;&gt;QoS&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -74,9 +74,9 @@
     
     <item>
       <title>Spanning Tree</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/spanning-tree/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/spanning-tree/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/spanning-tree/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/spanning-tree/</guid>
       <description>&lt;h1 id=&#34;spanning-tree&#34;&gt;Spanning Tree&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -84,9 +84,9 @@
     
     <item>
       <title>VLAN</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/vlan/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/vlan/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/vlan/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/04-netzwerkrelevante-dienste-administrieren-konnen/vlan/</guid>
       <description>&lt;h1 id=&#34;vlan&#34;&gt;VLAN&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

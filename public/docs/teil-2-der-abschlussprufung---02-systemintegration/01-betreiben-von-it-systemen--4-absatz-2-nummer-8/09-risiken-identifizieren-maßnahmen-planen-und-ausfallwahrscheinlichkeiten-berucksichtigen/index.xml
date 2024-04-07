@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>09 Risiken identifizieren, Maßnahmen planen und Ausfallwahrscheinlichkeiten berücksichtigen | Hugo Docs</title>
-    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/</link>
-      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/index.xml" rel="self" type="application/rss+xml" />
     <description>09 Risiken identifizieren, Maßnahmen planen und Ausfallwahrscheinlichkeiten berücksichtigen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>09 Risiken identifizieren, Maßnahmen planen und Ausfallwahrscheinlichkeiten berücksichtigen</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/</link>
     </image>
     
     <item>
       <title>ANR</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/anr/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/anr/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/anr/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/anr/</guid>
       <description>&lt;h1 id=&#34;anr&#34;&gt;ANR&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>MTBF</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/mtbf/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/mtbf/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/mtbf/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/mtbf/</guid>
       <description>&lt;h1 id=&#34;mtbf&#34;&gt;MTBF&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Notfallkonzept (Disaster Recovery)</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/notfallkonzept-disaster-recovery/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/notfallkonzept-disaster-recovery/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/notfallkonzept-disaster-recovery/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/notfallkonzept-disaster-recovery/</guid>
       <description>&lt;h1 id=&#34;notfallkonzept-disaster-recovery&#34;&gt;Notfallkonzept (Disaster Recovery)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>PDCA-Zyklus</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/pdca-zyklus/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/pdca-zyklus/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/pdca-zyklus/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/09-risiken-identifizieren-ma%C3%9Fnahmen-planen-und-ausfallwahrscheinlichkeiten-berucksichtigen/pdca-zyklus/</guid>
       <description>&lt;h1 id=&#34;pdca-zyklus&#34;&gt;PDCA-Zyklus&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>06 Standortübergreifende und -unabhängige Kommunikation situationsgerecht auswählen und einrichten können | Hugo Docs</title>
-    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/</link>
-      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/index.xml" rel="self" type="application/rss+xml" />
     <description>06 Standortübergreifende und -unabhängige Kommunikation situationsgerecht auswählen und einrichten können</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>06 Standortübergreifende und -unabhängige Kommunikation situationsgerecht auswählen und einrichten können</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/</link>
     </image>
     
     <item>
       <title>IPsec</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/ipsec/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/ipsec/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/ipsec/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/ipsec/</guid>
       <description>&lt;h1 id=&#34;ipsec&#34;&gt;IPsec&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Tunnelling</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/tunnelling/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/tunnelling/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/tunnelling/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/tunnelling/</guid>
       <description>&lt;h1 id=&#34;tunnelling&#34;&gt;Tunnelling&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>VPN-Modelle</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/vpn-modelle/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/vpn-modelle/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/vpn-modelle/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/06-standortubergreifende-und--unabhangige-kommunikation-situationsgerecht-auswahlen-und-einrichten-konnen/vpn-modelle/</guid>
       <description>&lt;h1 id=&#34;vpn-modelle&#34;&gt;VPN-Modelle&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

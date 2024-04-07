@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>07. Backupdauer berechnen | Hugo Docs</title>
-    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/</link>
-      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/index.xml" rel="self" type="application/rss+xml" />
     <description>07. Backupdauer berechnen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>07. Backupdauer berechnen</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/</link>
     </image>
     
     <item>
       <title>08. Restore Funktionalität sicherstellen</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/08.-restore-funktionalitat-sicherstellen/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/08.-restore-funktionalitat-sicherstellen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/08.-restore-funktionalitat-sicherstellen/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/08.-restore-funktionalitat-sicherstellen/</guid>
       <description>&lt;h1 id=&#34;08-restore-funktionalität-sicherstellen&#34;&gt;08. Restore Funktionalität sicherstellen&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Blockbasiert, dateibasierter Zugriff</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/blockbasiert-dateibasierter-zugriff/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/blockbasiert-dateibasierter-zugriff/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/blockbasiert-dateibasierter-zugriff/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/blockbasiert-dateibasierter-zugriff/</guid>
       <description>&lt;h1 id=&#34;blockbasiert-dateibasierter-zugriff&#34;&gt;Blockbasiert, dateibasierter Zugriff&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Datenmenge, Speicherbedarf, Komprimierung</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/datenmenge-speicherbedarf-komprimierung/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/datenmenge-speicherbedarf-komprimierung/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/datenmenge-speicherbedarf-komprimierung/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/datenmenge-speicherbedarf-komprimierung/</guid>
       <description>&lt;h1 id=&#34;datenmenge-speicherbedarf-komprimierung&#34;&gt;Datenmenge, Speicherbedarf, Komprimierung&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>etc.</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/etc./</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/etc./</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/etc./</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/etc./</guid>
       <description>&lt;h1 id=&#34;etc&#34;&gt;etc.&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>Geschwindigkeit, Bandbreite</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/geschwindigkeit-bandbreite/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/geschwindigkeit-bandbreite/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/geschwindigkeit-bandbreite/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/geschwindigkeit-bandbreite/</guid>
       <description>&lt;h1 id=&#34;geschwindigkeit-bandbreite&#34;&gt;Geschwindigkeit, Bandbreite&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@
     
     <item>
       <title>Snapshots</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/snapshots/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/snapshots/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/snapshots/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/07.-backupdauer-berechnen/snapshots/</guid>
       <description>&lt;h1 id=&#34;snapshots&#34;&gt;Snapshots&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software) implementieren | Hugo Docs</title>
-    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/</link>
-      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/index.xml" rel="self" type="application/rss+xml" />
     <description>Software) implementieren</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Software) implementieren</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/</link>
     </image>
     
     <item>
       <title>Clustering</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/clustering/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/clustering/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/clustering/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/clustering/</guid>
       <description>&lt;h1 id=&#34;clustering&#34;&gt;Clustering&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Firewall</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/firewall/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/firewall/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/firewall/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/firewall/</guid>
       <description>&lt;h1 id=&#34;firewall&#34;&gt;Firewall&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>IDS oder IPS</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/ids-oder-ips/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/ids-oder-ips/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/ids-oder-ips/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/ids-oder-ips/</guid>
       <description>&lt;h1 id=&#34;ids-oder-ips&#34;&gt;IDS oder IPS&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>System- und Firmwareupdates</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/system--und-firmwareupdates/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/system--und-firmwareupdates/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/system--und-firmwareupdates/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/system--und-firmwareupdates/</guid>
       <description>&lt;h1 id=&#34;system--und-firmwareupdates&#34;&gt;System- und Firmwareupdates&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>Überwachungssysteme</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/uberwachungssysteme/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/uberwachungssysteme/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/uberwachungssysteme/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/uberwachungssysteme/</guid>
       <description>&lt;h1 id=&#34;überwachungssysteme&#34;&gt;Überwachungssysteme&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@
     
     <item>
       <title>Verschlüsselungstechniken</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/verschlusselungstechniken/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/verschlusselungstechniken/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/verschlusselungstechniken/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/verschlusselungstechniken/</guid>
       <description>&lt;h1 id=&#34;verschlüsselungstechniken&#34;&gt;Verschlüsselungstechniken&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -74,9 +74,9 @@
     
     <item>
       <title>Viren- und Spamfilter</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/viren--und-spamfilter/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/viren--und-spamfilter/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/viren--und-spamfilter/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/viren--und-spamfilter/</guid>
       <description>&lt;h1 id=&#34;viren--und-spamfilter&#34;&gt;Viren- und Spamfilter&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -84,9 +84,9 @@
     
     <item>
       <title>Virtualisierungstechniken</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/virtualisierungstechniken/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/virtualisierungstechniken/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/virtualisierungstechniken/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/virtualisierungstechniken/</guid>
       <description>&lt;h1 id=&#34;virtualisierungstechniken&#34;&gt;Virtualisierungstechniken&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -94,9 +94,9 @@
     
     <item>
       <title>Zugriffberechtigungen zu Netzwerkkomponenten und Netzwerkdiensten</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zugriffberechtigungen-zu-netzwerkkomponenten-und-netzwerkdiensten/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zugriffberechtigungen-zu-netzwerkkomponenten-und-netzwerkdiensten/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zugriffberechtigungen-zu-netzwerkkomponenten-und-netzwerkdiensten/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zugriffberechtigungen-zu-netzwerkkomponenten-und-netzwerkdiensten/</guid>
       <description>&lt;h1 id=&#34;zugriffberechtigungen-zu-netzwerkkomponenten-und-netzwerkdiensten&#34;&gt;Zugriffberechtigungen zu Netzwerkkomponenten und Netzwerkdiensten&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -104,9 +104,9 @@
     
     <item>
       <title>Zutritt zu Server- und Betriebsräumen</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zutritt-zu-server--und-betriebsraumen/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zutritt-zu-server--und-betriebsraumen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zutritt-zu-server--und-betriebsraumen/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zutritt-zu-server--und-betriebsraumen/</guid>
       <description>&lt;h1 id=&#34;zutritt-zu-server--und-betriebsräumen&#34;&gt;Zutritt zu Server- und Betriebsräumen&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -114,9 +114,9 @@
     
     <item>
       <title>Zutrittskontrollsystem</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zutrittskontrollsystem/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zutrittskontrollsystem/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zutrittskontrollsystem/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/07-losungen-der-it-sicherheit-in-netzwerken-hardware/software-implementieren/zutrittskontrollsystem/</guid>
       <description>&lt;h1 id=&#34;zutrittskontrollsystem&#34;&gt;Zutrittskontrollsystem&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

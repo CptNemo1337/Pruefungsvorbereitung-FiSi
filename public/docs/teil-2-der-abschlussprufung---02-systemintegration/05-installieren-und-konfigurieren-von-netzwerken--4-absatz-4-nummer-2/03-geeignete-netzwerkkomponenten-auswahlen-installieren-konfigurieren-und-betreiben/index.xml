@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>03 Geeignete Netzwerkkomponenten auswählen, installieren, konfigurieren und betreiben | Hugo Docs</title>
-    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/</link>
-      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/index.xml" rel="self" type="application/rss+xml" />
     <description>03 Geeignete Netzwerkkomponenten auswählen, installieren, konfigurieren und betreiben</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>03 Geeignete Netzwerkkomponenten auswählen, installieren, konfigurieren und betreiben</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/</link>
     </image>
     
     <item>
       <title>Accesspoint</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/accesspoint/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/accesspoint/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/accesspoint/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/accesspoint/</guid>
       <description>&lt;h1 id=&#34;accesspoint&#34;&gt;Accesspoint&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Firewall</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/firewall/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/firewall/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/firewall/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/firewall/</guid>
       <description>&lt;h1 id=&#34;firewall&#34;&gt;Firewall&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Leitungen oder Kabel</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/leitungen-oder-kabel/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/leitungen-oder-kabel/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/leitungen-oder-kabel/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/leitungen-oder-kabel/</guid>
       <description>&lt;h1 id=&#34;leitungen-oder-kabel&#34;&gt;Leitungen oder Kabel&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>Loadbalancer</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/loadbalancer/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/loadbalancer/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/loadbalancer/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/loadbalancer/</guid>
       <description>&lt;h1 id=&#34;loadbalancer&#34;&gt;Loadbalancer&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>Managed Services</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/managed-services/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/managed-services/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/managed-services/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/managed-services/</guid>
       <description>&lt;h1 id=&#34;managed-services&#34;&gt;Managed Services&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@
     
     <item>
       <title>Router</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/router/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/router/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/router/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/router/</guid>
       <description>&lt;h1 id=&#34;router&#34;&gt;Router&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -74,9 +74,9 @@
     
     <item>
       <title>Switches</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/switches/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/switches/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/switches/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/switches/</guid>
       <description>&lt;h1 id=&#34;switches&#34;&gt;Switches&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -84,9 +84,9 @@
     
     <item>
       <title>WAN-Modem (DSL-Modem)</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/wan-modem-dsl-modem/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/wan-modem-dsl-modem/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/wan-modem-dsl-modem/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/wan-modem-dsl-modem/</guid>
       <description>&lt;h1 id=&#34;wan-modem-dsl-modem&#34;&gt;WAN-Modem (DSL-Modem)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -94,9 +94,9 @@
     
     <item>
       <title>WLAN-Controller</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/wlan-controller/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/wlan-controller/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/wlan-controller/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/03-geeignete-netzwerkkomponenten-auswahlen-installieren-konfigurieren-und-betreiben/wlan-controller/</guid>
       <description>&lt;h1 id=&#34;wlan-controller&#34;&gt;WLAN-Controller&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

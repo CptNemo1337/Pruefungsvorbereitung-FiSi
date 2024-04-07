@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>06. Geeignete Methoden und Systeme zur Sicherung und Archivierung vorschlagen und implementieren | Hugo Docs</title>
-    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/</link>
-      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/index.xml" rel="self" type="application/rss+xml" />
     <description>06. Geeignete Methoden und Systeme zur Sicherung und Archivierung vorschlagen und implementieren</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>06. Geeignete Methoden und Systeme zur Sicherung und Archivierung vorschlagen und implementieren</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/</link>
     </image>
     
     <item>
       <title>Aufbewahrungsfristen</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/aufbewahrungsfristen/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/aufbewahrungsfristen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/aufbewahrungsfristen/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/aufbewahrungsfristen/</guid>
       <description>&lt;h1 id=&#34;aufbewahrungsfristen&#34;&gt;Aufbewahrungsfristen&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Aufräumprozesse</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/aufraumprozesse/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/aufraumprozesse/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/aufraumprozesse/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/aufraumprozesse/</guid>
       <description>&lt;h1 id=&#34;aufräumprozesse&#34;&gt;Aufräumprozesse&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Band, Platte, NAS, SAN, Cloud, USB, CD oder DVD etc.</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/band-platte-nas-san-cloud-usb-cd-oder-dvd-etc./</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/band-platte-nas-san-cloud-usb-cd-oder-dvd-etc./</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/band-platte-nas-san-cloud-usb-cd-oder-dvd-etc./</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/band-platte-nas-san-cloud-usb-cd-oder-dvd-etc./</guid>
       <description>&lt;h1 id=&#34;band-platte-nas-san-cloud-usb-cd-oder-dvd-etc&#34;&gt;Band, Platte, NAS, SAN, Cloud, USB, CD oder DVD etc.&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>Blockbasierter vs. dateibasierter Zugriff</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/blockbasierter-vs.-dateibasierter-zugriff/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/blockbasierter-vs.-dateibasierter-zugriff/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/blockbasierter-vs.-dateibasierter-zugriff/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/blockbasierter-vs.-dateibasierter-zugriff/</guid>
       <description>&lt;h1 id=&#34;blockbasierter-vs-dateibasierter-zugriff&#34;&gt;Blockbasierter vs. dateibasierter Zugriff&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>etc.</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/etc./</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/etc./</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/etc./</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/etc./</guid>
       <description>&lt;h1 id=&#34;etc&#34;&gt;etc.&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@
     
     <item>
       <title>Lagerung</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/lagerung/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/lagerung/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/lagerung/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/lagerung/</guid>
       <description>&lt;h1 id=&#34;lagerung&#34;&gt;Lagerung&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -74,9 +74,9 @@
     
     <item>
       <title>Snapshots</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/snapshots/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/snapshots/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/snapshots/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/snapshots/</guid>
       <description>&lt;h1 id=&#34;snapshots&#34;&gt;Snapshots&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -84,9 +84,9 @@
     
     <item>
       <title>Veränderlich oder unveränderlich</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/veranderlich-oder-unveranderlich/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/veranderlich-oder-unveranderlich/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/veranderlich-oder-unveranderlich/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/veranderlich-oder-unveranderlich/</guid>
       <description>&lt;h1 id=&#34;veränderlich-oder-unveränderlich&#34;&gt;Veränderlich oder unveränderlich&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -94,9 +94,9 @@
     
     <item>
       <title>Versionierung</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/versionierung/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/versionierung/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/versionierung/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/06.-geeignete-methoden-und-systeme-zur-sicherung-und-archivierung-vorschlagen-und-implementieren/versionierung/</guid>
       <description>&lt;h1 id=&#34;versionierung&#34;&gt;Versionierung&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

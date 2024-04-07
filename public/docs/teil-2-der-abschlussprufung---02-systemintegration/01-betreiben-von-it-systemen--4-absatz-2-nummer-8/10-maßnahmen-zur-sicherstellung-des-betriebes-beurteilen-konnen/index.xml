@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können | Hugo Docs</title>
-    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/</link>
-      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/</link>
+      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/index.xml" rel="self" type="application/rss+xml" />
     <description>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/</link>
     </image>
     
     <item>
       <title>Elektrotechnisch (USV)</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/elektrotechnisch-usv/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/elektrotechnisch-usv/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/elektrotechnisch-usv/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/elektrotechnisch-usv/</guid>
       <description>&lt;h1 id=&#34;elektrotechnisch-usv&#34;&gt;Elektrotechnisch (USV)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Hardwaretechnisch (Redundanzen), RAID</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</guid>
       <description>&lt;h1 id=&#34;hardwaretechnisch-redundanzen-raid&#34;&gt;Hardwaretechnisch (Redundanzen), RAID&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Softwaretechnisch (Back-ups ...)</title>
-      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/softwaretechnisch-back-ups-.../</link>
+      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/softwaretechnisch-back-ups-.../</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/softwaretechnisch-back-ups-.../</guid>
+      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/softwaretechnisch-back-ups-.../</guid>
       <description>&lt;h1 id=&#34;softwaretechnisch-back-ups-&#34;&gt;Softwaretechnisch (Back-ups &amp;hellip;)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

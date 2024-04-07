@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Showcase | Hugo Docs</title>
-    <link>http://localhost:60031/showcase/</link>
-      <atom:link href="http://localhost:60031/showcase/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/showcase/</link>
+      <atom:link href="http://localhost:1313/showcase/index.xml" rel="self" type="application/rss+xml" />
     <description>Showcase</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60031/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Showcase</title>
-      <link>http://localhost:60031/showcase/</link>
+      <link>http://localhost:1313/showcase/</link>
     </image>
     
     <item>
       <title>Nvidia</title>
-      <link>http://localhost:60031/showcase/nvidia/</link>
+      <link>http://localhost:1313/showcase/nvidia/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60031/showcase/nvidia/</guid>
+      <guid>http://localhost:1313/showcase/nvidia/</guid>
       <description></description>
     </item>
     
