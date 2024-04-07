@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>03 Datenbanken modellieren und erstellen | Hugo Docs</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/</link><atom:link href="https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/index.xml" rel="self" type="application/rss+xml"/><description>03 Datenbanken modellieren und erstellen</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><image><url>https://ap.cptnemo1337.de/media/logo.svg</url><title>03 Datenbanken modellieren und erstellen</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/</link></image><item><title>Abfrage über mehrere Tabellen (JOIN)</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/abfrage-uber-mehrere-tabellen-join/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/abfrage-uber-mehrere-tabellen-join/</guid><description>&lt;h1 id="abfrage-über-mehrere-tabellen-join">Abfrage über mehrere Tabellen (JOIN)&lt;/h1>
+&lt;h2 id="einleitung">Einleitung&lt;/h2>
+&lt;p>&lt;strong>JOINs&lt;/strong> in SQL werden verwendet, um Zeilen aus zwei oder mehr Tabellen zu kombinieren, basierend auf einer verwandten Spalte zwischen ihnen. Das Verständnis von JOINs ist entscheidend, um komplexe Abfragen zu erstellen und relationale Datenbanken effektiv zu nutzen.&lt;/p>
+&lt;h2 id="grundtypen-von-joins">Grundtypen von JOINs&lt;/h2>
+&lt;h3 id="inner-join">INNER JOIN&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Gibt Datensätze zurück, die in beiden Tabellen eine Übereinstimmung haben.&lt;/li>
+&lt;li>&lt;strong>Syntax&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalten&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">INNER&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">JOIN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle2&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle1&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">gemeinsame_spalte&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle2&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">gemeinsame_spalte&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">Name&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">Bezeichnung&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">INNER&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">JOIN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">AbteilungsID&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">ID&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h3 id="left-join-oder-left-outer-join">LEFT JOIN (oder LEFT OUTER JOIN)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Gibt alle Datensätze aus der linken Tabelle und die übereinstimmenden Datensätze aus der rechten Tabelle zurück.&lt;/li>
+&lt;li>&lt;strong>Syntax&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalten&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">LEFT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">JOIN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle2&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle1&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">gemeinsame_spalte&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle2&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">gemeinsame_spalte&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">Name&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">Bezeichnung&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">LEFT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">JOIN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">AbteilungsID&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">ID&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h3 id="right-join-oder-right-outer-join">RIGHT JOIN (oder RIGHT OUTER JOIN)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Gibt alle Datensätze aus der rechten Tabelle und die übereinstimmenden Datensätze aus der linken Tabelle zurück.&lt;/li>
+&lt;li>&lt;strong>Syntax&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalten&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">RIGHT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">JOIN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle2&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle1&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">gemeinsame_spalte&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle2&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">gemeinsame_spalte&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">Name&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">Bezeichnung&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">RIGHT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">JOIN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">AbteilungsID&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">ID&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h3 id="full-join-oder-full-outer-join">FULL JOIN (oder FULL OUTER JOIN)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Gibt alle Datensätze zurück, wenn es eine Übereinstimmung in einer der Tabellen gibt.&lt;/li>
+&lt;li>&lt;strong>Syntax&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalten&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FULL&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">JOIN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle2&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle1&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">gemeinsame_spalte&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle2&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">gemeinsame_spalte&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">Name&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">Bezeichnung&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FULL&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">JOIN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Mitarbeiter&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">AbteilungsID&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Abteilung&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">ID&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h2 id="spezialfälle-von-joins">Spezialfälle von JOINs&lt;/h2>
+&lt;h3 id="selbst-join">Selbst-JOIN&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Ein Selbst-JOIN wird verwendet, um eine Tabelle mit sich selbst zu verbinden, als ob sie zwei separate Tabellen wären.&lt;/li>
+&lt;li>&lt;strong>Anwendungsfall&lt;/strong>: Geeignet, um relationale Daten innerhalb derselben Tabelle zu vergleichen oder zu verknüpfen.&lt;/li>
+&lt;/ul>
+&lt;h3 id="kreuz-join-cross-join">Kreuz-JOIN (CROSS JOIN)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Erzeugt ein kartesisches Produkt der beiden Tabellen, d.h., jede Zeile der ersten Tabelle wird mit jeder Zeile der zweiten Tabelle kombiniert.&lt;/li>
+&lt;li>&lt;strong>Anwendungsfall&lt;/strong>: Nützlich in speziellen Situationen, wo jede Kombination von Datensätzen benötigt wird.&lt;/li>
+&lt;/ul>
+&lt;h2 id="best-practices">Best Practices&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Indexierung&lt;/strong>: Stelle sicher, dass die Spalten, die für JOINs verwendet werden, indexiert sind, um die Abfrageleistung zu verbessern.&lt;/li>
+&lt;li>&lt;strong>Vermeide unnötige Spalten&lt;/strong>: Wähle nur die Spalten aus, die du tatsächlich benötigst, um die Effizienz der Abfrage zu erhöhen.&lt;/li>
+&lt;li>&lt;strong>Klare Aliase&lt;/strong>: Verwende Aliase für Tabellennamen, um deine SQL-Statements klarer und leichter lesbar zu machen.&lt;/li>
+&lt;/ul>
+&lt;h2 id="fazit">Fazit&lt;/h2>
+&lt;p>JOINs sind ein mächtiges Werkzeug in SQL, um komplexe Datenabfragen über mehrere Tabellen hinweg zu ermöglichen. Durch das Verständnis der verschiedenen Arten von JOINs und deren Anwendung kannst du umfangreiche Datenrelation&lt;/p></description></item><item><title>Aggregat-Funktionen, z.B. SUM</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/aggregat-funktionen-z.b.-sum/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/aggregat-funktionen-z.b.-sum/</guid><description>&lt;h1 id="aggregat-funktionen-zb-sum">Aggregat-Funktionen, z.B. SUM&lt;/h1>
+&lt;p>Aggregatfunktionen in SQL sind mächtige Werkzeuge, die es ermöglichen, statistische Informationen aus Datensätzen zu berechnen. Sie werden typischerweise in Kombination mit der &lt;code>GROUP BY&lt;/code>-Klausel verwendet, können aber auch ohne sie angewendet werden.&lt;/p>
+&lt;h2 id="sum">SUM&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Addiert die Werte einer Spalte.&lt;/li>
+&lt;li>&lt;strong>Syntax&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">SUM&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">spaltenname&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">SUM&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">gehalt&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>Berechnet die Gesamtsumme der Gehälter aller Mitarbeiter.&lt;/li>
+&lt;/ul>
+&lt;h2 id="avg">AVG&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Berechnet den Durchschnittswert einer Spalte.&lt;/li>
+&lt;li>&lt;strong>Syntax&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">AVG&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">spaltenname&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">AVG&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">gehalt&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>Ermittelt das durchschnittliche Gehalt der Mitarbeiter.&lt;/li>
+&lt;/ul>
+&lt;h2 id="count">COUNT&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Zählt die Anzahl der Zeilen.&lt;/li>
+&lt;li>&lt;strong>Syntax&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">COUNT&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">spaltenname&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">COUNT&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>Zählt die Anzahl aller Mitarbeiter in der Tabelle.&lt;/li>
+&lt;/ul>
+&lt;h2 id="max">MAX&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Findet den höchsten Wert in einer Spalte.&lt;/li>
+&lt;li>&lt;strong>Syntax&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">MAX&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">spaltenname&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">MAX&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">gehalt&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>Ermittelt das höchste Gehalt unter den Mitarbeitern.&lt;/li>
+&lt;/ul>
+&lt;h2 id="min">MIN&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Findet den niedrigsten Wert in einer Spalte.&lt;/li>
+&lt;li>&lt;strong>Syntax&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">MIN&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">spaltenname&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">MIN&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">gehalt&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>Ermittelt das niedrigste Gehalt unter den Mitarbeitern.&lt;/li>
+&lt;/ul>
+&lt;h2 id="group-by">GROUP BY&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Wird verwendet, um Ergebnissets in Gruppen aufzuteilen, über die dann Aggregatfunktionen angewendet werden können.&lt;/li>
+&lt;li>&lt;strong>Syntax&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalte1&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">AGGREGATFUNKTION&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">spalte2&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">GROUP&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BY&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalte1&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">abteilung&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">SUM&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">gehalt&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">GROUP&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BY&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">abteilung&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>Zeigt die Gesamtsumme der Gehälter je Abteilung.&lt;/li>
+&lt;/ul>
+&lt;h2 id="having">HAVING&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Ermöglicht das Filtern von Gruppen basierend auf einem Kriterium, ähnlich der &lt;code>WHERE&lt;/code>-Klausel, die jedoch auf einzelne Datensätze angewendet wird.&lt;/li>
+&lt;li>&lt;strong>Syntax&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalte1&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">AGGREGATFUNKTION&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">spalte2&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">GROUP&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BY&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalte1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">HAVING&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">AGGREGATFUNKTION&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">spalte2&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">&amp;gt;&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Wert&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">abteilung&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">AVG&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">gehalt&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">GROUP&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BY&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">abteilung&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">HAVING&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">AVG&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">gehalt&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">&amp;gt;&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">5000&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>Listet Abteilungen mit einem durchschnittlichen Gehalt von mehr als 5000.&lt;/li>
+&lt;/ul>
+&lt;h2 id="wichtige-hinweise">Wichtige Hinweise&lt;/h2>
+&lt;ul>
+&lt;li>Aggregatfunktionen ignorieren &lt;code>NULL&lt;/code>-Werte in der Berechnung, außer &lt;code>COUNT(*)&lt;/code>.&lt;/li>
+&lt;li>&lt;code>COUNT(spaltenname)&lt;/code> zählt Einträge in der spezifizierten Spalte, die nicht &lt;code>NULL&lt;/code> sind.&lt;/li>
+&lt;li>Aggregatfunktionen können nicht nur auf numerische Daten angewendet werden. Zum Beispiel kann &lt;code>MAX&lt;/code> oder &lt;code>MIN&lt;/code> auch auf Datums- oder Textdaten angewendet werden, um den neuesten Zeitpunkt oder den alphabetisch ersten/letzten Wert zu finden.&lt;/li>
+&lt;/ul>
+&lt;h2 id="fazit">Fazit&lt;/h2>
+&lt;p>Aggregatfunktionen sind unverzichtbare Werkzeuge in SQL für die Datenanalyse. Durch ihre Anwendung&lt;/p>
+&lt;p>können wichtige Einsichten in Datenmengen gewonnen werden, was für Berichterstattungen, Datenzusammenfassungen und Entscheidungsfindungen von entscheidender Bedeutung ist.&lt;/p></description></item><item><title>Ausdrücke und Bedingungen</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/ausdrucke-und-bedingungen/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/ausdrucke-und-bedingungen/</guid><description>&lt;h1 id="ausdrücke-und-bedingungen-operatoren">Ausdrücke und Bedingungen (Operatoren)&lt;/h1>
+&lt;p>Ausdrücke und Bedingungen in SQL werden verwendet, um spezifische Datensätze zu filtern, Daten zu modifizieren oder Berechnungen durchzuführen. Sie sind entscheidend für die Erstellung effektiver und effizienter SQL-Abfragen.&lt;/p>
+&lt;h2 id="grundlegende-vergleichsoperatoren">Grundlegende Vergleichsoperatoren&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>=&lt;/strong> (gleich)&lt;/li>
+&lt;li>&lt;strong>&amp;lt;&amp;gt;&lt;/strong> oder &lt;strong>!=&lt;/strong> (ungleich)&lt;/li>
+&lt;li>&lt;strong>&amp;lt;&lt;/strong> (kleiner als)&lt;/li>
+&lt;li>&lt;strong>&amp;gt;&lt;/strong> (größer als)&lt;/li>
+&lt;li>&lt;strong>&amp;lt;=&lt;/strong> (kleiner gleich)&lt;/li>
+&lt;li>&lt;strong>&amp;gt;=&lt;/strong> (größer gleich)&lt;/li>
+&lt;/ul>
+&lt;h3 id="beispiel">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">alter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">&amp;gt;=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">30&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Wählt alle Mitarbeiter aus, die 30 Jahre oder älter sind.&lt;/p>
+&lt;h2 id="logische-operatoren">Logische Operatoren&lt;/h2>
+&lt;p>Logische Operatoren werden verwendet, um mehrere Bedingungen in einer SQL-Abfrage zu kombinieren.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>AND&lt;/strong>: Gibt &lt;code>TRUE&lt;/code> zurück, wenn beide Bedingungen wahr sind.&lt;/li>
+&lt;li>&lt;strong>OR&lt;/strong>: Gibt &lt;code>TRUE&lt;/code> zurück, wenn mindestens eine der Bedingungen wahr ist.&lt;/li>
+&lt;li>&lt;strong>NOT&lt;/strong>: Kehrt das Ergebnis einer Bedingung um.&lt;/li>
+&lt;/ul>
+&lt;h3 id="beispiel-1">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">alter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">&amp;gt;=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">30&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">AND&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">geschlecht&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="s1">&amp;#39;M&amp;#39;&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Wählt alle männlichen Mitarbeiter aus, die 30 Jahre oder älter sind.&lt;/p>
+&lt;h2 id="between">BETWEEN&lt;/h2>
+&lt;p>Der &lt;code>BETWEEN&lt;/code>-Operator wird verwendet, um Werte innerhalb eines bestimmten Bereichs auszuwählen. Er umfasst beide Endwerte.&lt;/p>
+&lt;h3 id="beispiel-2">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">gehalt&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BETWEEN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">2000&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">AND&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">3000&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Wählt Mitarbeiter aus, deren Gehalt zwischen 2000 und 3000 liegt.&lt;/p>
+&lt;h2 id="in">IN&lt;/h2>
+&lt;p>Der &lt;code>IN&lt;/code>-Operator ermöglicht die Auswahl von Datensätzen, deren Wert einer in einer Liste angegebenen Wert entspricht.&lt;/p>
+&lt;h3 id="beispiel-3">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">abteilung_id&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">IN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">3&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">5&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">7&lt;/span>&lt;span class="p">);&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Wählt Mitarbeiter aus, die in den Abteilungen mit den IDs 3, 5 oder 7 arbeiten.&lt;/p>
+&lt;h2 id="like">LIKE&lt;/h2>
+&lt;p>Der &lt;code>LIKE&lt;/code>-Operator wird für die Suche nach einem spezifizierten Muster in einer Spalte verwendet.&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>%&lt;/code> repräsentiert null, einen oder mehrere Zeichen.&lt;/li>
+&lt;li>&lt;code>_&lt;/code> repräsentiert genau ein Zeichen.&lt;/li>
+&lt;/ul>
+&lt;h3 id="beispiel-4">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">LIKE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="s1">&amp;#39;Ma%&amp;#39;&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Wählt Mitarbeiter aus, deren Name mit &amp;ldquo;Ma&amp;rdquo; beginnt.&lt;/p>
+&lt;h2 id="is-null">IS NULL&lt;/h2>
+&lt;p>Mit &lt;code>IS NULL&lt;/code> können Zeilen ausgewählt werden, in denen keine Daten in einer Spalte vorhanden sind.&lt;/p>
+&lt;h3 id="beispiel-5">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">adresse&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">IS&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">NULL&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Wählt Mitarbeiter aus, deren Adresse nicht angegeben ist.&lt;/p>
+&lt;h2 id="case">CASE&lt;/h2>
+&lt;p>&lt;code>CASE&lt;/code> wird verwendet, um bedingte Anweisungen in SQL-Abfragen zu ermöglichen, ähnlich wie if-else-Anweisungen in anderen Programmiersprachen.&lt;/p>
+&lt;h3 id="beispiel-6">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="k">CASE&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="k">WHEN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">gehalt&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">&amp;lt;=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">2000&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">THEN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="s1">&amp;#39;Niedrig&amp;#39;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="k">WHEN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">gehalt&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BETWEEN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">2001&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">AND&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">5000&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">THEN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="s1">&amp;#39;Mittel&amp;#39;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="k">ELSE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="s1">&amp;#39;Hoch&amp;#39;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="k">END&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">AS&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">Gehaltsklasse&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Ordnet Mitarbeiter basierend auf ihrem Gehalt in Kategorien ein (Niedrig, Mittel, Hoch).&lt;/p>
+&lt;h2 id="fazit">Fazit&lt;/h2>
+&lt;p>Ausdrücke und Bedingungen in SQL sind mächtige Werkzeuge zur Datenmanipulation und -abfrage. Durch ihre effektive Nutzung können komplexe Datenabfragen erstellt, Daten gefiltert und spezifische Berechnungen durchgeführt werden.&lt;/p></description></item><item><title>Datenbankabfrage, Datenpflege</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/datenbankabfrage-datenpflege/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/datenbankabfrage-datenpflege/</guid><description>&lt;h1 id="datenbankabfrage-datenpflege">Datenbankabfrage, Datenpflege&lt;/h1>
+&lt;h2 id="grundlagen">Grundlagen&lt;/h2>
+&lt;h2 id="select-befehl">SELECT-Befehl&lt;/h2>
+&lt;p>Der &lt;strong>SELECT&lt;/strong>-Befehl wird verwendet, um Daten aus einer oder mehreren Tabellen zu lesen.&lt;/p>
+&lt;h3 id="syntax">Syntax&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spaltenname1&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spaltenname2&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">...&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabellenname&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>&lt;strong>SELECT&lt;/strong> gibt an, welche Spalten angezeigt werden sollen.&lt;/li>
+&lt;li>&lt;strong>FROM&lt;/strong> spezifiziert, aus welcher Tabelle die Daten abgefragt werden.&lt;/li>
+&lt;/ul>
+&lt;h3 id="beispiel">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">alter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">personen&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="where-klausel">WHERE-Klausel&lt;/h2>
+&lt;p>Die &lt;strong>WHERE&lt;/strong>-Klausel wird verwendet, um die Datensätze zu filtern und nur die Datensätze zurückzugeben, die eine bestimmte Bedingung erfüllen.&lt;/p>
+&lt;h3 id="syntax-1">Syntax&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spaltenname1&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spaltenname2&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">...&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabellenname&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">bedingung&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="beispiel-1">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">alter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">personen&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">alter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">&amp;gt;&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">18&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="join">JOIN&lt;/h2>
+&lt;p>&lt;strong>JOIN&lt;/strong> wird verwendet, um Zeilen aus zwei oder mehr Tabellen basierend auf einer verwandten Spalte zwischen ihnen zu kombinieren.&lt;/p>
+&lt;h3 id="arten-von-joins">Arten von JOINs&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>INNER JOIN&lt;/strong>: Gibt Datensätze zurück, die in beiden Tabellen eine Übereinstimmung haben.&lt;/li>
+&lt;li>&lt;strong>LEFT JOIN&lt;/strong> (oder &lt;strong>LEFT OUTER JOIN&lt;/strong>): Gibt alle Datensätze aus der linken Tabelle und die übereinstimmenden Datensätze aus der rechten Tabelle zurück.&lt;/li>
+&lt;li>&lt;strong>RIGHT JOIN&lt;/strong> (oder &lt;strong>RIGHT OUTER JOIN&lt;/strong>): Gibt alle Datensätze aus der rechten Tabelle und die übereinstimmenden Datensätze aus der linken Tabelle zurück.&lt;/li>
+&lt;li>&lt;strong>FULL JOIN&lt;/strong> (oder &lt;strong>FULL OUTER JOIN&lt;/strong>): Gibt alle Datensätze zurück, wenn es eine Übereinstimmung in einer der Tabellen gibt.&lt;/li>
+&lt;/ul>
+&lt;h3 id="beispiel-2">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">personen&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">bestellungen&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">produkt&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">personen&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">INNER&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">JOIN&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">bestellungen&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">personen&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">id&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">bestellungen&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">person_id&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="group-by">GROUP BY&lt;/h2>
+&lt;p>&lt;strong>GROUP BY&lt;/strong> wird verwendet, um ähnliche Datensätze in Gruppen zusammenzufassen.&lt;/p>
+&lt;h3 id="syntax-2">Syntax&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalte1&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">AGGREGATFUNKTION&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">spalte2&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">bedingung&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">GROUP&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BY&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalte1&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="beispiel-3">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">alter&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">COUNT&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">personen&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">GROUP&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BY&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">alter&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="having">HAVING&lt;/h2>
+&lt;p>&lt;strong>HAVING&lt;/strong> wird verwendet, um Bedingungen an die Gruppierungsergebnisse anzuhängen, ähnlich wie WHERE, aber für Gruppen.&lt;/p>
+&lt;h3 id="syntax-3">Syntax&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalte1&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">AGGREGATFUNKTION&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">spalte2&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabelle&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">bedingung&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">GROUP&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BY&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spalte1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">HAVING&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">bedingung_fuer_gruppe&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="beispiel-4">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">alter&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">COUNT&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">personen&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">GROUP&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BY&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">alter&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">HAVING&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">COUNT&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">&amp;gt;&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">2&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="order-by">ORDER BY&lt;/h2>
+&lt;p>&lt;strong>ORDER BY&lt;/strong> wird verwendet, um die Ergebnisse einer Abfrage in aufsteigender oder absteigender Reihenfolge zu sortieren.&lt;/p>
+&lt;h3 id="syntax-4">Syntax&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spaltenname1&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spaltenname2&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">...&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">tabellenname&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">ORDER&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BY&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">spaltenname1&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="k">ASC&lt;/span>&lt;span class="o">|&lt;/span>&lt;span class="k">DESC&lt;/span>&lt;span class="p">];&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="beispiel-5">Beispiel&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">alter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">personen&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">ORDER&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">BY&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">alter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">DESC&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>ER-Diagramm, Attribute, Beziehungen, Kardinalitäten, relerenzielle Integrität, Aktualisierungsweitergabe. Löschweitergabe, Primärschlüssel, Fremdschlüssel</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/er-diagramm-attribute-beziehungen-kardinalitaten-relerenzielle-integritat-aktualisierungsweitergabe.-loschweitergabe-primarschlussel-fremdschlussel/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/er-diagramm-attribute-beziehungen-kardinalitaten-relerenzielle-integritat-aktualisierungsweitergabe.-loschweitergabe-primarschlussel-fremdschlussel/</guid><description>&lt;h1 id="er-diagramm-attribute-beziehungen-kardinalitäten-relerenzielle-integrität-aktualisierungsweitergabe-löschweitergabe-primärschlüssel-fremdschlüssel">ER-Diagramm, Attribute, Beziehungen, Kardinalitäten, relerenzielle Integrität, Aktualisierungsweitergabe. Löschweitergabe, Primärschlüssel, Fremdschlüssel&lt;/h1>
+&lt;h3 id="er-diagramme-und-datenbankdesign">ER-Diagramme und Datenbankdesign&lt;/h3>
+&lt;h4 id="1-einführung-in-er-diagramme">1. Einführung in ER-Diagramme&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Ein Entity-Relationship-Diagramm (ER-Diagramm) bildet die strukturellen Beziehungen zwischen den Daten in einer Datenbank ab. Es hilft beim Design und der Visualisierung von Datenbankstrukturen.&lt;/li>
+&lt;li>&lt;strong>Bestandteile&lt;/strong>: Entitäten (Datenobjekte), Beziehungen (Verbindungen zwischen Entitäten), Attribute (Eigenschaften von Entitäten).&lt;/li>
+&lt;/ul>
+&lt;h4 id="2-entitäten-und-attribute">2. Entitäten und Attribute&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Entitäten&lt;/strong>: Repräsentieren Objekte oder Konzepte mit Datenwert, z.B. &amp;ldquo;Student&amp;rdquo; oder &amp;ldquo;Kurs&amp;rdquo;.&lt;/li>
+&lt;li>&lt;strong>Attribute&lt;/strong>: Charakteristika oder Eigenschaften einer Entität, z.B. Name, Alter eines Studenten. Primärschlüssel (einzigartiges Identifikationsmerkmal) sind hervorgehoben.&lt;/li>
+&lt;/ul>
+&lt;h4 id="3-beziehungen-und-kardinalitäten">3. Beziehungen und Kardinalitäten&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Beziehungstypen&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Eins-zu-eins (1:1)&lt;/strong>: Jede Entität A ist mit höchstens einer Entität B verbunden und umgekehrt.&lt;/li>
+&lt;li>&lt;strong>Eins-zu-viele (1:n)&lt;/strong>: Eine Entität aus A kann mit mehreren Entitäten aus B verbunden sein, aber eine Entität aus B ist nur mit einer Entität aus A verbunden.&lt;/li>
+&lt;li>&lt;strong>Viele-zu-viele (n:m)&lt;/strong>: Entitäten aus A können mit mehreren Entitäten aus B verbunden sein und umgekehrt.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="4-referenzielle-integrität-und-schlüsselkonzepte">4. Referenzielle Integrität und Schlüsselkonzepte&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Referenzielle Integrität&lt;/strong>: Sicherstellung, dass jede Fremdschlüsselbeziehung in der Datenbank eine entsprechende Primärschlüsseleintragung hat.&lt;/li>
+&lt;li>&lt;strong>Primärschlüssel&lt;/strong>: Einzigartiges Attribut, das jede Entität in einer Entitätsmenge identifiziert.&lt;/li>
+&lt;li>&lt;strong>Fremdschlüssel&lt;/strong>: Attribut, das in einer anderen Entität als Primärschlüssel dient, um Beziehungen zu verknüpfen.&lt;/li>
+&lt;/ul>
+&lt;h4 id="5-aktualisierungs--und-löschweitergabe">5. Aktualisierungs- und Löschweitergabe&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Aktualisierungsweitergabe&lt;/strong>: Regeln, die definieren, was bei der Aktualisierung von Primärschlüsseln passiert.&lt;/li>
+&lt;li>&lt;strong>Löschweitergabe&lt;/strong>: Regeln, die bestimmen, wie mit den verknüpften Daten umgegangen wird, wenn eine Entität gelöscht wird.&lt;/li>
+&lt;/ul>
+&lt;image src="https://www.herrmix.de/dokuwiki/lib/exe/fetch.php?media=datenbanken:relational:er-beispiel2.png" alt="ER-Diagramm">
+&lt;p>Bildquelle - 06.04.24:
+&lt;a href="https://www.herrmix.de/dokuwiki/lib/exe/fetch.php?media=datenbanken:relational:er-beispiel2.png" target="_blank" rel="noopener">https://www.herrmix.de/dokuwiki/lib/exe/fetch.php?media=datenbanken:relational:er-beispiel2.png&lt;/a>&lt;/p>
+&lt;p>Erklärvideo:
+&lt;a href="https://www.youtube.com/watch?v=fVbYB_34v-E" target="_blank" rel="noopener">Youtube&lt;/a>&lt;/p></description></item><item><title>Normalisieren, 1. bis 3. Normalform</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/normalisieren-1.-bis-3.-normalform/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/normalisieren-1.-bis-3.-normalform/</guid><description>&lt;h2 id="normalisieren-1-bis-3-normalform">Normalisieren, 1. bis 3. Normalform&lt;/h2>
+&lt;p>Wir verwenden ein „klassisches&amp;quot; Beispiel, das so oder ähnlich in vielen IHK-Prüfungen genutzt wird.&lt;/p>
+&lt;ul>
+&lt;li>Umfeld: Kunden bestellen Artikel aus verschiedenen Artikelgruppen.&lt;/li>
+&lt;li>Ein Kunde kann mehrere Bestellungen durchführen. Eine Bestellung wird immer von genau einem Kunden getätigt.&lt;/li>
+&lt;li>Zu den Kunden werden Name und Adresse erfasst.&lt;/li>
+&lt;li>Jede Bestellung hat ein Bestelldatum.&lt;/li>
+&lt;li>In einer Bestellung können mehrere Artikel enthalten sein. Ein Artikel kann auch in mehreren Bestellungen auftauchen.&lt;/li>
+&lt;li>Artikel haben eine Bezeichnung und einen Preis.&lt;/li>
+&lt;li>Ein Artikel kann zu genau einer Artikelgruppe gehören. Eine Artikelgruppe kann mehrere Artikel enthalten.&lt;/li>
+&lt;li>Artikelgruppen haben eine Bezeichnung und einen Rabatt.&lt;/li>
+&lt;/ul>
+&lt;h2 id="ausgangssituation-nicht-normalisiert">Ausgangssituation (nicht normalisiert)&lt;/h2>
+&lt;ul>
+&lt;li>Alle Bestellungen stehen in einer einzelnen Tabelle. Jede Bestellung steht komplett inkl. mehrerer Artikel in einer Zeile. Die Adresse steht komplett in einem einzigen Attribut.&lt;/li>
+&lt;li>Beispiele für Probleme: Viele Redundanzen (z.B. Adressen, Artikelbezeichnungen), Sortierung nach Ort ist nicht möglich, Selektion aller gekaufter Fernseher ist nicht möglich.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://it-berufe-podcast.de/Abbildungen/Normalform0.jpg" alt="Nicht normalisierte Tabelle mit Kunden, Bestellungen und Artikeln" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="1-normalform">1. Normalform&lt;/h2>
+&lt;ul>
+&lt;li>Definition: Es gibt 1) nur atomare Attribute und 2) keine Wiederholungsgruppen.&lt;/li>
+&lt;li>„the key&amp;quot;: Alle Datensätze sind eindeutig über einen Primärschlüssel identifizierbar.&lt;/li>
+&lt;li>Durch 2) werden Redundanzen zunächst eingeführt, da aus einer Zeile nun mehrere Zeilen mit redundanten Inhalten werden.&lt;/li>
+&lt;li>Vorgehen: Nicht-atomare Attribute auf mehrere Spalten aufteilen. Wiederholungsgruppen auf mehrere Zeilen aufteilen.&lt;/li>
+&lt;li>Ein Datensatz ist über einen zusammengesetzten Schlüssel aus drei Attributen identifizierbar.&lt;/li>
+&lt;li>Redundanzen: Kunden-, Bestell- und Artikeldaten sind jeweils mehrfach vorhanden.&lt;/li>
+&lt;li>Ursache: Tabelle enthält drei Konzepte (&lt;code>Kunde&lt;/code>, &lt;code>Bestellung&lt;/code>, &lt;code>Artikel&lt;/code>), die alle nur von Teilen des Schlüssels abhängen und nicht vom gesamten.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://it-berufe-podcast.de/Abbildungen/Normalform1.jpg" alt="Tabelle mit Kunden, Bestellungen und Artikeln in 1. Normalform" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="2-normalform">2. Normalform&lt;/h2>
+&lt;ul>
+&lt;li>Definition: (1. Normalform erfüllt und) alle Attribute sind voll funktional vom Primärschlüssel abhängig.&lt;/li>
+&lt;li>„the whole key&amp;quot;: Alle Attribute hängen vom gesamten Schlüssel ab (und nicht nur von seinen Teilen).&lt;/li>
+&lt;li>Vorgehen: Alle drei Konzepte auf einzelne Tabellen aufteilen. Fremdschlüssel für Referenzen einführen. Zuordnungstabelle &lt;code>Position&lt;/code>mit zusammengesetztem Schlüssel aus Fremdschlüsseln einführen.&lt;/li>
+&lt;li>m:n-Beziehungen werden aufgelöst.&lt;/li>
+&lt;li>&lt;code>Menge&lt;/code> gehört an die Kombination aus &lt;code>Bestellung&lt;/code> und &lt;code>Artikel&lt;/code> und weder an das eine noch das andere allein.&lt;/li>
+&lt;li>Redundanzen: &lt;code>Artikelgruppe&lt;/code> und &lt;code>Rabatt&lt;/code> gehören zusammen und sind mehrfach vorhanden.&lt;/li>
+&lt;li>Ursache: &lt;code>Rabatt&lt;/code> hängt von &lt;code>Artikelgruppe&lt;/code> ab und nicht von der &lt;code>Artikelnummer&lt;/code> (=transitive Abhängigkeit).&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://it-berufe-podcast.de/Abbildungen/Normalform2.jpg" alt="Tabellen mit Kunden, Bestellungen und Artikeln in 2. Normalform" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="3-normalform">3. Normalform&lt;/h2>
+&lt;ul>
+&lt;li>Definition: (2. Normalform erfüllt und) es gibt keine transitiven Abhängigkeiten.&lt;/li>
+&lt;li>„and nothing but the key&amp;quot;: Kein Nicht-Schlüssel-Attribut hängt von einem anderen Nicht-Schlüssel-Attribut ab.&lt;/li>
+&lt;li>Vorgehen: &lt;code>Artikelgruppe&lt;/code> in eigene Tabelle extrahieren und Fremdschlüssel für Referenz einführen.&lt;/li>
+&lt;li>1:n-Beziehungen werden aufgelöst.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://it-berufe-podcast.de/Abbildungen/Normalform3.jpg" alt="Tabellen mit Kunden, Bestellungen, Artikeln und Artikelgruppen in 3. Normalform" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="ergebnis">Ergebnis&lt;/h2>
+&lt;ul>
+&lt;li>Jede Tabelle enthält genau ein Konzept.&lt;/li>
+&lt;li>Keine Daten sind mehr redundant.&lt;/li>
+&lt;li>In jeder Tabelle gibt es einen eindeutigen Primärschlüssel.&lt;/li>
+&lt;li>Fremdschlüssel werden für Referenzen auf Datensätze in anderen Tabellen verwendet.&lt;/li>
+&lt;/ul>
+&lt;p>Quelle:
+&lt;a href="https://it-berufe-podcast.de/normalisierung-einer-datenbank-am-konkreten-beispiel-anwendungsentwickler-podcast-144/" target="_blank" rel="noopener">Quelle&lt;/a>&lt;/p>
+&lt;p>Erklärvideo:
+&lt;a href="https://www.youtube.com/watch?v=caMVrHP-SIs" target="_blank" rel="noopener">Youtube&lt;/a>&lt;/p></description></item><item><title>OpenData, API-Schnittstellen</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/opendata-api-schnittstellen/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/opendata-api-schnittstellen/</guid><description>&lt;h1 id="opendata-und-api-schnittstellen">OpenData und API-Schnittstellen&lt;/h1>
+&lt;h2 id="open-data">Open Data&lt;/h2>
+&lt;p>&lt;strong>Open Data&lt;/strong> bezieht sich auf Daten, die für jeden frei zugänglich und nutzbar sind, mit dem Ziel, Transparenz zu fördern und innovative Lösungen zu ermöglichen. Open Data wird häufig von Regierungen, Forschungseinrichtungen und Non-Profit-Organisationen in Formaten bereitgestellt, die leicht zu verwenden, zu teilen und zu modifizieren sind.&lt;/p>
+&lt;h3 id="merkmale-von-open-data">Merkmale von Open Data&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Zugänglichkeit&lt;/strong>: Daten sollten leicht zugänglich und in einem benutzerfreundlichen Format verfügbar sein.&lt;/li>
+&lt;li>&lt;strong>Maschinenlesbarkeit&lt;/strong>: Daten sollten in einem Format vorliegen, das von Computern leicht zu verarbeiten ist (z.B. CSV, JSON, XML).&lt;/li>
+&lt;li>&lt;strong>Freiheit der Nutzung&lt;/strong>: Daten sollten ohne urheberrechtliche Einschränkungen oder Lizenzgebühren nutzbar sein.&lt;/li>
+&lt;li>&lt;strong>Interoperabilität&lt;/strong>: Daten sollten so strukturiert sein, dass sie leicht mit anderen Datensätzen kombiniert werden können.&lt;/li>
+&lt;/ul>
+&lt;h3 id="vorteile-von-open-data">Vorteile von Open Data&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Transparenz&lt;/strong>: Durch die Bereitstellung offener Daten können Organisationen und Regierungen ihre Transparenz erhöhen.&lt;/li>
+&lt;li>&lt;strong>Innovation&lt;/strong>: Offene Daten ermöglichen die Entwicklung neuer Anwendungen, Dienstleistungen und Forschungsprojekte.&lt;/li>
+&lt;li>&lt;strong>Wirtschaftliche Entwicklung&lt;/strong>: Open Data kann zur Schaffung neuer Geschäftsmodelle und zur Steigerung der Wirtschaftsleistung beitragen.&lt;/li>
+&lt;/ul>
+&lt;h2 id="api-schnittstellen-application-programming-interfaces">API-Schnittstellen (Application Programming Interfaces)&lt;/h2>
+&lt;p>APIs sind Schnittstellen, die es ermöglichen, dass unterschiedliche Softwareanwendungen miteinander kommunizieren. APIs spielen eine entscheidende Rolle beim Zugriff auf Open Data und bei der Integration dieser Daten in Anwendungen.&lt;/p>
+&lt;h3 id="typen-von-apis">Typen von APIs&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>REST (Representational State Transfer)&lt;/strong>: Eine weit verbreitete Architektur für Webdienste, die auf HTTP-Methoden wie GET, POST, PUT und DELETE setzt.&lt;/li>
+&lt;li>&lt;strong>GraphQL&lt;/strong>: Eine Abfragesprache für APIs, die es Entwicklern ermöglicht, genaue Anfragen für die benötigten Daten zu formulieren.&lt;/li>
+&lt;li>&lt;strong>SOAP (Simple Object Access Protocol)&lt;/strong>: Ein Protokoll, das strengere Standards bietet und häufig in Unternehmensumgebungen eingesetzt wird.&lt;/li>
+&lt;/ul>
+&lt;h3 id="nutzung-von-apis">Nutzung von APIs&lt;/h3>
+&lt;ol>
+&lt;li>&lt;strong>Authentifizierung&lt;/strong>: Viele APIs erfordern eine Form der Authentifizierung, häufig über API-Schlüssel oder OAuth.&lt;/li>
+&lt;li>&lt;strong>Anfragen&lt;/strong>: Anfragen an eine API werden basierend auf der Dokumentation der API erstellt, wobei Endpunkte, Parameter und erforderliche Datenformate berücksichtigt werden.&lt;/li>
+&lt;li>&lt;strong>Antworten&lt;/strong>: Die von der API zurückgegebenen Daten werden verarbeitet und in Anwendungen oder für Analysen verwendet.&lt;/li>
+&lt;/ol>
+&lt;h3 id="best-practices-für-den-einsatz-von-apis">Best Practices für den Einsatz von APIs&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Rate Limiting beachten&lt;/strong>: Viele APIs begrenzen die Anzahl der Anfragen, die ein Nutzer in einem bestimmten Zeitraum stellen kann.&lt;/li>
+&lt;li>&lt;strong>Dokumentation lesen&lt;/strong>: Eine gründliche Lektüre der API-Dokumentation ist entscheidend, um effizient mit der API arbeiten zu können.&lt;/li>
+&lt;li>&lt;strong>Fehlerbehandlung&lt;/strong>: Implementiere eine robuste Fehlerbehandlung für den Fall, dass eine API-Anfrage fehlschlägt oder unerwartete Daten zurückgibt.&lt;/li>
+&lt;/ul>
+&lt;h2 id="fazit">Fazit&lt;/h2>
+&lt;p>Die Kombination aus Open Data und API-Schnittstellen bietet mächtige Möglichkeiten, Daten zugänglich zu machen und für eine Vielzahl von Zwecken zu nutzen. Ob es um die Entwicklung innovativer Anwendungen, die Durchführung von Forschung oder die Verbesserung von Dienstleistungen geht, Open Data und APIs sind zentrale Werkzeuge in der digitalen Wirtschaft und Gesellschaft.&lt;/p></description></item><item><title>Relationale und nicht-relationale Datenbanken, NoSQL Datenbanken</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/relationale-und-nicht-relationale-datenbanken-nosql-datenbanken/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/relationale-und-nicht-relationale-datenbanken-nosql-datenbanken/</guid><description>&lt;h1 id="relationale-und-nicht-relationale-datenbanken-nosql-datenbanken">Relationale und nicht-relationale Datenbanken, NoSQL Datenbanken&lt;/h1>
+&lt;h2 id="relationale-datenbanken">Relationale Datenbanken&lt;/h2>
+&lt;h3 id="grundlagen">Grundlagen&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Struktur&lt;/strong>: Relationale Datenbanken organisieren Daten in Tabellen, wobei jede Tabelle aus Reihen und Spalten besteht. Jede Zeile repräsentiert einen Datensatz, und jede Spalte repräsentiert ein Datenfeld.&lt;/li>
+&lt;li>&lt;strong>Schema&lt;/strong>: Das Schema definiert die Struktur der Daten in der Datenbank, einschließlich Tabellendefinitionen, Datentypen und Beziehungen.&lt;/li>
+&lt;li>&lt;strong>Sprache&lt;/strong>: SQL (Structured Query Language) ist die Standardabfragesprache für relationale Datenbanken und wird zum Erstellen, Verwalten und Abfragen von Daten verwendet.&lt;/li>
+&lt;/ul>
+&lt;h3 id="vorteile">Vorteile&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Datenintegrität&lt;/strong>: Unterstützt starke Datenintegritätsbeschränkungen (z.B. Fremdschlüssel).&lt;/li>
+&lt;li>&lt;strong>Komplexität&lt;/strong>: Eignet sich gut für komplexe Abfragen und Beziehungen zwischen Daten.&lt;/li>
+&lt;li>&lt;strong>Standardisierung&lt;/strong>: SQL ist eine weit verbreitete und standardisierte Sprache.&lt;/li>
+&lt;/ul>
+&lt;h3 id="herausforderungen">Herausforderungen&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Skalierbarkeit&lt;/strong>: Vertikale Skalierung (Erhöhung der Serverkapazität) ist häufig einfacher als horizontale Skalierung (Hinzufügen von Servern).&lt;/li>
+&lt;li>&lt;strong>Flexibilität&lt;/strong>: Das starre Schema kann die schnelle Entwicklung und Änderungen an den Datenstrukturen erschweren.&lt;/li>
+&lt;/ul>
+&lt;h3 id="beispiele">Beispiele&lt;/h3>
+&lt;ul>
+&lt;li>MySQL&lt;/li>
+&lt;li>PostgreSQL&lt;/li>
+&lt;li>Oracle Database&lt;/li>
+&lt;/ul>
+&lt;h2 id="nicht-relationale-datenbanken-nosql">Nicht-relationale Datenbanken (NoSQL)&lt;/h2>
+&lt;h3 id="grundlagen-1">Grundlagen&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Struktur&lt;/strong>: Nicht-relationale Datenbanken verwenden eine Vielzahl von Datenmodellen, einschließlich Dokument, Schlüssel-Wert, Wide Column und Graph. Sie erfordern nicht zwingend ein festes Schema.&lt;/li>
+&lt;li>&lt;strong>Schema-flexibel&lt;/strong>: Die meisten NoSQL-Datenbanken erlauben es, Datensätze mit unterschiedlichen „Schemas“ innerhalb derselben Datenbank zu speichern.&lt;/li>
+&lt;li>&lt;strong>Sprache&lt;/strong>: Es gibt keine einheitliche Abfragesprache für NoSQL-Datenbanken. Jedes System kann seine eigene Sprache oder API haben.&lt;/li>
+&lt;/ul>
+&lt;h3 id="vorteile-1">Vorteile&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Skalierbarkeit&lt;/strong>: Entwickelt für einfache horizontale Skalierbarkeit und Verteilung über mehrere Server.&lt;/li>
+&lt;li>&lt;strong>Flexibilität&lt;/strong>: Schema-flexible Modelle unterstützen schnelle Entwicklungszyklen und Änderungen.&lt;/li>
+&lt;li>&lt;strong>Vielfältigkeit&lt;/strong>: Unterschiedliche Datenmodelle für verschiedene Anwendungsbedürfnisse.&lt;/li>
+&lt;/ul>
+&lt;h3 id="herausforderungen-1">Herausforderungen&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Standardisierung&lt;/strong>: Fehlen einer einheitlichen Abfragesprache erschwert die Einarbeitung.&lt;/li>
+&lt;li>&lt;strong>Transaktionen&lt;/strong>: Unterstützung für komplexe Transaktionen und Datenintegrität kann variieren.&lt;/li>
+&lt;/ul>
+&lt;h3 id="beispiele-1">Beispiele&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Dokumentenorientiert&lt;/strong>: MongoDB, Couchbase&lt;/li>
+&lt;li>&lt;strong>Schlüssel-Wert&lt;/strong>: Redis, DynamoDB&lt;/li>
+&lt;li>&lt;strong>Wide Column&lt;/strong>: Cassandra, HBase&lt;/li>
+&lt;li>&lt;strong>Graph&lt;/strong>: Neo4j, Amazon Neptune&lt;/li>
+&lt;/ul>
+&lt;h2 id="entscheidungskriterien">Entscheidungskriterien&lt;/h2>
+&lt;p>Bei der Auswahl zwischen relationalen und nicht-relationalen Datenbanken sollten folgende Faktoren berücksichtigt werden:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Datenstruktur und Komplexität der Abfragen&lt;/strong>: Relationale Datenbanken für komplexe, beziehungsreiche Datenmodelle; NoSQL für flexible, skalierbare Lösungen.&lt;/li>
+&lt;li>&lt;strong>Skalierbarkeitsanforderungen&lt;/strong>: NoSQL für leichtere horizontale Skalierung.&lt;/li>
+&lt;li>&lt;strong>Entwicklungsflexibilität&lt;/strong>: NoSQL für Projekte, bei denen schnelle Änderungen an den Datenstrukturen erwartet werden.&lt;/li>
+&lt;li>&lt;strong>Transaktionsanforderungen&lt;/strong>: Relationale Datenbanken für Anwendungen, die komplexe Transaktionen mit hoher Datenintegrität erfordern.&lt;/li>
+&lt;/ul>
+&lt;h2 id="fazit">Fazit&lt;/h2>
+&lt;p>Die Wahl zwischen relationalen und nicht-relationalen Datenbanken hängt stark von den spezifischen Anforderungen des Projekts ab. Relationale Datenbanken bieten eine starke Struktur und Integrität für komplexe Daten und Abfragen, während nicht-relationale Datenbanken Flexibilität, Skalierbarkeit und Leistung für unterschied&lt;/p>
+&lt;p>liche Datenmodelle und Anwendungsfälle bieten.&lt;/p></description></item><item><title>Tabellenstruktur, Indexierung, Manipulation, Projektion, Selektion, Sortieren und Gruppieren</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/tabellenstruktur-indexierung-manipulation-projektion-selektion-sortieren-und-gruppieren/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/tabellenstruktur-indexierung-manipulation-projektion-selektion-sortieren-und-gruppieren/</guid><description>&lt;h1 id="sql-befehlskategorien--struktur-und-indexierung">SQL-Befehlskategorien + Struktur und Indexierung&lt;/h1>
+&lt;p>Hier könnte Ihr Text stehen&lt;/p>
+&lt;p>Tabellenstruktur, Index, Manipulation, Projektion, Selektion, , Sortieren, Gruppieren&lt;/p>
+&lt;p>Hier ist dein Lernzettel zu SQL, strukturiert in Markdown, der einen Überblick über SQL-Befehle und ihre Einteilung in verschiedene Kategorien bietet:&lt;/p>
+&lt;hr>
+&lt;h1 id="kurzer-überblick-über-sql">Kurzer Überblick über SQL&lt;/h1>
+&lt;p>SQL (Structured Query Language) ist eine standardisierte Programmiersprache, die für die Verwaltung und Manipulation relationaler Datenbanken verwendet wird. SQL ermöglicht es, Datenbanken zu erstellen, Daten zu manipulieren, abzufragen und die Zugriffskontrolle zu verwalten. Die Sprache umfasst verschiedene Arten von Befehlen, darunter:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>DDL (Data Definition Language)&lt;/strong>: Zum Definieren der Struktur von Datenbankobjekten.&lt;/li>
+&lt;li>&lt;strong>DQL (Data Query Language)&lt;/strong>: Zum Abfragen von Daten.&lt;/li>
+&lt;li>&lt;strong>DML (Data Manipulation Language)&lt;/strong>: Zum Manipulieren von Daten.&lt;/li>
+&lt;li>&lt;strong>DCL (Data Control Language)&lt;/strong>: Zur Verwaltung von Zugriffsrechten und Berechtigungen.&lt;/li>
+&lt;li>&lt;strong>TCL (Transaction Control Language)&lt;/strong>: Zur Verwaltung von Datenbanktransaktionen.&lt;/li>
+&lt;/ul>
+&lt;h3 id="tabellenstruktur-und-index">Tabellenstruktur und Index&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>CREATE TABLE&lt;/strong>: Definiert eine neue Tabelle und ihre Struktur.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">CREATE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">TABLE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="n">id&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="nb">INT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">PRIMARY&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">KEY&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="nb">VARCHAR&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">100&lt;/span>&lt;span class="p">),&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="n">abteilung&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="nb">VARCHAR&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">50&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="p">);&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>Index&lt;/strong>: Verbessert Abfragegeschwindigkeiten durch schnelleres Auffinden von Datensätzen.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">CREATE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">INDEX&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">idx_name&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">);&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h2 id="sql-befehle">SQL-Befehle&lt;/h2>
+&lt;h3 id="ddl-datendefinitionssprache">DDL (Datendefinitionssprache)&lt;/h3>
+&lt;p>DDL-Befehle definieren das Schema einer Datenbank und werden zum Erstellen, Ändern und Löschen von Datenbankstrukturen verwendet.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>CREATE&lt;/strong>: Erstellt eine Datenbank oder ihre Objekte (z.B. Tabellen, Indizes).
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">CREATE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">TABLE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">id&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="nb">INT&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="nb">VARCHAR&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">100&lt;/span>&lt;span class="p">));&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>DROP&lt;/strong>: Löscht Objekte aus der Datenbank.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">DROP&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">TABLE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>ALTER&lt;/strong>: Ändert die Struktur einer Datenbank.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">ALTER&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">TABLE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ADD&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">geburtsdatum&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="nb">DATE&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>TRUNCATE&lt;/strong>: Entfernt alle Datensätze aus einer Tabelle, ohne die Tabelle selbst zu löschen.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">TRUNCATE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">TABLE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>COMMENT&lt;/strong>: Fügt Kommentare zum Datenwörterbuch hinzu.&lt;/li>
+&lt;li>&lt;strong>RENAME&lt;/strong>: Benennt ein Objekt in der Datenbank um.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">RENAME&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">TABLE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">TO&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">angestellte&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h3 id="dql-datenabfragesprache">DQL (Datenabfragesprache)&lt;/h3>
+&lt;p>DQL besteht hauptsächlich aus dem SELECT-Befehl zum Abfragen von Daten.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>SELECT&lt;/strong>: Abrufen von Daten aus der Datenbank.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h3 id="dml-datenmanipulationssprache">DML (Datenmanipulationssprache)&lt;/h3>
+&lt;p>DML-Befehle werden verwendet, um Daten innerhalb der Datenbank zu manipulieren.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>INSERT&lt;/strong>: Fügt Daten in Tabellen ein.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">INSERT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">INTO&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">id&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">VALUES&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="s1">&amp;#39;Max Mustermann&amp;#39;&lt;/span>&lt;span class="p">);&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>UPDATE&lt;/strong>: Aktualisiert vorhandene Daten.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">UPDATE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">SET&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="s1">&amp;#39;John Doe&amp;#39;&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">id&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>DELETE&lt;/strong>: Entfernt Daten aus der Datenbank.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">DELETE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">mitarbeiter&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">id&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>LOCK&lt;/strong>: Steuert die Parallelität der Tabellen.&lt;/li>
+&lt;li>&lt;strong>CALL&lt;/strong>: Ruft ein PL/SQL- oder JAVA-Unterprogramm auf.&lt;/li>
+&lt;li>&lt;strong>EXPLAIN PLAN&lt;/strong>: Beschreibt den Zugriffspfad zu den Daten.&lt;/li>
+&lt;/ul>
+&lt;h3 id="dcl-datenkontrollsprache">DCL (Datenkontrollsprache)&lt;/h3>
+&lt;p>DCL befasst sich mit Berechtigungen und Zugriffsrechten.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>GRANT&lt;/strong>: Gewährt Zugriffsrechte an Benutzer.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">GRANT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">SELECT&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">UPDATE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">my_table&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">TO&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">some_user&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>REVOKE&lt;/strong>: Entzieht Zugriffsrechte von Benutzern.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">REVOKE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">SELECT&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">UPDATE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">ON&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">my_table&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">user1&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h3 id="tcl-transaktionskontrollsprache">TCL (Transaktionskontrollsprache)&lt;/h3>
+&lt;p>TCL-Befehle verwalten Transaktionen innerhalb der Datenbank.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>BEGIN&lt;/strong>: Startet eine Transaktion.&lt;/li>
+&lt;li>&lt;strong>COMMIT&lt;/strong>: Bestätigt eine Transaktion.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">COMMIT&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>ROLLBACK&lt;/strong>: Macht Änderungen einer Transaktion rückgängig.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">ROLLBACK&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;strong>SAVEPOINT&lt;/strong>: Setzt einen Speicherpunkt innerhalb einer Transaktion.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="n">SAVEPOINT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">savepoint_name&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>Quelle:
+&lt;a href="https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/" target="_blank" rel="noopener">Quelle&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Erklärvideo:
+&lt;a href="https://www.youtube.com" target="_blank" rel="noopener">Youtube&lt;/a>&lt;/p></description></item></channel></rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo | Hugo Docs</title><link>https://ap.cptnemo1337.de/tag/hugo/</link><atom:link href="https://ap.cptnemo1337.de/tag/hugo/index.xml" rel="self" type="application/rss+xml"/><description>Hugo</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://ap.cptnemo1337.de/media/logo.svg</url><title>Hugo</title><link>https://ap.cptnemo1337.de/tag/hugo/</link></image><item><title>v2.0.0 Released!</title><link>https://ap.cptnemo1337.de/blog/v2.0.0/</link><pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/blog/v2.0.0/</guid><description>&lt;p>Hugo v2.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p>
+&lt;p>Highlights include:&lt;/p>
+&lt;ul>
+&lt;li>New config options&lt;/li>
+&lt;li>Improved accessibility&lt;/li>
+&lt;li>Customizable image optimization in Markdown&lt;/li>
+&lt;/ul>
+&lt;p>Thank you to everyone who contributed to this release!&lt;/p>
+&lt;h2 id="new-features">New Features&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p>
+&lt;h2 id="bug-fixes">Bug Fixes&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p>
+&lt;h2 id="how-to-upgrade">How to Upgrade&lt;/h2>
+&lt;p>Simply run the following command in your terminal:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">hugo mod get -u github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind@main
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p></description></item><item><title>v1.0.0 Released!</title><link>https://ap.cptnemo1337.de/blog/v1.0.0/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/blog/v1.0.0/</guid><description>&lt;p>Hugo v1.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p>
+&lt;p>Highlights include:&lt;/p>
+&lt;ul>
+&lt;li>New config options&lt;/li>
+&lt;li>Improved accessibility&lt;/li>
+&lt;li>Customizable image optimization in Markdown&lt;/li>
+&lt;/ul>
+&lt;p>Thank you to everyone who contributed to this release!&lt;/p>
+&lt;h2 id="new-features">New Features&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p>
+&lt;h2 id="bug-fixes">Bug Fixes&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p>
+&lt;h2 id="how-to-upgrade">How to Upgrade&lt;/h2>
+&lt;p>Simply run the following command in your terminal:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">hugo mod get -u github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind@main
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p></description></item></channel></rss>
