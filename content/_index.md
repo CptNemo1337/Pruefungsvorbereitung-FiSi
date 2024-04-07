@@ -1,97 +1,83 @@
 ---
-title: "Home"
+title: "IT-Wiki für Fachinformatiker"
 date: 2023-10-24
 type: landing
 
 design:
-  # Default section spacing
   spacing: "6rem"
 
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: Dein IT-Wissen, zentralisiert 🚀
+      text: Die ultimative Wiki für Fachinformatiker. Leicht verständlich, zentralisiert und von der Community getrieben.
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
-        icon: rocket-launch
+        text: Beitrag leisten
+        url: /beitragen/
+        icon: pencil
       secondary_action:
-        text: Read the docs
+        text: Durchsuche die Wiki
         url: /docs/
       announcement:
-        text: "Announcing the release of version 2."
+        text: "Neu: Prüfungsvorbereitungsbereich!"
         link:
-          text: "Read more"
-          url: "/blog/"
+          text: "Mehr erfahren"
+          url: "/blog/pruefungsvorbereitung/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: ""
+      css_class: "min-h-screen"
       background:
-        color: ""
-        image:
-          # Add your image background to `assets/media/`.
-          filename: ""
-          filters:
-            brightness: 0.5
+        color: "bg-blue-600"
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "600+"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Themen verfügbar
+        - statistic: "17+"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            Freiwillige Mitwirkende
+        - statistic: "100%"
           description: |
-            Discord community  
-            for support
+            Fokus auf Prüfungsrelevanz
     design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-800"
-      # Reduce spacing
+      css_class: "bg-blue-100 dark:bg-gray-800"
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: features
     id: features
     content:
-      title: Features
-      text: Collaborate, publish, and maintain technical knowledge with an all-in-one documentation site. Used by 100,000+ startups, enterprises, and researchers.
+      title: Warum unsere IT-Wiki nutzen?
+      text: Zugeschnitten auf die Bedürfnisse zukünftiger Fachinformatiker. Von Grundlagen bis hin zu fortgeschrittenen Themen, alles an einem Ort.
       items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+        - name: Prüfungsrelevanz
+          icon: check-circle
+          description: Alle Inhalte basieren auf dem offiziellen Prüfungskatalog.
+        - name: Community-Getrieben
+          icon: users
+          description: Von Auszubildenden für Auszubildende - teile dein Wissen und lerne von anderen.
+        - name: Ständig Aktualisiert
+          icon: refresh
+          description: Regelmäßige Updates halten die Inhalte frisch und relevant.
+        - name: Einfach Mitwirken
+          icon: hand-raised
+          description: Einfache Tools zum Beitrag leisten - keine Vorkenntnisse nötig!
+        - name: Schnell und Zugänglich
+          icon: tachometer-alt
+          description: Optimiert für schnelle Ladezeiten und einfache Navigation.
+        - name: Praxisnah
+          icon: tools
+          description: Praktische Beispiele und Anwendungsfälle direkt aus der Arbeitswelt.
   - block: cta-card
     content:
-      title: "Start Writing with the #1 Effortless Documentation Platform"
-      text: Hugo Blox Docs Theme brings all your technical knowledge together in a single, centralized knowledge base. Easily search and edit it with the tools you use every day!
+      title: "Mach mit bei der besten IT-Wiki für Fachinformatiker!"
+      text: Tritt unserer Community bei und hilf dabei, das Wissen für zukünftige Generationen aufzubauen und zu teilen.
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        text: Jetzt beitragen
+        url: /blog/Beitragen/
     design:
       card:
-        # Card background color (CSS class)
         css_class: "bg-primary-700"
-        css_style: ""
 ---

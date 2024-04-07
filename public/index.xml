@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home | Hugo Docs</title>
+    <title>IT-Wiki für Fachinformatiker | Hugo Docs</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Home</description>
+    <description>IT-Wiki für Fachinformatiker</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo.svg</url>
-      <title>Home</title>
+      <title>IT-Wiki für Fachinformatiker</title>
       <link>http://localhost:1313/</link>
     </image>
     
@@ -6035,50 +6035,68 @@
     </item>
     
     <item>
-      <title>v2.0.0 Released!</title>
-      <link>http://localhost:1313/blog/v2.0.0/</link>
+      <title>Beitrag leisten</title>
+      <link>http://localhost:1313/blog/beitragen/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/v2.0.0/</guid>
-      <description>&lt;p&gt;Hugo v2.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p&gt;
-&lt;p&gt;Highlights include:&lt;/p&gt;
+      <guid>http://localhost:1313/blog/beitragen/</guid>
+      <description>&lt;p&gt;Wir freuen uns, dass du Interesse hast, zur Prüfungsvorbereitungs-Wiki beizutragen! Hier ist eine kurze Anleitung, wie du mitmachen kannst.&lt;/p&gt;
+&lt;h2 id=&#34;bevor-du-loslegst&#34;&gt;Bevor du loslegst&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;New config options&lt;/li&gt;
-&lt;li&gt;Improved accessibility&lt;/li&gt;
-&lt;li&gt;Customizable image optimization in Markdown&lt;/li&gt;
+&lt;li&gt;Besuche unser GitHub-Repo unter &lt;a href=&#34;https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi&lt;/a&gt; und mache dich mit dem Projekt vertraut.&lt;/li&gt;
+&lt;li&gt;Überprüfe die &lt;a href=&#34;https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Issues&lt;/a&gt;, um zu sehen, ob jemand bereits an einem ähnlichen Beitrag arbeitet oder um neue Ideen zu finden.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Thank you to everyone who contributed to this release!&lt;/p&gt;
-&lt;h2 id=&#34;new-features&#34;&gt;New Features&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p&gt;
-&lt;h2 id=&#34;bug-fixes&#34;&gt;Bug Fixes&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p&gt;
-&lt;h2 id=&#34;how-to-upgrade&#34;&gt;How to Upgrade&lt;/h2&gt;
-&lt;p&gt;Simply run the following command in your terminal:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo mod get -u github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind@main
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p&gt;
+&lt;h2 id=&#34;deinen-beitrag-leisten&#34;&gt;Deinen Beitrag leisten&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fork das Repository:&lt;/strong&gt; Erstelle eine eigene Kopie des Repos, um Änderungen vorzunehmen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Änderungen vornehmen:&lt;/strong&gt; Füge neue Inhalte hinzu oder verbessere bestehende. Halte dich dabei an unsere Richtlinien für Inhalte und Formatierung.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pull Request erstellen:&lt;/strong&gt; Sobald du fertig bist, sende einen Pull Request (PR) von deinem Fork zum Hauptrepo. Beschreibe deine Änderungen und wie sie die Wiki verbessern.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;richtlinien&#34;&gt;Richtlinien&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Qualität:&lt;/strong&gt; Stelle sicher, dass deine Beiträge gut recherchiert und geschrieben sind.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Respekt:&lt;/strong&gt; Wir sind eine Community, die auf Respekt und Unterstützung basiert. Freundliches und konstruktives Feedback ist immer willkommen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inklusion:&lt;/strong&gt; Unsere Wiki ist für alle da. Stelle sicher, dass deine Beiträge inklusiv und verständlich sind.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mit deinem Beitrag hilfst du nicht nur aktuellen, sondern auch zukünftigen Fachinformatikern bei ihrer Prüfungsvorbereitung. Wir freuen uns auf deine Mitarbeit!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>v1.0.0 Released!</title>
-      <link>http://localhost:1313/blog/v1.0.0/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/v1.0.0/</guid>
-      <description>&lt;p&gt;Hugo v1.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p&gt;
-&lt;p&gt;Highlights include:&lt;/p&gt;
+      <title>Prüfungsvorbereitung</title>
+      <link>http://localhost:1313/blog/pruefungsvorbereitung/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/pruefungsvorbereitung/</guid>
+      <description>&lt;p&gt;Die Vorbereitung auf Prüfungen kann eine herausfordernde Zeit sein, besonders wenn es um so entscheidende Prüfungen wie die Abschlussprüfung zum Fachinformatiker für Systemintegration geht. Hier sind einige Tipps, die dir helfen sollen, effizient zu lernen und bestmöglich vorbereitet zu sein.&lt;/p&gt;
+&lt;h2 id=&#34;verstehe-den-prüfungsinhalt&#34;&gt;Verstehe den Prüfungsinhalt&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;New config options&lt;/li&gt;
-&lt;li&gt;Improved accessibility&lt;/li&gt;
-&lt;li&gt;Customizable image optimization in Markdown&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prüfungsrichtlinien genau studieren:&lt;/strong&gt; Mache dich mit dem offiziellen Prüfungskatalog vertraut. Die IHK bietet detaillierte Kataloge über die Inhalte der Prüfungen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Schwerpunkte erkennen:&lt;/strong&gt; Identifiziere die Kernthemen, die häufig in Prüfungen abgefragt werden.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Thank you to everyone who contributed to this release!&lt;/p&gt;
-&lt;h2 id=&#34;new-features&#34;&gt;New Features&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p&gt;
-&lt;h2 id=&#34;bug-fixes&#34;&gt;Bug Fixes&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p&gt;
-&lt;h2 id=&#34;how-to-upgrade&#34;&gt;How to Upgrade&lt;/h2&gt;
-&lt;p&gt;Simply run the following command in your terminal:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo mod get -u github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind@main
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p&gt;
+&lt;h2 id=&#34;erstelle-einen-lernplan&#34;&gt;Erstelle einen Lernplan&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zeitmanagement:&lt;/strong&gt; Teile deine Vorbereitungszeit sinnvoll ein. Ein gut strukturierter Plan hilft dir, regelmäßig zu lernen, ohne dich zu überlasten.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pausen einplanen:&lt;/strong&gt; Kurze Pausen während deiner Lernsessions helfen dir, besser zu lernen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nutze-vielfältige-lernmaterialien&#34;&gt;Nutze vielfältige Lernmaterialien&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bücher und Online-Ressourcen:&lt;/strong&gt; Verwende neben Schulbüchern auch Online-Kurse, Foren und Wiki-Seiten.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Praxisübungen:&lt;/strong&gt; Reale Projekte und Übungsaufgaben bieten dir die Möglichkeit, dein Wissen praktisch anzuwenden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gruppenarbeit&#34;&gt;Gruppenarbeit&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lerngruppen bilden:&lt;/strong&gt; Zusammen lernen kann motivieren und hilft, Wissen auszutauschen und zu vertiefen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gesund-bleiben&#34;&gt;Gesund bleiben&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ausreichend Schlaf:&lt;/strong&gt; Guter Schlaf ist essentiell für das Gedächtnis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gesunde Ernährung und Bewegung:&lt;/strong&gt; Ein gesunder Körper fördert auch eine gesunde Geisteshaltung.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;am-prüfungstag&#34;&gt;Am Prüfungstag&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frühzeitig vorbereiten:&lt;/strong&gt; Sorge dafür, dass du alle benötigten Materialien am Tag vor der Prüfung zusammen hast.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entspannen:&lt;/strong&gt; Versuche, ruhig zu bleiben. Positives Denken kann die Leistung verbessern.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Viel Erfolg bei deiner Prüfungsvorbereitung! Denke daran, dass Vorbereitung der Schlüssel zum Erfolg ist.&lt;/p&gt;
 </description>
     </item>
     
