@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub | Hugo Docs</title><link>https://ap.cptnemo1337.de/tag/github/</link><atom:link href="https://ap.cptnemo1337.de/tag/github/index.xml" rel="self" type="application/rss+xml"/><description>GitHub</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://ap.cptnemo1337.de/media/logo.svg</url><title>GitHub</title><link>https://ap.cptnemo1337.de/tag/github/</link></image><item><title>Beitrag leisten</title><link>https://ap.cptnemo1337.de/blog/beitragen/</link><pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/blog/beitragen/</guid><description>&lt;p>Wir freuen uns, dass du Interesse hast, zur Prüfungsvorbereitungs-Wiki beizutragen! Hier ist eine kurze Anleitung, wie du mitmachen kannst.&lt;/p>
+&lt;h2 id="bevor-du-loslegst">Bevor du loslegst&lt;/h2>
+&lt;ul>
+&lt;li>Besuche unser GitHub-Repo unter &lt;a href="https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi" target="_blank" rel="noopener">https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi&lt;/a> und mache dich mit dem Projekt vertraut.&lt;/li>
+&lt;li>Überprüfe die &lt;a href="https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi/issues" target="_blank" rel="noopener">Issues&lt;/a>, um zu sehen, ob jemand bereits an einem ähnlichen Beitrag arbeitet oder um neue Ideen zu finden.&lt;/li>
+&lt;/ul>
+&lt;h2 id="deinen-beitrag-leisten">Deinen Beitrag leisten&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Fork das Repository:&lt;/strong> Erstelle eine eigene Kopie des Repos, um Änderungen vorzunehmen.&lt;/li>
+&lt;li>&lt;strong>Änderungen vornehmen:&lt;/strong> Füge neue Inhalte hinzu oder verbessere bestehende. Halte dich dabei an unsere Richtlinien für Inhalte und Formatierung.&lt;/li>
+&lt;li>&lt;strong>Pull Request erstellen:&lt;/strong> Sobald du fertig bist, sende einen Pull Request (PR) von deinem Fork zum Hauptrepo. Beschreibe deine Änderungen und wie sie die Wiki verbessern.&lt;/li>
+&lt;/ul>
+&lt;h2 id="richtlinien">Richtlinien&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Qualität:&lt;/strong> Stelle sicher, dass deine Beiträge gut recherchiert und geschrieben sind.&lt;/li>
+&lt;li>&lt;strong>Respekt:&lt;/strong> Wir sind eine Community, die auf Respekt und Unterstützung basiert. Freundliches und konstruktives Feedback ist immer willkommen.&lt;/li>
+&lt;li>&lt;strong>Inklusion:&lt;/strong> Unsere Wiki ist für alle da. Stelle sicher, dass deine Beiträge inklusiv und verständlich sind.&lt;/li>
+&lt;/ul>
+&lt;p>Mit deinem Beitrag hilfst du nicht nur aktuellen, sondern auch zukünftigen Fachinformatikern bei ihrer Prüfungsvorbereitung. Wir freuen uns auf deine Mitarbeit!&lt;/p></description></item></channel></rss>
