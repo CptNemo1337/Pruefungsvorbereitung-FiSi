@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>03 Schichtenarchitektur auswählen | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/index.xml" rel="self" type="application/rss+xml" />
     <description>03 Schichtenarchitektur auswählen</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>http://localhost:60031/media/logo.svg</url>
       <title>03 Schichtenarchitektur auswählen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/</link>
     </image>
     
     <item>
       <title>2-Tier</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/2-tier/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/2-tier/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/2-tier/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/2-tier/</guid>
       <description>&lt;h1 id=&#34;2-tier&#34;&gt;2-Tier&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>3-Tier</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/3-tier/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/3-tier/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/3-tier/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/3-tier/</guid>
       <description>&lt;h1 id=&#34;3-tier&#34;&gt;3-Tier&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Multi-Tier</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/multi-tier/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/multi-tier/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/multi-tier/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/03-schichtenarchitektur-auswahlen/multi-tier/</guid>
       <description>&lt;h1 id=&#34;multi-tier&#34;&gt;Multi-Tier&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

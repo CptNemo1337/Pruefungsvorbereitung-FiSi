@@ -12,21 +12,21 @@ appearance:
 marketing:
   seo:
     site_type: Project
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    local_business_type: ""
+    org_name: ""
+    description: "Prüfungsvorbereitung für Fachinformatiker anhand des offiziellen Prüfungskataloges"
+    twitter: ""
   analytics:
-    google_analytics: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: ""
+    google_tag_manager: ""
+    microsoft_clarity: ""
+    baidu_tongji: ""
+    plausible: ""
+    fathom: ""
+    pirsch: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 header:
@@ -42,14 +42,14 @@ header:
     button:
       enable: true
       text: "Get Started"
-      url: "https://hugoblox.com/templates/details/docs/"
+      url: "https://ap.cptnemo1337.de/docs/"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company. This work is licensed under {license}'
+    notice: "© {year} CptNemo1337. This work is licensed under {license}"
     license:
       enable: true
       allow_derivatives: false
@@ -58,8 +58,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
 
 # Site features
 features:
@@ -68,17 +68,17 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
-    content_dir: 'starters/documentation/content'
-    branch: 'main'
+    url: "https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi/"
+    content_dir: "content"
+    branch: "main"
   feedback:
     responses:
-      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new).'
-      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
+      positive: "Glad to hear it! [Any ideas for improvements?](https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi//issues/new)."
+      negative: "Sorry to hear that. [Please tell us how we can improve](https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi/issues/new)."
   comment:
-    provider: ''
+    provider: ""
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: ""
+      repo_id: ""
+      category: ""
+      category_id: ""

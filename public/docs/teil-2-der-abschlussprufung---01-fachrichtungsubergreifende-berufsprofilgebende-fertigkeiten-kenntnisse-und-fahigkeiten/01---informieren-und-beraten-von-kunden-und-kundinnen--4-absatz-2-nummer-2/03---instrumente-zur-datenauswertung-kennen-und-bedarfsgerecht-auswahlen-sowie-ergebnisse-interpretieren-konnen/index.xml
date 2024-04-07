@@ -2,15 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>03 - Instrumente zur Datenauswertung kennen und bedarfsgerecht auswählen sowie Ergebnisse interpretieren können | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/index.xml" rel="self" type="application/rss+xml" />
     <description>03 - Instrumente zur Datenauswertung kennen und bedarfsgerecht auswählen sowie Ergebnisse interpretieren können</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60031/media/logo.svg</url>
+      <title>03 - Instrumente zur Datenauswertung kennen und bedarfsgerecht auswählen sowie Ergebnisse interpretieren können</title>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/</link>
+    </image>
+    
     <item>
       <title>Corporate ldentity (Cl)</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/corporate-ldentity-cl/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/corporate-ldentity-cl/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/corporate-ldentity-cl/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/corporate-ldentity-cl/</guid>
       <description>&lt;h1 id=&#34;corporate-ldentity-cl&#34;&gt;Corporate ldentity (Cl)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -18,9 +24,9 @@
     
     <item>
       <title>Grafische Darstellung (Diagrammarten, Bilderbearbeitung, Videos, multimediale Aufbereitung)</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/grafische-darstellung-diagrammarten-bilderbearbeitung-videos-multimediale-aufbereitung/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/grafische-darstellung-diagrammarten-bilderbearbeitung-videos-multimediale-aufbereitung/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/grafische-darstellung-diagrammarten-bilderbearbeitung-videos-multimediale-aufbereitung/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/grafische-darstellung-diagrammarten-bilderbearbeitung-videos-multimediale-aufbereitung/</guid>
       <description>&lt;h1 id=&#34;grafische-darstellung-diagrammarten-bilderbearbeitung-videos-multimediale-aufbereitung&#34;&gt;Grafische Darstellung (Diagrammarten, Bilderbearbeitung, Videos, multimediale Aufbereitung)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -28,9 +34,9 @@
     
     <item>
       <title>Präsentationsprogramme</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/prasentationsprogramme/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/prasentationsprogramme/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/prasentationsprogramme/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/prasentationsprogramme/</guid>
       <description>&lt;h1 id=&#34;präsentationsprogramme&#34;&gt;Präsentationsprogramme&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -38,9 +44,9 @@
     
     <item>
       <title>Präsentatlonstechniken</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/prasentatlonstechniken/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/prasentatlonstechniken/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/prasentatlonstechniken/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/prasentatlonstechniken/</guid>
       <description>&lt;h1 id=&#34;präsentatlonstechniken&#34;&gt;Präsentatlonstechniken&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -48,9 +54,9 @@
     
     <item>
       <title>Programme zum Erstellen multimedialer Inhalte</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/programme-zum-erstellen-multimedialer-inhalte/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/programme-zum-erstellen-multimedialer-inhalte/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/programme-zum-erstellen-multimedialer-inhalte/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/programme-zum-erstellen-multimedialer-inhalte/</guid>
       <description>&lt;h1 id=&#34;programme-zum-erstellen-multimedialer-inhalte&#34;&gt;Programme zum Erstellen multimedialer Inhalte&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -58,9 +64,9 @@
     
     <item>
       <title>Tabellenkalkulation</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/tabellenkalkulation/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/tabellenkalkulation/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/tabellenkalkulation/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/tabellenkalkulation/</guid>
       <description>&lt;h1 id=&#34;tabellenkalkulation&#34;&gt;Tabellenkalkulation&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -68,9 +74,9 @@
     
     <item>
       <title>Visualisierung</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/visualisierung/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/visualisierung/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/visualisierung/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/03---instrumente-zur-datenauswertung-kennen-und-bedarfsgerecht-auswahlen-sowie-ergebnisse-interpretieren-konnen/visualisierung/</guid>
       <description>&lt;h1 id=&#34;visualisierung&#34;&gt;Visualisierung&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

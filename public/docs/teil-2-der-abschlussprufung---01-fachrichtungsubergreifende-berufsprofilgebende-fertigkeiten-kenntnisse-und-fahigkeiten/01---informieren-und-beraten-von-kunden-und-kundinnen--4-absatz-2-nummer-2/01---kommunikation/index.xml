@@ -2,15 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>01 - Kommunikation | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/index.xml" rel="self" type="application/rss+xml" />
     <description>01 - Kommunikation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60031/media/logo.svg</url>
+      <title>01 - Kommunikation</title>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/</link>
+    </image>
+    
     <item>
       <title>Aktives Zuhören</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/aktives-zuhoren/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/aktives-zuhoren/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/aktives-zuhoren/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/aktives-zuhoren/</guid>
       <description>&lt;h1 id=&#34;aktives-zuhören&#34;&gt;Aktives Zuhören&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -18,9 +24,9 @@
     
     <item>
       <title>Kommunikationsmodelle (z. B. Telefonkonferenzen, Chat, virtuelle Teambesprechung),</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/kommunikationsmodelle-z.-b.-telefonkonferenzen-chat-virtuelle-teambesprechung/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/kommunikationsmodelle-z.-b.-telefonkonferenzen-chat-virtuelle-teambesprechung/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/kommunikationsmodelle-z.-b.-telefonkonferenzen-chat-virtuelle-teambesprechung/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/kommunikationsmodelle-z.-b.-telefonkonferenzen-chat-virtuelle-teambesprechung/</guid>
       <description>&lt;h1 id=&#34;kommunikationsmodelle-z-b-telefonkonferenzen-chat-virtuelle-teambesprechung&#34;&gt;Kommunikationsmodelle (z. B. Telefonkonferenzen, Chat, virtuelle Teambesprechung),&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -28,9 +34,9 @@
     
     <item>
       <title>Verkaufsgespräche (Anfrage, Angebot, Auftrag)</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/verkaufsgesprache-anfrage-angebot-auftrag/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/verkaufsgesprache-anfrage-angebot-auftrag/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/verkaufsgesprache-anfrage-angebot-auftrag/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/01---informieren-und-beraten-von-kunden-und-kundinnen--4-absatz-2-nummer-2/01---kommunikation/verkaufsgesprache-anfrage-angebot-auftrag/</guid>
       <description>&lt;h1 id=&#34;verkaufsgespräche-anfrage-angebot-auftrag&#34;&gt;Verkaufsgespräche (Anfrage, Angebot, Auftrag)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

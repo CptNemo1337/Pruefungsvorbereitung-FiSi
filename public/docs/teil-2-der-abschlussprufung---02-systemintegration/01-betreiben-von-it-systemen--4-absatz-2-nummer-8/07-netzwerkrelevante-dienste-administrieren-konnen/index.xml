@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>07 Netzwerkrelevante Dienste administrieren können | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/index.xml" rel="self" type="application/rss+xml" />
     <description>07 Netzwerkrelevante Dienste administrieren können</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>http://localhost:60031/media/logo.svg</url>
       <title>07 Netzwerkrelevante Dienste administrieren können</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/</link>
     </image>
     
     <item>
       <title>DHCP</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dhcp/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dhcp/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dhcp/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dhcp/</guid>
       <description>&lt;h1 id=&#34;dhcp&#34;&gt;DHCP&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>DNS</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dns/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dns/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dns/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dns/</guid>
       <description>&lt;h1 id=&#34;dns&#34;&gt;DNS&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Proxy</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/proxy/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/proxy/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/proxy/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/proxy/</guid>
       <description>&lt;h1 id=&#34;proxy&#34;&gt;Proxy&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

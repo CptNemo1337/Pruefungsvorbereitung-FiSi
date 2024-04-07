@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>10 Realisieren von IT-Systemen (auswählen, installieren, konfigurieren, bewerten) | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/index.xml" rel="self" type="application/rss+xml" />
     <description>10 Realisieren von IT-Systemen (auswählen, installieren, konfigurieren, bewerten)</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>http://localhost:60031/media/logo.svg</url>
       <title>10 Realisieren von IT-Systemen (auswählen, installieren, konfigurieren, bewerten)</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/</link>
     </image>
     
     <item>
       <title>Anwendungen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/anwendungen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/anwendungen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/anwendungen/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/anwendungen/</guid>
       <description>&lt;h1 id=&#34;anwendungen&#34;&gt;Anwendungen&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Betriebssystem</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/betriebssystem/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/betriebssystem/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/betriebssystem/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/betriebssystem/</guid>
       <description>&lt;h1 id=&#34;betriebssystem&#34;&gt;Betriebssystem&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Dienste</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/dienste/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/dienste/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/dienste/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/dienste/</guid>
       <description>&lt;h1 id=&#34;dienste&#34;&gt;Dienste&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>etc.</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/etc./</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/etc./</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/etc./</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/etc./</guid>
       <description>&lt;h1 id=&#34;etc&#34;&gt;etc.&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>Hardware</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/hardware/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/hardware/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/hardware/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/hardware/</guid>
       <description>&lt;h1 id=&#34;hardware&#34;&gt;Hardware&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@
     
     <item>
       <title>Server</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/server/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/server/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/server/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/10-realisieren-von-it-systemen-auswahlen-installieren-konfigurieren-bewerten/server/</guid>
       <description>&lt;h1 id=&#34;server&#34;&gt;Server&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

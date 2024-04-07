@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>02 Geeignete Topologien und Übertragungswege bewerten | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/index.xml" rel="self" type="application/rss+xml" />
     <description>02 Geeignete Topologien und Übertragungswege bewerten</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>http://localhost:60031/media/logo.svg</url>
       <title>02 Geeignete Topologien und Übertragungswege bewerten</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/</link>
     </image>
     
     <item>
       <title>Funk</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/funk/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/funk/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/funk/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/funk/</guid>
       <description>&lt;h1 id=&#34;funk&#34;&gt;Funk&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Glasfaser</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/glasfaser/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/glasfaser/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/glasfaser/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/glasfaser/</guid>
       <description>&lt;h1 id=&#34;glasfaser&#34;&gt;Glasfaser&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Kupferkabel</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/kupferkabel/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/kupferkabel/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/kupferkabel/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/05-installieren-und-konfigurieren-von-netzwerken--4-absatz-4-nummer-2/02-geeignete-topologien-und-ubertragungswege-bewerten/kupferkabel/</guid>
       <description>&lt;h1 id=&#34;kupferkabel&#34;&gt;Kupferkabel&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

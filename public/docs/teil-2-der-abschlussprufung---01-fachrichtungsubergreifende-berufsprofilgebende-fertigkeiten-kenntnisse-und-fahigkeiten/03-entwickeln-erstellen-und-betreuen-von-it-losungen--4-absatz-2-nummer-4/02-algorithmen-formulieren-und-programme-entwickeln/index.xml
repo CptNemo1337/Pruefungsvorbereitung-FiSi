@@ -2,15 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>02 Algorithmen formulieren und Programme entwickeln | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/index.xml" rel="self" type="application/rss+xml" />
     <description>02 Algorithmen formulieren und Programme entwickeln</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60031/media/logo.svg</url>
+      <title>02 Algorithmen formulieren und Programme entwickeln</title>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/</link>
+    </image>
+    
     <item>
       <title>Abbildung der Kontrollstrukturen mittels Struktogramm, PAP oder Pseudocode als didaktisches Hillsmittel</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/abbildung-der-kontrollstrukturen-mittels-struktogramm-pap-oder-pseudocode-als-didaktisches-hillsmittel/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/abbildung-der-kontrollstrukturen-mittels-struktogramm-pap-oder-pseudocode-als-didaktisches-hillsmittel/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/abbildung-der-kontrollstrukturen-mittels-struktogramm-pap-oder-pseudocode-als-didaktisches-hillsmittel/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/abbildung-der-kontrollstrukturen-mittels-struktogramm-pap-oder-pseudocode-als-didaktisches-hillsmittel/</guid>
       <description>&lt;h1 id=&#34;abbildung-der-kontrollstrukturen-mittels-struktogramm-pap-oder-pseudocode-als-didaktisches-hillsmittel&#34;&gt;Abbildung der Kontrollstrukturen mittels Struktogramm, PAP oder Pseudocode als didaktisches Hillsmittel&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -18,9 +24,9 @@
     
     <item>
       <title>Entwurf der Bildschinnausgabemasken (Softwareergonomie, Barrierefreiheit}</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/entwurf-der-bildschinnausgabemasken-softwareergonomie-barrierefreiheit/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/entwurf-der-bildschinnausgabemasken-softwareergonomie-barrierefreiheit/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/entwurf-der-bildschinnausgabemasken-softwareergonomie-barrierefreiheit/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/entwurf-der-bildschinnausgabemasken-softwareergonomie-barrierefreiheit/</guid>
       <description>&lt;h1 id=&#34;entwurf-der-bildschinnausgabemasken-softwareergonomie-barrierefreiheit&#34;&gt;Entwurf der Bildschinnausgabemasken (Softwareergonomie, Barrierefreiheit}&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -28,9 +34,9 @@
     
     <item>
       <title>UML (Use Case, Klassendiagramm)</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/uml-use-case-klassendiagramm/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/uml-use-case-klassendiagramm/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/uml-use-case-klassendiagramm/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/uml-use-case-klassendiagramm/</guid>
       <description>&lt;h1 id=&#34;uml-use-case-klassendiagramm&#34;&gt;UML (Use Case, Klassendiagramm)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

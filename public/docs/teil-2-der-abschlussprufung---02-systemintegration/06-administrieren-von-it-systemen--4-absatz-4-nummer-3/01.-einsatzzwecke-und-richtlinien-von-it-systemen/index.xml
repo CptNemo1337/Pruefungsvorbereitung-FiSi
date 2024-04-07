@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>01. Einsatzzwecke und Richtlinien von IT-Systemen | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/index.xml" rel="self" type="application/rss+xml" />
     <description>01. Einsatzzwecke und Richtlinien von IT-Systemen</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>http://localhost:60031/media/logo.svg</url>
       <title>01. Einsatzzwecke und Richtlinien von IT-Systemen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/</link>
     </image>
     
     <item>
       <title>Berechtigungsstufen, Rollen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/berechtigungsstufen-rollen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/berechtigungsstufen-rollen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/berechtigungsstufen-rollen/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/berechtigungsstufen-rollen/</guid>
       <description>&lt;h1 id=&#34;berechtigungsstufen-rollen&#34;&gt;Berechtigungsstufen, Rollen&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Betriebsvereinbarungen u. Ä.</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/betriebsvereinbarungen-u.-a./</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/betriebsvereinbarungen-u.-a./</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/betriebsvereinbarungen-u.-a./</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/betriebsvereinbarungen-u.-a./</guid>
       <description>&lt;h1 id=&#34;betriebsvereinbarungen-u-ä&#34;&gt;Betriebsvereinbarungen u. Ä.&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>BYOD</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/byod/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/byod/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/byod/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/byod/</guid>
       <description>&lt;h1 id=&#34;byod&#34;&gt;BYOD&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>Data Loss Prävention</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/data-loss-pravention/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/data-loss-pravention/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/data-loss-pravention/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/data-loss-pravention/</guid>
       <description>&lt;h1 id=&#34;data-loss-prävention&#34;&gt;Data Loss Prävention&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>etc.</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/etc./</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/etc./</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/etc./</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/etc./</guid>
       <description>&lt;h1 id=&#34;etc&#34;&gt;etc.&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@
     
     <item>
       <title>Identifizieren, abgrenzen und beschreiben</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/identifizieren-abgrenzen-und-beschreiben/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/identifizieren-abgrenzen-und-beschreiben/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/identifizieren-abgrenzen-und-beschreiben/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/identifizieren-abgrenzen-und-beschreiben/</guid>
       <description>&lt;h1 id=&#34;identifizieren-abgrenzen-und-beschreiben&#34;&gt;Identifizieren, abgrenzen und beschreiben&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -74,9 +74,9 @@
     
     <item>
       <title>IT-Grundschutz-Vorgaben (BSI)</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/it-grundschutz-vorgaben-bsi/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/it-grundschutz-vorgaben-bsi/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/it-grundschutz-vorgaben-bsi/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/it-grundschutz-vorgaben-bsi/</guid>
       <description>&lt;h1 id=&#34;it-grundschutz-vorgaben-bsi&#34;&gt;IT-Grundschutz-Vorgaben (BSI)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -84,9 +84,9 @@
     
     <item>
       <title>IT-Sicherheitsrichtlinien</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/it-sicherheitsrichtlinien/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/it-sicherheitsrichtlinien/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/it-sicherheitsrichtlinien/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/it-sicherheitsrichtlinien/</guid>
       <description>&lt;h1 id=&#34;it-sicherheitsrichtlinien&#34;&gt;IT-Sicherheitsrichtlinien&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -94,9 +94,9 @@
     
     <item>
       <title>Neuerordnung u. Ä.</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/neuerordnung-u.-a./</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/neuerordnung-u.-a./</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/neuerordnung-u.-a./</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/01.-einsatzzwecke-und-richtlinien-von-it-systemen/neuerordnung-u.-a./</guid>
       <description>&lt;h1 id=&#34;neuerordnung-u-ä&#34;&gt;Neuerordnung u. Ä.&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

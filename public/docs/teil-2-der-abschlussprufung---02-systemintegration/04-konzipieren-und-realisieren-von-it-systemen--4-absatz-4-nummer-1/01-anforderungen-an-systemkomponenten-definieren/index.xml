@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>01 Anforderungen an Systemkomponenten definieren | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/index.xml" rel="self" type="application/rss+xml" />
     <description>01 Anforderungen an Systemkomponenten definieren</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>http://localhost:60031/media/logo.svg</url>
       <title>01 Anforderungen an Systemkomponenten definieren</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/</link>
     </image>
     
     <item>
       <title>Anwendungen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/anwendungen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/anwendungen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/anwendungen/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/anwendungen/</guid>
       <description>&lt;h1 id=&#34;anwendungen&#34;&gt;Anwendungen&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Appliance</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/appliance/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/appliance/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/appliance/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/appliance/</guid>
       <description>&lt;h1 id=&#34;appliance&#34;&gt;Appliance&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Betriebssysteme</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/betriebssysteme/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/betriebssysteme/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/betriebssysteme/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/betriebssysteme/</guid>
       <description>&lt;h1 id=&#34;betriebssysteme&#34;&gt;Betriebssysteme&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>Clients</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/clients/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/clients/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/clients/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/clients/</guid>
       <description>&lt;h1 id=&#34;clients&#34;&gt;Clients&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>etc.</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/etc./</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/etc./</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/etc./</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/etc./</guid>
       <description>&lt;h1 id=&#34;etc&#34;&gt;etc.&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@
     
     <item>
       <title>Peripheriegeräte</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/peripheriegerate/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/peripheriegerate/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/peripheriegerate/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/peripheriegerate/</guid>
       <description>&lt;h1 id=&#34;peripheriegeräte&#34;&gt;Peripheriegeräte&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -74,9 +74,9 @@
     
     <item>
       <title>Server</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/server/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/server/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/server/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/server/</guid>
       <description>&lt;h1 id=&#34;server&#34;&gt;Server&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -84,9 +84,9 @@
     
     <item>
       <title>Sicherheitsaspekte</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/sicherheitsaspekte/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/sicherheitsaspekte/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/sicherheitsaspekte/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/sicherheitsaspekte/</guid>
       <description>&lt;h1 id=&#34;sicherheitsaspekte&#34;&gt;Sicherheitsaspekte&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -94,9 +94,9 @@
     
     <item>
       <title>Storage</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/storage/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/storage/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/storage/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/storage/</guid>
       <description>&lt;h1 id=&#34;storage&#34;&gt;Storage&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -104,9 +104,9 @@
     
     <item>
       <title>Virtualisierung</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/virtualisierung/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/virtualisierung/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/virtualisierung/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/01-anforderungen-an-systemkomponenten-definieren/virtualisierung/</guid>
       <description>&lt;h1 id=&#34;virtualisierung&#34;&gt;Virtualisierung&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

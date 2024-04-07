@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>02 Anforderungen an das Netzwerk definieren | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/index.xml" rel="self" type="application/rss+xml" />
     <description>02 Anforderungen an das Netzwerk definieren</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>http://localhost:60031/media/logo.svg</url>
       <title>02 Anforderungen an das Netzwerk definieren</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/</link>
     </image>
     
     <item>
       <title>Bandbreite</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/bandbreite/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/bandbreite/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/bandbreite/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/bandbreite/</guid>
       <description>&lt;h1 id=&#34;bandbreite&#34;&gt;Bandbreite&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>etc.</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/etc./</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/etc./</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/etc./</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/etc./</guid>
       <description>&lt;h1 id=&#34;etc&#34;&gt;etc.&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Latenz</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/latenz/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/latenz/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/latenz/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/latenz/</guid>
       <description>&lt;h1 id=&#34;latenz&#34;&gt;Latenz&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>Netzwerksicherheit</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/netzwerksicherheit/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/netzwerksicherheit/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/netzwerksicherheit/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/netzwerksicherheit/</guid>
       <description>&lt;h1 id=&#34;netzwerksicherheit&#34;&gt;Netzwerksicherheit&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>Übertragungsmedium</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/ubertragungsmedium/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/ubertragungsmedium/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/ubertragungsmedium/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/ubertragungsmedium/</guid>
       <description>&lt;h1 id=&#34;übertragungsmedium&#34;&gt;Übertragungsmedium&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@
     
     <item>
       <title>Verfügbarkeit</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/verfugbarkeit/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/verfugbarkeit/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/verfugbarkeit/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/04-konzipieren-und-realisieren-von-it-systemen--4-absatz-4-nummer-1/02-anforderungen-an-das-netzwerk-definieren/verfugbarkeit/</guid>
       <description>&lt;h1 id=&#34;verfügbarkeit&#34;&gt;Verfügbarkeit&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Hugo Docs" # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: "https://ap.cptnemo1337.de" # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -42,7 +42,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: de
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
@@ -62,9 +62,9 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 enableInlineShortcodes: true
 permalinks:
-  authors: '/author/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
+  authors: "/author/:slug/"
+  tags: "/tag/:slug/"
+  categories: "/category/:slug/"
 disableAliases: true
 outputs:
   home: [HTML, RSS, WebAppManifest, headers, redirects]

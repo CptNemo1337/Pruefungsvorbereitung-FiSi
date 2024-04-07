@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>05 Aktualisierungsmethoden auswählen, einsetzen und durchführen bzw. automatisieren | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/index.xml" rel="self" type="application/rss+xml" />
     <description>05 Aktualisierungsmethoden auswählen, einsetzen und durchführen bzw. automatisieren</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>http://localhost:60031/media/logo.svg</url>
       <title>05 Aktualisierungsmethoden auswählen, einsetzen und durchführen bzw. automatisieren</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/</link>
     </image>
     
     <item>
       <title>BIOS-Updates</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/bios-updates/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/bios-updates/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/bios-updates/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/bios-updates/</guid>
       <description>&lt;h1 id=&#34;bios-updates&#34;&gt;BIOS-Updates&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>etc.</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/etc./</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/etc./</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/etc./</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/etc./</guid>
       <description>&lt;h1 id=&#34;etc&#34;&gt;etc.&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Firmware-Updates</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/firmware-updates/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/firmware-updates/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/firmware-updates/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/firmware-updates/</guid>
       <description>&lt;h1 id=&#34;firmware-updates&#34;&gt;Firmware-Updates&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>Hardware-Upgrade</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/hardware-upgrade/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/hardware-upgrade/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/hardware-upgrade/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/hardware-upgrade/</guid>
       <description>&lt;h1 id=&#34;hardware-upgrade&#34;&gt;Hardware-Upgrade&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>Updateverwaltung (z. B. WSUS, SCCM, APT, Repositories)</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/updateverwaltung-z.-b.-wsus-sccm-apt-repositories/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/updateverwaltung-z.-b.-wsus-sccm-apt-repositories/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/updateverwaltung-z.-b.-wsus-sccm-apt-repositories/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/06-administrieren-von-it-systemen--4-absatz-4-nummer-3/05-aktualisierungsmethoden-auswahlen-einsetzen-und-durchfuhren-bzw.-automatisieren/updateverwaltung-z.-b.-wsus-sccm-apt-repositories/</guid>
       <description>&lt;h1 id=&#34;updateverwaltung-z-b-wsus-sccm-apt-repositories&#34;&gt;Updateverwaltung (z. B. WSUS, SCCM, APT, Repositories)&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

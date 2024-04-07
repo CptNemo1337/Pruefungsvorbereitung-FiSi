@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>03. Vorsorgeuntersuchungen | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/index.xml" rel="self" type="application/rss+xml" />
     <description>03. Vorsorgeuntersuchungen</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>http://localhost:60031/media/logo.svg</url>
       <title>03. Vorsorgeuntersuchungen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/</link>
     </image>
     
     <item>
       <title>Augenuntersuchung für Bildschirmarbeitsplätze</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/augenuntersuchung-fur-bildschirmarbeitsplatze/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/augenuntersuchung-fur-bildschirmarbeitsplatze/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/augenuntersuchung-fur-bildschirmarbeitsplatze/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/augenuntersuchung-fur-bildschirmarbeitsplatze/</guid>
       <description>&lt;h1 id=&#34;augenuntersuchung-für-bildschirmarbeitsplätze&#34;&gt;Augenuntersuchung für Bildschirmarbeitsplätze&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Psychische Gefährdungsbeurteilung</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/psychische-gefahrdungsbeurteilung/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/psychische-gefahrdungsbeurteilung/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/psychische-gefahrdungsbeurteilung/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/03-sicherheit-und-gesundheitsschutz-bei-der-arbeit--4111-nr.3/03.-vorsorgeuntersuchungen/psychische-gefahrdungsbeurteilung/</guid>
       <description>&lt;h1 id=&#34;psychische-gefährdungsbeurteilung&#34;&gt;Psychische Gefährdungsbeurteilung&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>13. Berufliche Fortbildung und Umschulung | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/index.xml" rel="self" type="application/rss+xml" />
     <description>13. Berufliche Fortbildung und Umschulung</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>http://localhost:60031/media/logo.svg</url>
       <title>13. Berufliche Fortbildung und Umschulung</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/</link>
     </image>
     
     <item>
       <title>Innerbetriebliche Fortbildung</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/innerbetriebliche-fortbildung/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/innerbetriebliche-fortbildung/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/innerbetriebliche-fortbildung/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/innerbetriebliche-fortbildung/</guid>
       <description>&lt;h1 id=&#34;innerbetriebliche-fortbildung&#34;&gt;Innerbetriebliche Fortbildung&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>IT-Weiterbildung ergänzend zur Ausbildung in den IT-Berufen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/it-weiterbildung-erganzend-zur-ausbildung-in-den-it-berufen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/it-weiterbildung-erganzend-zur-ausbildung-in-den-it-berufen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/it-weiterbildung-erganzend-zur-ausbildung-in-den-it-berufen/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/it-weiterbildung-erganzend-zur-ausbildung-in-den-it-berufen/</guid>
       <description>&lt;h1 id=&#34;it-weiterbildung-ergänzend-zur-ausbildung-in-den-it-berufen&#34;&gt;IT-Weiterbildung ergänzend zur Ausbildung in den IT-Berufen&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Staatliche Fördermaßnahmen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/staatliche-forderma%C3%9Fnahmen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/staatliche-forderma%C3%9Fnahmen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/staatliche-forderma%C3%9Fnahmen/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/staatliche-forderma%C3%9Fnahmen/</guid>
       <description>&lt;h1 id=&#34;staatliche-fördermaßnahmen&#34;&gt;Staatliche Fördermaßnahmen&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>Umschulungen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/umschulungen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/umschulungen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/umschulungen/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/01-berufsausbildung-sowie-arbeits-und-tarifrecht--4111-nr.-1/13.-berufliche-fortbildung-und-umschulung/umschulungen/</guid>
       <description>&lt;h1 id=&#34;umschulungen&#34;&gt;Umschulungen&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>

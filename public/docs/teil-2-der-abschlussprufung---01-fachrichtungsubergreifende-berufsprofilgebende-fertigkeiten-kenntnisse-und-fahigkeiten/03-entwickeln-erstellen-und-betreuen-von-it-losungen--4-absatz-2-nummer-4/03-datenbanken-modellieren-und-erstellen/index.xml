@@ -2,15 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>03 Datenbanken modellieren und erstellen | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/index.xml" rel="self" type="application/rss+xml" />
     <description>03 Datenbanken modellieren und erstellen</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60031/media/logo.svg</url>
+      <title>03 Datenbanken modellieren und erstellen</title>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/</link>
+    </image>
+    
     <item>
       <title>Abfrage über mehrere Tabellen (JOIN)</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/abfrage-uber-mehrere-tabellen-join/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/abfrage-uber-mehrere-tabellen-join/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/abfrage-uber-mehrere-tabellen-join/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/abfrage-uber-mehrere-tabellen-join/</guid>
       <description>&lt;h1 id=&#34;abfrage-über-mehrere-tabellen-join&#34;&gt;Abfrage über mehrere Tabellen (JOIN)&lt;/h1&gt;
 &lt;h2 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;JOINs&lt;/strong&gt; in SQL werden verwendet, um Zeilen aus zwei oder mehr Tabellen zu kombinieren, basierend auf einer verwandten Spalte zwischen ihnen. Das Verständnis von JOINs ist entscheidend, um komplexe Abfragen zu erstellen und relationale Datenbanken effektiv zu nutzen.&lt;/p&gt;
@@ -95,9 +101,9 @@
     
     <item>
       <title>Aggregat-Funktionen, z.B. SUM</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/aggregat-funktionen-z.b.-sum/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/aggregat-funktionen-z.b.-sum/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/aggregat-funktionen-z.b.-sum/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/aggregat-funktionen-z.b.-sum/</guid>
       <description>&lt;h1 id=&#34;aggregat-funktionen-zb-sum&#34;&gt;Aggregat-Funktionen, z.B. SUM&lt;/h1&gt;
 &lt;p&gt;Aggregatfunktionen in SQL sind mächtige Werkzeuge, die es ermöglichen, statistische Informationen aus Datensätzen zu berechnen. Sie werden typischerweise in Kombination mit der &lt;code&gt;GROUP BY&lt;/code&gt;-Klausel verwendet, können aber auch ohne sie angewendet werden.&lt;/p&gt;
 &lt;h2 id=&#34;sum&#34;&gt;SUM&lt;/h2&gt;
@@ -194,9 +200,9 @@
     
     <item>
       <title>Ausdrücke und Bedingungen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/ausdrucke-und-bedingungen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/ausdrucke-und-bedingungen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/ausdrucke-und-bedingungen/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/ausdrucke-und-bedingungen/</guid>
       <description>&lt;h1 id=&#34;ausdrücke-und-bedingungen-operatoren&#34;&gt;Ausdrücke und Bedingungen (Operatoren)&lt;/h1&gt;
 &lt;p&gt;Ausdrücke und Bedingungen in SQL werden verwendet, um spezifische Datensätze zu filtern, Daten zu modifizieren oder Berechnungen durchzuführen. Sie sind entscheidend für die Erstellung effektiver und effizienter SQL-Abfragen.&lt;/p&gt;
 &lt;h2 id=&#34;grundlegende-vergleichsoperatoren&#34;&gt;Grundlegende Vergleichsoperatoren&lt;/h2&gt;
@@ -263,9 +269,9 @@
     
     <item>
       <title>Datenbankabfrage, Datenpflege</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/datenbankabfrage-datenpflege/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/datenbankabfrage-datenpflege/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/datenbankabfrage-datenpflege/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/datenbankabfrage-datenpflege/</guid>
       <description>&lt;h1 id=&#34;datenbankabfrage-datenpflege&#34;&gt;Datenbankabfrage, Datenpflege&lt;/h1&gt;
 &lt;h2 id=&#34;grundlagen&#34;&gt;Grundlagen&lt;/h2&gt;
 &lt;h2 id=&#34;select-befehl&#34;&gt;SELECT-Befehl&lt;/h2&gt;
@@ -338,9 +344,9 @@
     
     <item>
       <title>ER-Diagramm, Attribute, Beziehungen, Kardinalitäten, relerenzielle Integrität, Aktualisierungsweitergabe. Löschweitergabe, Primärschlüssel, Fremdschlüssel</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/er-diagramm-attribute-beziehungen-kardinalitaten-relerenzielle-integritat-aktualisierungsweitergabe.-loschweitergabe-primarschlussel-fremdschlussel/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/er-diagramm-attribute-beziehungen-kardinalitaten-relerenzielle-integritat-aktualisierungsweitergabe.-loschweitergabe-primarschlussel-fremdschlussel/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/er-diagramm-attribute-beziehungen-kardinalitaten-relerenzielle-integritat-aktualisierungsweitergabe.-loschweitergabe-primarschlussel-fremdschlussel/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/er-diagramm-attribute-beziehungen-kardinalitaten-relerenzielle-integritat-aktualisierungsweitergabe.-loschweitergabe-primarschlussel-fremdschlussel/</guid>
       <description>&lt;h1 id=&#34;er-diagramm-attribute-beziehungen-kardinalitäten-relerenzielle-integrität-aktualisierungsweitergabe-löschweitergabe-primärschlüssel-fremdschlüssel&#34;&gt;ER-Diagramm, Attribute, Beziehungen, Kardinalitäten, relerenzielle Integrität, Aktualisierungsweitergabe. Löschweitergabe, Primärschlüssel, Fremdschlüssel&lt;/h1&gt;
 &lt;h3 id=&#34;er-diagramme-und-datenbankdesign&#34;&gt;ER-Diagramme und Datenbankdesign&lt;/h3&gt;
 &lt;h4 id=&#34;1-einführung-in-er-diagramme&#34;&gt;1. Einführung in ER-Diagramme&lt;/h4&gt;
@@ -384,9 +390,9 @@
     
     <item>
       <title>Normalisieren, 1. bis 3. Normalform</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/normalisieren-1.-bis-3.-normalform/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/normalisieren-1.-bis-3.-normalform/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/normalisieren-1.-bis-3.-normalform/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/normalisieren-1.-bis-3.-normalform/</guid>
       <description>&lt;h2 id=&#34;normalisieren-1-bis-3-normalform&#34;&gt;Normalisieren, 1. bis 3. Normalform&lt;/h2&gt;
 &lt;p&gt;Wir verwenden ein „klassisches&amp;quot; Beispiel, das so oder ähnlich in vielen IHK-Prüfungen genutzt wird.&lt;/p&gt;
 &lt;ul&gt;
@@ -531,9 +537,9 @@
     
     <item>
       <title>OpenData, API-Schnittstellen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/opendata-api-schnittstellen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/opendata-api-schnittstellen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/opendata-api-schnittstellen/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/opendata-api-schnittstellen/</guid>
       <description>&lt;h1 id=&#34;opendata-und-api-schnittstellen&#34;&gt;OpenData und API-Schnittstellen&lt;/h1&gt;
 &lt;h2 id=&#34;open-data&#34;&gt;Open Data&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Open Data&lt;/strong&gt; bezieht sich auf Daten, die für jeden frei zugänglich und nutzbar sind, mit dem Ziel, Transparenz zu fördern und innovative Lösungen zu ermöglichen. Open Data wird häufig von Regierungen, Forschungseinrichtungen und Non-Profit-Organisationen in Formaten bereitgestellt, die leicht zu verwenden, zu teilen und zu modifizieren sind.&lt;/p&gt;
@@ -577,9 +583,9 @@
     
     <item>
       <title>Relationale und nicht-relationale Datenbanken, NoSQL Datenbanken</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/relationale-und-nicht-relationale-datenbanken-nosql-datenbanken/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/relationale-und-nicht-relationale-datenbanken-nosql-datenbanken/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/relationale-und-nicht-relationale-datenbanken-nosql-datenbanken/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/relationale-und-nicht-relationale-datenbanken-nosql-datenbanken/</guid>
       <description>&lt;h1 id=&#34;relationale-und-nicht-relationale-datenbanken-nosql-datenbanken&#34;&gt;Relationale und nicht-relationale Datenbanken, NoSQL Datenbanken&lt;/h1&gt;
 &lt;h2 id=&#34;relationale-datenbanken&#34;&gt;Relationale Datenbanken&lt;/h2&gt;
 &lt;h3 id=&#34;grundlagen&#34;&gt;Grundlagen&lt;/h3&gt;
@@ -646,9 +652,9 @@
     
     <item>
       <title>Tabellenstruktur, Indexierung, Manipulation, Projektion, Selektion, Sortieren und Gruppieren</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/tabellenstruktur-indexierung-manipulation-projektion-selektion-sortieren-und-gruppieren/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/tabellenstruktur-indexierung-manipulation-projektion-selektion-sortieren-und-gruppieren/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/tabellenstruktur-indexierung-manipulation-projektion-selektion-sortieren-und-gruppieren/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/tabellenstruktur-indexierung-manipulation-projektion-selektion-sortieren-und-gruppieren/</guid>
       <description>&lt;h1 id=&#34;sql-befehlskategorien--struktur-und-indexierung&#34;&gt;SQL-Befehlskategorien + Struktur und Indexierung&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 &lt;p&gt;Tabellenstruktur, Index, Manipulation, Projektion, Selektion, , Sortieren, Gruppieren&lt;/p&gt;

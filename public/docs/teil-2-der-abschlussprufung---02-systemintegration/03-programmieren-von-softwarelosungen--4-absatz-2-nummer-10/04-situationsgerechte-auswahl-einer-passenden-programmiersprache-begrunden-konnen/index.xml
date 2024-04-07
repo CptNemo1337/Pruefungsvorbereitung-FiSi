@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>04 Situationsgerechte Auswahl einer passenden Programmiersprache begründen können | Hugo Docs</title>
-    <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/</link>
-      <atom:link href="http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/</link>
+      <atom:link href="http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/index.xml" rel="self" type="application/rss+xml" />
     <description>04 Situationsgerechte Auswahl einer passenden Programmiersprache begründen können</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>http://localhost:60031/media/logo.svg</url>
       <title>04 Situationsgerechte Auswahl einer passenden Programmiersprache begründen können</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/</link>
     </image>
     
     <item>
       <title>Aufwand</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/aufwand/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/aufwand/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/aufwand/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/aufwand/</guid>
       <description>&lt;h1 id=&#34;aufwand&#34;&gt;Aufwand&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Einsatz von Integrierten Entwicklungsumgebungen</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/einsatz-von-integrierten-entwicklungsumgebungen/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/einsatz-von-integrierten-entwicklungsumgebungen/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/einsatz-von-integrierten-entwicklungsumgebungen/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/einsatz-von-integrierten-entwicklungsumgebungen/</guid>
       <description>&lt;h1 id=&#34;einsatz-von-integrierten-entwicklungsumgebungen&#34;&gt;Einsatz von Integrierten Entwicklungsumgebungen&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Framework oder Bibliotheken</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/framework-oder-bibliotheken/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/framework-oder-bibliotheken/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/framework-oder-bibliotheken/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/framework-oder-bibliotheken/</guid>
       <description>&lt;h1 id=&#34;framework-oder-bibliotheken&#34;&gt;Framework oder Bibliotheken&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>Know-how oder Fachkenntnis</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/know-how-oder-fachkenntnis/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/know-how-oder-fachkenntnis/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/know-how-oder-fachkenntnis/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/know-how-oder-fachkenntnis/</guid>
       <description>&lt;h1 id=&#34;know-how-oder-fachkenntnis&#34;&gt;Know-how oder Fachkenntnis&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>Performance, Speicherverbrauch</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/performance-speicherverbrauch/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/performance-speicherverbrauch/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/performance-speicherverbrauch/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/performance-speicherverbrauch/</guid>
       <description>&lt;h1 id=&#34;performance-speicherverbrauch&#34;&gt;Performance, Speicherverbrauch&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@
     
     <item>
       <title>Portabilität</title>
-      <link>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/portabilitat/</link>
+      <link>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/portabilitat/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/portabilitat/</guid>
+      <guid>http://localhost:60031/docs/teil-2-der-abschlussprufung---02-systemintegration/03-programmieren-von-softwarelosungen--4-absatz-2-nummer-10/04-situationsgerechte-auswahl-einer-passenden-programmiersprache-begrunden-konnen/portabilitat/</guid>
       <description>&lt;h1 id=&#34;portabilität&#34;&gt;Portabilität&lt;/h1&gt;
 &lt;p&gt;Hier könnte Ihr Text stehen&lt;/p&gt;
 </description>
