@@ -46,86 +46,186 @@ Git ist ein mächtiges Tool, das, wenn es richtig eingesetzt wird, die Entwicklu
 
 Hier sind einige konkrete Beispiele, die zeigen, wie man die beschriebenen Git-Befehle und -Praktiken in der Praxis anwendet.
 
-## Initialisierung eines neuen Repositories
+Hier ist dein Lernzettel in Markdown, basierend auf der Struktur der Webseite, die du angegeben hast. Dieses Format kann in einer Markdown-fähigen Umgebung, wie z.B. GitHub, GitLab oder einem lokalen Markdown-Editor, verwendet werden.
 
-Um ein neues Git-Repository zu initialisieren, öffnen Sie das Terminal, navigieren Sie zu Ihrem Projektverzeichnis und führen Sie den folgenden Befehl aus:
+# Git - Der einfache Einstieg
 
-```bash
-git init
+Eine einfache Anleitung, um Git zu lernen. Kein Schnick-Schnack ;)
+
+## Installation
+
+- [Git für OS X herunterladen](http://git-scm.com/download/mac)
+- [Git für Windows herunterladen](http://msysgit.github.io/)
+- [Git für Linux herunterladen](http://book.git-scm.com/2_installing_git.html)
+
+## Neues Repository erstellen
+
+Erstelle ein neues Verzeichnis, öffne es und führe `git init` aus, um ein neues git-Repository anzulegen.
+
+## Ein Repository auschecken
+
+Erstelle eine Arbeitskopie, indem du folgenden Befehl ausführst:
+
+```
+git clone /pfad/zum/repository
 ```
 
-Dieser Befehl erstellt ein neues Git-Repository im aktuellen Verzeichnis.
+Falls du ein entferntes Repository verwendest, benutze:
 
-## Klonen eines bestehenden Repositories
-
-Um ein bestehendes Repository zu klonen, verwenden Sie:
-
-```bash
-git clone https://github.com/benutzername/repository-name.git
+```
+git clone benutzername@host:/pfad/zum/repository
 ```
 
-Ersetzen Sie `https://github.com/benutzername/repository-name.git` durch die URL des Repositories, das Sie klonen möchten.
+## Workflow
 
-## Änderungen hinzufügen und committen
+Dein lokales Repository besteht aus drei "Instanzen", die von git verwaltet werden. Die erste ist deine `Arbeitskopie`, welche die echten Dateien enthält. Die zweite ist der `Index`, welcher als Zwischenstufe agiert und zu guter Letzt noch der `HEAD`, der auf deinen letzten Commit zeigt.
 
-Wenn Sie eine Datei geändert haben und diese Änderungen committen möchten, verwenden Sie:
+![Workflow](img/trees.png)
 
-```bash
-git add dateiname.txt
-git commit -m "Eine aussagekräftige Commit-Nachricht"
+## Add & Commit
+
+Du kannst Änderungen vorschlagen (zum Index hinzufügen) mit:
+
+```
+git add <dateiname>
+git add *
 ```
 
-Ersetzen Sie `dateiname.txt` durch den Namen der Datei, die Sie committen möchten.
+Das ist der erste Schritt im git workflow, du bestätigst deine Änderungen mit:
 
-## Arbeiten mit Branches
-
-Um einen neuen Branch zu erstellen und sofort dorthin zu wechseln:
-
-```bash
-git checkout -b neuer-branch-name
+```
+git commit -m "Commit-Nachricht"
 ```
 
-Um zu einem anderen Branch zu wechseln:
+Jetzt befindet sich die Änderung im HEAD, aber noch nicht im entfernten Repository.
 
-```bash
-git checkout existierender-branch-name
+## Änderungen hochladen
+
+Die Änderungen sind jetzt im HEAD deines lokalen Repositories. Um die Änderungen an dein entferntes Repository zu senden, führe:
+
+```
+git push origin master
 ```
 
-Um einen Branch mit dem aktuellen Branch zu mergen:
+aus. Du kannst `master` auch mit einem beliebigen anderen Branch ersetzen.
 
-```bash
-git merge anderer-branch-name
+## Branching
+
+Branches werden benutzt, um verschiedene Funktionen isoliert voneinander zu entwickeln.
+
+![Branching](img/branches.png)
+
+Erstelle einen neuen Branch mit dem Namen "feature_x" und wechsle zu diesem:
+
+```
+git checkout -b feature_x
 ```
 
-## Änderungen pushen und pullen
+Um zum Master zurück zu wechseln:
 
-Um Ihre lokalen Commits zu einem Remote-Repository (z.B. GitHub) zu pushen:
-
-```bash
-git push origin main
+```
+git checkout master
 ```
 
-Ersetzen Sie `main` mit dem Namen des Branches, den Sie pushen möchten.
+Und um den eben erstellten Branch wieder zu löschen:
 
-Um Änderungen von einem Remote-Repository zu holen und mit Ihrem lokalen Repository zu mergen:
-
-```bash
-git pull origin main
+```
+git branch -d feature_x
 ```
 
-## Konflikte lösen
+Ein Branch ist nicht für andere verfügbar, bis du diesen in dein entferntes Repository hochlädst:
 
-Konflikte treten auf, wenn Git nicht automatisch Änderungen zusammenführen kann. Git markiert die betroffenen Dateien und Sie müssen die Konflikte manuell lösen, indem Sie die Dateien bearbeiten und die gewünschten Änderungen auswählen. Nachdem Sie die Konflikte gelöst haben, fügen Sie die Dateien zum Staging-Bereich hinzu und committen Sie sie:
-
-```bash
-git add .
-git commit -m "Konflikte gelöst"
+```
+git push origin <branch>
 ```
 
-## Best Practices umsetzen
+## Update & Merge
 
-- **Regelmäßige Commits**: Führen Sie kleine, fokussierte Änderungen durch und committen Sie diese regelmäßig mit klaren Nachrichten.
-- **Review-Prozesse**: Nutzen Sie Pull Requests (auf Plattformen wie GitHub), um Code-Reviews zu erleichtern, bevor Änderungen gemerged werden.
-- **Branching-Strategie**: Arbeiten Sie für neue Features in separaten Branches und mergen Sie diese zurück in den Hauptbranch (`main` oder `master`), sobald sie fertiggestellt sind.
+Um dein lokales Repository mit den neuesten Änderungen zu aktualisieren, verwende:
 
-Durch das Befolgen dieser Beispiele und Praktiken können Sie effektiver mit Git arbeiten und eine solide Basis für die Zusammenarbeit in Softwareprojekten schaffen.
+```
+git pull
+```
+
+in deiner Arbeitskopie, um die Änderungen erst herunterzuladen (fetch) und dann mit deinem Stand zusammenzuführen (merge).
+
+## Tagging
+
+Es wird empfohlen, für Software Releasestags zu verwenden. Du kannst einen neuen Tag namens `1.0.0` erstellen mit:
+
+```
+git tag 1.0.0 1b2e1d63ff
+```
+
+## Änderungen rückgängig machen
+
+Wenn du mal etwas falsch machst, kannst du die lokalen Änderungen mit folgendem Befehl zurücksetzen:
+
+```
+git checkout -- <filename>
+```
+
+## Nützliche Tricks
+
+- Eingebaute git-GUI: `gitk`
+- Farbige Konsolenausgabe: `git config color.ui true`
+- Eine Zeile pro Commit in der Logausgabe: `git config format.pretty oneline`
+- Interaktives Hinzufügen von Änderungen: `git add -i`
+
+## Links
+
+### Grafische Clients
+
+- [GitX (L) (OS X, Open Source)](http://gitx.laullon.com/)
+- [Tower (OS X)](http://www.git-tower.com/)
+- [Source Tree (OS X, kostenlos)](http://www.sourcetreeapp.com/)
+- [GitHub for Mac (OS X, kostenlos)](http://mac.github.com/)
+- [GitBox (OS X)](https://itunes.apple.com/gb/app/gitbox/id403388357?mt=12
+
+)
+
+### Anleitungen
+
+- [Git Community Book](http://book.git-scm.com/)
+- [Pro Git](http://progit.org/book/)
+- [Think like a git](http://think-like-a-git.net/)
+- [GitHub Help](http://help.github.com/)
+- [A Visual Git Guide](http://marklodato.github.com/visual-git-guide/index-en.html)
+
+Deine Anleitung sieht schon sehr gut und umfassend aus! Sie deckt viele wichtige Aspekte von Git ab und bietet sowohl Einsteigern als auch fortgeschrittenen Benutzern wertvolle Informationen. Die Integration von praktischen Beispielen und nützlichen Links macht sie besonders hilfreich.
+
+Nun zur Nutzung von Git in Visual Studio Code (VSCode):
+
+# Git in Visual Studio Code
+
+Visual Studio Code (VSCode) bietet eine ausgezeichnete Unterstützung für Git, die es Entwicklern ermöglicht, Git-Operationen direkt aus der Entwicklungsumgebung heraus durchzuführen, ohne auf die Kommandozeile wechseln zu müssen. Hier ist eine kurze Anleitung, wie Git in VSCode verwendet wird.
+
+### Git-Integration aktivieren
+
+VSCode erkennt automatisch Git-Repositories in geöffneten Ordnern, sofern Git auf Ihrem System installiert ist. Um zu überprüfen, ob Git korrekt erkannt wurde, öffnen Sie den Befehlspalette (mit `Strg+Shift+P` oder `Cmd+Shift+P` auf macOS) und geben Sie `Git: Show Git Output` ein. Sollten keine Fehler angezeigt werden, ist Git korrekt eingerichtet.
+
+### Grundlegende Git-Operationen in VSCode
+
+- **Änderungen Stageen**: Ändern Sie Dateien in Ihrem Projekt und öffnen Sie dann die Git-Seitenleiste (zu finden unter dem SCM-Symbol auf der Seitenleiste oder durch Drücken von `Strg+Shift+G` / `Cmd+Shift+G`). Hier können Sie Dateien zum Staging-Bereich hinzufügen, indem Sie auf das „+“-Symbol neben jeder Datei klicken.
+- **Commit**: Nachdem Sie Ihre Änderungen gestaged haben, geben Sie eine Commit-Nachricht in das Textfeld oben in der Git-Seitenleiste ein und drücken Sie `Strg+Enter` / `Cmd+Enter`, um den Commit zu erstellen.
+- **Push und Pull**: Um Ihre Änderungen zu pushen, klicken Sie auf die `...`-Schaltfläche in der oberen rechten Ecke der Git-Seitenleiste und wählen Sie `Push`. Um Änderungen von einem Remote-Repository zu holen, wählen Sie `Pull`.
+
+### Branches verwalten
+
+- Um einen neuen Branch zu erstellen, klicken Sie auf den Branch-Namen in der unteren linken Ecke des VSCode-Fensters. Geben Sie den Namen des neuen Branches ein und bestätigen Sie mit Enter.
+- Um zwischen Branches zu wechseln, klicken Sie erneut auf den Branch-Namen und wählen Sie den Branch aus, zu dem Sie wechseln möchten.
+
+### Merge-Konflikte lösen
+
+Wenn VSCode einen Merge-Konflikt erkennt, öffnet es einen speziellen Editor, der die Konflikte anzeigt. Sie können zwischen `Incoming Change` (den Änderungen aus dem Branch, den Sie mergen möchten) und `Current Change` (Ihren Änderungen) wählen oder beide Änderungen akzeptieren. Nachdem Sie die Konflikte gelöst haben, speichern Sie die Datei und committen Sie die Lösung.
+
+### Erweiterungen für erweiterte Git-Operationen
+
+VSCode hat einen blühenden Marktplatz für Erweiterungen, die die Git-Unterstützung erweitern. Beliebte Erweiterungen sind:
+
+- **GitLens**: Bietet erweiterte Git-Funktionalitäten direkt in VSCode, einschließlich Blame-Informationen, Änderungsverläufe und vieles mehr.
+- **Git Graph**: Zeigt einen visuellen Graphen aller Commits und Branches in Ihrem Repository.
+
+### Fazit
+
+VSCode und Git zusammen bieten eine leistungsstarke Kombination für Softwareentwicklung und -versionierung. Die Integration von Git in VSCode vereinfacht den Entwicklungsworkflow erheblich und macht viele Operationen effizienter und zugänglicher.
