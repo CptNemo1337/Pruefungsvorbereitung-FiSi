@@ -60,43 +60,119 @@
 &lt;/ol>
 &lt;p>Git ist ein mächtiges Tool, das, wenn es richtig eingesetzt wird, die Entwicklung und Zusammenarbeit in Softwareprojekten erheblich verbessern kann. Durch das Verständnis und die Anwendung der oben genannten Konzepte und Befehle können Entwickler effizient mit Git arbeiten und ihre Projekte erfolgreich verwalten.&lt;/p>
 &lt;p>Hier sind einige konkrete Beispiele, die zeigen, wie man die beschriebenen Git-Befehle und -Praktiken in der Praxis anwendet.&lt;/p>
-&lt;h2 id="initialisierung-eines-neuen-repositories">Initialisierung eines neuen Repositories&lt;/h2>
-&lt;p>Um ein neues Git-Repository zu initialisieren, öffnen Sie das Terminal, navigieren Sie zu Ihrem Projektverzeichnis und führen Sie den folgenden Befehl aus:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git init
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Dieser Befehl erstellt ein neues Git-Repository im aktuellen Verzeichnis.&lt;/p>
-&lt;h2 id="klonen-eines-bestehenden-repositories">Klonen eines bestehenden Repositories&lt;/h2>
-&lt;p>Um ein bestehendes Repository zu klonen, verwenden Sie:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git clone https://github.com/benutzername/repository-name.git
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Ersetzen Sie &lt;code>https://github.com/benutzername/repository-name.git&lt;/code> durch die URL des Repositories, das Sie klonen möchten.&lt;/p>
-&lt;h2 id="änderungen-hinzufügen-und-committen">Änderungen hinzufügen und committen&lt;/h2>
-&lt;p>Wenn Sie eine Datei geändert haben und diese Änderungen committen möchten, verwenden Sie:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git add dateiname.txt
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git commit -m &lt;span class="s2">&amp;#34;Eine aussagekräftige Commit-Nachricht&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Ersetzen Sie &lt;code>dateiname.txt&lt;/code> durch den Namen der Datei, die Sie committen möchten.&lt;/p>
-&lt;h2 id="arbeiten-mit-branches">Arbeiten mit Branches&lt;/h2>
-&lt;p>Um einen neuen Branch zu erstellen und sofort dorthin zu wechseln:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git checkout -b neuer-branch-name
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Um zu einem anderen Branch zu wechseln:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git checkout existierender-branch-name
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Um einen Branch mit dem aktuellen Branch zu mergen:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git merge anderer-branch-name
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="änderungen-pushen-und-pullen">Änderungen pushen und pullen&lt;/h2>
-&lt;p>Um Ihre lokalen Commits zu einem Remote-Repository (z.B. GitHub) zu pushen:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git push origin main
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Ersetzen Sie &lt;code>main&lt;/code> mit dem Namen des Branches, den Sie pushen möchten.&lt;/p>
-&lt;p>Um Änderungen von einem Remote-Repository zu holen und mit Ihrem lokalen Repository zu mergen:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git pull origin main
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="konflikte-lösen">Konflikte lösen&lt;/h2>
-&lt;p>Konflikte treten auf, wenn Git nicht automatisch Änderungen zusammenführen kann. Git markiert die betroffenen Dateien und Sie müssen die Konflikte manuell lösen, indem Sie die Dateien bearbeiten und die gewünschten Änderungen auswählen. Nachdem Sie die Konflikte gelöst haben, fügen Sie die Dateien zum Staging-Bereich hinzu und committen Sie sie:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git add .
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git commit -m &lt;span class="s2">&amp;#34;Konflikte gelöst&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="best-practices-umsetzen">Best Practices umsetzen&lt;/h2>
+&lt;p>Hier ist dein Lernzettel in Markdown, basierend auf der Struktur der Webseite, die du angegeben hast. Dieses Format kann in einer Markdown-fähigen Umgebung, wie z.B. GitHub, GitLab oder einem lokalen Markdown-Editor, verwendet werden.&lt;/p>
+&lt;h1 id="git---der-einfache-einstieg">Git - Der einfache Einstieg&lt;/h1>
+&lt;p>Eine einfache Anleitung, um Git zu lernen. Kein Schnick-Schnack ;)&lt;/p>
+&lt;h2 id="installation">Installation&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Regelmäßige Commits&lt;/strong>: Führen Sie kleine, fokussierte Änderungen durch und committen Sie diese regelmäßig mit klaren Nachrichten.&lt;/li>
-&lt;li>&lt;strong>Review-Prozesse&lt;/strong>: Nutzen Sie Pull Requests (auf Plattformen wie GitHub), um Code-Reviews zu erleichtern, bevor Änderungen gemerged werden.&lt;/li>
-&lt;li>&lt;strong>Branching-Strategie&lt;/strong>: Arbeiten Sie für neue Features in separaten Branches und mergen Sie diese zurück in den Hauptbranch (&lt;code>main&lt;/code> oder &lt;code>master&lt;/code>), sobald sie fertiggestellt sind.&lt;/li>
+&lt;li>&lt;a href="http://git-scm.com/download/mac" target="_blank" rel="noopener">Git für OS X herunterladen&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://msysgit.github.io/" target="_blank" rel="noopener">Git für Windows herunterladen&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://book.git-scm.com/2_installing_git.html" target="_blank" rel="noopener">Git für Linux herunterladen&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>Durch das Befolgen dieser Beispiele und Praktiken können Sie effektiver mit Git arbeiten und eine solide Basis für die Zusammenarbeit in Softwareprojekten schaffen.&lt;/p></description></item><item><title>Komponententest, Funktionstest, Integrationstest</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/01-fehler-erkennen-analysieren-und-beheben/komponententest-funktionstest-integrationstest/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/01-fehler-erkennen-analysieren-und-beheben/komponententest-funktionstest-integrationstest/</guid><description>&lt;p>&lt;strong>Komponententest (Unit Test):&lt;/strong>&lt;/p>
+&lt;h2 id="neues-repository-erstellen">Neues Repository erstellen&lt;/h2>
+&lt;p>Erstelle ein neues Verzeichnis, öffne es und führe &lt;code>git init&lt;/code> aus, um ein neues git-Repository anzulegen.&lt;/p>
+&lt;h2 id="ein-repository-auschecken">Ein Repository auschecken&lt;/h2>
+&lt;p>Erstelle eine Arbeitskopie, indem du folgenden Befehl ausführst:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git clone /pfad/zum/repository
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Falls du ein entferntes Repository verwendest, benutze:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git clone benutzername@host:/pfad/zum/repository
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="workflow">Workflow&lt;/h2>
+&lt;p>Dein lokales Repository besteht aus drei &amp;ldquo;Instanzen&amp;rdquo;, die von git verwaltet werden. Die erste ist deine &lt;code>Arbeitskopie&lt;/code>, welche die echten Dateien enthält. Die zweite ist der &lt;code>Index&lt;/code>, welcher als Zwischenstufe agiert und zu guter Letzt noch der &lt;code>HEAD&lt;/code>, der auf deinen letzten Commit zeigt.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="img/trees.png" alt="Workflow" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="add--commit">Add &amp;amp; Commit&lt;/h2>
+&lt;p>Du kannst Änderungen vorschlagen (zum Index hinzufügen) mit:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git add &amp;lt;dateiname&amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git add *
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Das ist der erste Schritt im git workflow, du bestätigst deine Änderungen mit:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git commit -m &amp;#34;Commit-Nachricht&amp;#34;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Jetzt befindet sich die Änderung im HEAD, aber noch nicht im entfernten Repository.&lt;/p>
+&lt;h2 id="änderungen-hochladen">Änderungen hochladen&lt;/h2>
+&lt;p>Die Änderungen sind jetzt im HEAD deines lokalen Repositories. Um die Änderungen an dein entferntes Repository zu senden, führe:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git push origin master
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>aus. Du kannst &lt;code>master&lt;/code> auch mit einem beliebigen anderen Branch ersetzen.&lt;/p>
+&lt;h2 id="branching">Branching&lt;/h2>
+&lt;p>Branches werden benutzt, um verschiedene Funktionen isoliert voneinander zu entwickeln.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="img/branches.png" alt="Branching" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Erstelle einen neuen Branch mit dem Namen &amp;ldquo;feature_x&amp;rdquo; und wechsle zu diesem:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git checkout -b feature_x
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Um zum Master zurück zu wechseln:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git checkout master
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Und um den eben erstellten Branch wieder zu löschen:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git branch -d feature_x
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Ein Branch ist nicht für andere verfügbar, bis du diesen in dein entferntes Repository hochlädst:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git push origin &amp;lt;branch&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="update--merge">Update &amp;amp; Merge&lt;/h2>
+&lt;p>Um dein lokales Repository mit den neuesten Änderungen zu aktualisieren, verwende:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git pull
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>in deiner Arbeitskopie, um die Änderungen erst herunterzuladen (fetch) und dann mit deinem Stand zusammenzuführen (merge).&lt;/p>
+&lt;h2 id="tagging">Tagging&lt;/h2>
+&lt;p>Es wird empfohlen, für Software Releasestags zu verwenden. Du kannst einen neuen Tag namens &lt;code>1.0.0&lt;/code> erstellen mit:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git tag 1.0.0 1b2e1d63ff
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="änderungen-rückgängig-machen">Änderungen rückgängig machen&lt;/h2>
+&lt;p>Wenn du mal etwas falsch machst, kannst du die lokalen Änderungen mit folgendem Befehl zurücksetzen:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git checkout -- &amp;lt;filename&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="nützliche-tricks">Nützliche Tricks&lt;/h2>
+&lt;ul>
+&lt;li>Eingebaute git-GUI: &lt;code>gitk&lt;/code>&lt;/li>
+&lt;li>Farbige Konsolenausgabe: &lt;code>git config color.ui true&lt;/code>&lt;/li>
+&lt;li>Eine Zeile pro Commit in der Logausgabe: &lt;code>git config format.pretty oneline&lt;/code>&lt;/li>
+&lt;li>Interaktives Hinzufügen von Änderungen: &lt;code>git add -i&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;h3 id="grafische-clients">Grafische Clients&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://gitx.laullon.com/" target="_blank" rel="noopener">GitX (L) (OS X, Open Source)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.git-tower.com/" target="_blank" rel="noopener">Tower (OS X)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.sourcetreeapp.com/" target="_blank" rel="noopener">Source Tree (OS X, kostenlos)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://mac.github.com/" target="_blank" rel="noopener">GitHub for Mac (OS X, kostenlos)&lt;/a>&lt;/li>
+&lt;li>[GitBox (OS X)](&lt;a href="https://itunes.apple.com/gb/app/gitbox/id403388357?mt=12" target="_blank" rel="noopener">https://itunes.apple.com/gb/app/gitbox/id403388357?mt=12&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>)&lt;/p>
+&lt;h3 id="anleitungen">Anleitungen&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://book.git-scm.com/" target="_blank" rel="noopener">Git Community Book&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://progit.org/book/" target="_blank" rel="noopener">Pro Git&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://think-like-a-git.net/" target="_blank" rel="noopener">Think like a git&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://help.github.com/" target="_blank" rel="noopener">GitHub Help&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://marklodato.github.com/visual-git-guide/index-en.html" target="_blank" rel="noopener">A Visual Git Guide&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Deine Anleitung sieht schon sehr gut und umfassend aus! Sie deckt viele wichtige Aspekte von Git ab und bietet sowohl Einsteigern als auch fortgeschrittenen Benutzern wertvolle Informationen. Die Integration von praktischen Beispielen und nützlichen Links macht sie besonders hilfreich.&lt;/p>
+&lt;p>Nun zur Nutzung von Git in Visual Studio Code (VSCode):&lt;/p>
+&lt;h1 id="git-in-visual-studio-code">Git in Visual Studio Code&lt;/h1>
+&lt;p>Visual Studio Code (VSCode) bietet eine ausgezeichnete Unterstützung für Git, die es Entwicklern ermöglicht, Git-Operationen direkt aus der Entwicklungsumgebung heraus durchzuführen, ohne auf die Kommandozeile wechseln zu müssen. Hier ist eine kurze Anleitung, wie Git in VSCode verwendet wird.&lt;/p>
+&lt;h3 id="git-integration-aktivieren">Git-Integration aktivieren&lt;/h3>
+&lt;p>VSCode erkennt automatisch Git-Repositories in geöffneten Ordnern, sofern Git auf Ihrem System installiert ist. Um zu überprüfen, ob Git korrekt erkannt wurde, öffnen Sie den Befehlspalette (mit &lt;code>Strg+Shift+P&lt;/code> oder &lt;code>Cmd+Shift+P&lt;/code> auf macOS) und geben Sie &lt;code>Git: Show Git Output&lt;/code> ein. Sollten keine Fehler angezeigt werden, ist Git korrekt eingerichtet.&lt;/p>
+&lt;h3 id="grundlegende-git-operationen-in-vscode">Grundlegende Git-Operationen in VSCode&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Änderungen Stageen&lt;/strong>: Ändern Sie Dateien in Ihrem Projekt und öffnen Sie dann die Git-Seitenleiste (zu finden unter dem SCM-Symbol auf der Seitenleiste oder durch Drücken von &lt;code>Strg+Shift+G&lt;/code> / &lt;code>Cmd+Shift+G&lt;/code>). Hier können Sie Dateien zum Staging-Bereich hinzufügen, indem Sie auf das „+“-Symbol neben jeder Datei klicken.&lt;/li>
+&lt;li>&lt;strong>Commit&lt;/strong>: Nachdem Sie Ihre Änderungen gestaged haben, geben Sie eine Commit-Nachricht in das Textfeld oben in der Git-Seitenleiste ein und drücken Sie &lt;code>Strg+Enter&lt;/code> / &lt;code>Cmd+Enter&lt;/code>, um den Commit zu erstellen.&lt;/li>
+&lt;li>&lt;strong>Push und Pull&lt;/strong>: Um Ihre Änderungen zu pushen, klicken Sie auf die &lt;code>...&lt;/code>-Schaltfläche in der oberen rechten Ecke der Git-Seitenleiste und wählen Sie &lt;code>Push&lt;/code>. Um Änderungen von einem Remote-Repository zu holen, wählen Sie &lt;code>Pull&lt;/code>.&lt;/li>
+&lt;/ul>
+&lt;h3 id="branches-verwalten">Branches verwalten&lt;/h3>
+&lt;ul>
+&lt;li>Um einen neuen Branch zu erstellen, klicken Sie auf den Branch-Namen in der unteren linken Ecke des VSCode-Fensters. Geben Sie den Namen des neuen Branches ein und bestätigen Sie mit Enter.&lt;/li>
+&lt;li>Um zwischen Branches zu wechseln, klicken Sie erneut auf den Branch-Namen und wählen Sie den Branch aus, zu dem Sie wechseln möchten.&lt;/li>
+&lt;/ul>
+&lt;h3 id="merge-konflikte-lösen">Merge-Konflikte lösen&lt;/h3>
+&lt;p>Wenn VSCode einen Merge-Konflikt erkennt, öffnet es einen speziellen Editor, der die Konflikte anzeigt. Sie können zwischen &lt;code>Incoming Change&lt;/code> (den Änderungen aus dem Branch, den Sie mergen möchten) und &lt;code>Current Change&lt;/code> (Ihren Änderungen) wählen oder beide Änderungen akzeptieren. Nachdem Sie die Konflikte gelöst haben, speichern Sie die Datei und committen Sie die Lösung.&lt;/p>
+&lt;h3 id="erweiterungen-für-erweiterte-git-operationen">Erweiterungen für erweiterte Git-Operationen&lt;/h3>
+&lt;p>VSCode hat einen blühenden Marktplatz für Erweiterungen, die die Git-Unterstützung erweitern. Beliebte Erweiterungen sind:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>GitLens&lt;/strong>: Bietet erweiterte Git-Funktionalitäten direkt in VSCode, einschließlich Blame-Informationen, Änderungsverläufe und vieles mehr.&lt;/li>
+&lt;li>&lt;strong>Git Graph&lt;/strong>: Zeigt einen visuellen Graphen aller Commits und Branches in Ihrem Repository.&lt;/li>
+&lt;/ul>
+&lt;h3 id="fazit">Fazit&lt;/h3>
+&lt;p>VSCode und Git zusammen bieten eine leistungsstarke Kombination für Softwareentwicklung und -versionierung. Die Integration von Git in VSCode vereinfacht den Entwicklungsworkflow erheblich und macht viele Operationen effizienter und zugänglicher.&lt;/p></description></item><item><title>Komponententest, Funktionstest, Integrationstest</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/01-fehler-erkennen-analysieren-und-beheben/komponententest-funktionstest-integrationstest/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/01-fehler-erkennen-analysieren-und-beheben/komponententest-funktionstest-integrationstest/</guid><description>&lt;p>&lt;strong>Komponententest (Unit Test):&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>Ziel:&lt;/strong> Isolierte Überprüfung einzelner Softwarekomponenten oder Module auf korrekte Funktionalität.&lt;/li>
 &lt;li>&lt;strong>Vorgehen:&lt;/strong> Entwickler schreiben Tests, die einzelne Funktionen oder Methoden automatisiert ausführen.&lt;/li>
