@@ -13,7 +13,7 @@ sections:
       text: Die ultimative Wiki für Fachinformatiker. Leicht verständlich, zentralisiert und von der Community getrieben.
       primary_action:
         text: Beitrag leisten
-        url: /beitragen/
+        url: /blog/beitragen/
         icon: pencil
       secondary_action:
         text: Durchsuche die Wiki

@@ -2686,19 +2686,39 @@
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/tag/ap2/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/blog/beitragen/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/hugo/</loc>
+    <loc>http://localhost:1313/tag/community/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/hugo-blox/</loc>
+    <loc>http://localhost:1313/tag/fisi/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/markdown/</loc>
+    <loc>http://localhost:1313/tag/github/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/ihk/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/mitwirken/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/blog/pruefungsvorbereitung/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2716,10 +2736,6 @@
                 href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/v2.0.0/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2733,10 +2749,6 @@
                 hreflang="de-de"
                 href="http://localhost:1313/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/blog/v1.0.0/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
