@@ -6,8 +6,6 @@ type: docs
 description: "ERDiagramm Attribute Beziehungen Kardinalitäten relerenzielle Integrität Aktualisierungsweitergabe Löschweitergabe Primärschlüssel Fremdschlüssel"
 ---
 
-# ER-Diagramm, Attribute, Beziehungen, Kardinalitäten, relerenzielle Integrität, Aktualisierungsweitergabe. Löschweitergabe, Primärschlüssel, Fremdschlüssel
-
 ### ER-Diagramme und Datenbankdesign
 
 #### 1. Einführung in ER-Diagramme
