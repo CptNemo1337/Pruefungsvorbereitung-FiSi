@@ -24,7 +24,7 @@
     <a href="https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi"><strong>Erkunde die Dokumentation »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi">View Demo</a>
+    <a href="https://ap.cptnemo1337.de">View Wiki</a>
     ·
     <a href="https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi/issues/new?labels=bug&template=bug-report---.md">Melde einen Bug</a>
     ·
