@@ -263,5 +263,125 @@ Ein Unterprogramm wird modelliert, um innerhalb eines Prozesses einen inhaltlich
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Der Pseudocode ermöglicht es, komplexe Programme durch Schachtelung dieser Konstrukte zu erstellen. Es ist wichtig zu beachten, dass, obwohl die Befehle in Pseudocode denen in echten Programmiersprachen ähneln, sie nicht direkt in Programmcode übertragen werden können, ohne Anpassungen an die Syntax der jeweiligen Zielprogrammiersprache vorzunehmen.&lt;/p>
 &lt;hr>
 &lt;p>Pseudocode ist ein mächtiges Werkzeug in der Softwareentwicklung, da es Entwicklern ermöglicht, logische Strukturen eines Programms zu skizzieren, ohne sich in den Details einer bestimmten Programmiersprache zu verlieren.&lt;/p></description></item><item><title>Entwurf der Bildschirmausgabemasken (Softwareergonomie, Barrierefreiheit)</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/entwurf-der-bildschirmausgabemasken-softwareergonomie-barrierefreiheit/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/entwurf-der-bildschirmausgabemasken-softwareergonomie-barrierefreiheit/</guid><description>&lt;h1 id="entwurf-der-bildschinnausgabemasken-softwareergonomie-barrierefreiheit">Entwurf der Bildschinnausgabemasken (Softwareergonomie, Barrierefreiheit}&lt;/h1>
-&lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item><item><title>UML (Use Case, Klassendiagramm)</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/uml-use-case-klassendiagramm/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/uml-use-case-klassendiagramm/</guid><description>&lt;h1 id="uml-use-case-klassendiagramm">UML (Use Case, Klassendiagramm)&lt;/h1>
-&lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item></channel></rss>
+&lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item><item><title>UML (Use Case, Klassendiagramm)</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/uml-use-case-klassendiagramm/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/02-algorithmen-formulieren-und-programme-entwickeln/uml-use-case-klassendiagramm/</guid><description>&lt;h1 id="uml---use-case-diagramm-anwendungsfalldiagramm">UML - Use Case Diagramm (Anwendungsfalldiagramm)&lt;/h1>
+&lt;p>Ein UML-Anwendungsfalldiagramm visualisiert die verschiedenen Interaktionsmöglichkeiten zwischen einem Benutzer (oder mehreren Benutzern) und einem System. Die Unified Modeling Language (UML) nutzt Use Case Diagramme, um die Interaktionen der Benutzer mit dem System zusammenzufassen und zu illustrieren.&lt;/p>
+&lt;h2 id="was-ist-ein-use-case-diagramm">Was ist ein Use Case Diagramm?&lt;/h2>
+&lt;p>Use Case Diagramme zeigen auf, wie Benutzer (Akteure) mit einem System interagieren. Sie verwenden einen Satz spezifischer Symbole und Verbindungen, um Szenarien zu illustrieren, in denen das System mit Personen, Organisationen oder anderen Systemen interagiert. Die Hauptziele eines Anwendungsfalldiagramms sind:&lt;/p>
+&lt;ul>
+&lt;li>Darstellung von Szenarien, in denen das System mit externen Entitäten interagiert&lt;/li>
+&lt;li>Visualisierung der Ziele, die das System für diese Entitäten erreicht&lt;/li>
+&lt;li>Definition des Umfangs des Systems&lt;/li>
+&lt;/ul>
+&lt;h2 id="wann-sind-anwendungsfalldiagramme-sinnvoll">Wann sind Anwendungsfalldiagramme sinnvoll?&lt;/h2>
+&lt;p>Anwendungsfalldiagramme bieten einen generellen Überblick über die Beziehungen zwischen Anwendungsfällen, Akteuren und dem System. Sie sind besonders hilfreich, um:&lt;/p>
+&lt;ul>
+&lt;li>Ziele von System-Benutzer-Interaktionen darzustellen&lt;/li>
+&lt;li>Funktionale Anforderungen in einem System zu definieren und zu organisieren&lt;/li>
+&lt;li>Den Kontext und die Anforderungen eines Systems zu klären&lt;/li>
+&lt;li>Den grundlegenden Ereignisfluss eines Anwendungsfalls zu modellieren&lt;/li>
+&lt;/ul>
+&lt;image src="https://https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/what-is-a-use-case-diagram-in-UML/UML_use_case_example-800x707.PNG" alt="UML-usecase">
+&lt;h2 id="komponenten-von-use-case-diagrammen">Komponenten von Use Case Diagrammen&lt;/h2>
+&lt;p>Um ein Use Case Diagramm zu verstehen, ist es wichtig, seine Grundbausteine zu kennen:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Akteure:&lt;/strong> Die Nutzer, die mit dem System interagieren, wie Personen, Organisationen oder externe Systeme.&lt;/li>
+&lt;li>&lt;strong>System:&lt;/strong> Die Sequenz von Aktionen und Interaktionen zwischen Akteuren und dem System.&lt;/li>
+&lt;li>&lt;strong>Ziele:&lt;/strong> Die Endziele der Anwendungsfälle, die das Diagramm veranschaulichen sollte.&lt;/li>
+&lt;/ul>
+&lt;image src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/what-is-a-use-case-diagram-in-UML/UML_use_case_example1-750x731.png" alt="UML-usecase">
+&lt;h2 id="symbole-und-notation-in-anwendungsfalldiagrammen">Symbole und Notation in Anwendungsfalldiagrammen&lt;/h2>
+&lt;p>Die Notation in Anwendungsfalldiagrammen ist relativ einfach und umfasst:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Anwendungsfälle:&lt;/strong> Horizontale Ovale, die verschiedene Aktionen oder Ziele der Benutzer repräsentieren.&lt;/li>
+&lt;li>&lt;strong>Akteure:&lt;/strong> Strichmännchen, die die Benutzer oder andere Akteure darstellen.&lt;/li>
+&lt;li>&lt;strong>Assoziationen:&lt;/strong> Linien zwischen Akteuren und Anwendungsfällen, die ihre Beziehungen zum System anzeigen.&lt;/li>
+&lt;li>&lt;strong>Systemgrenzen:&lt;/strong> Ein Kästchen, das den Umfang des Systems darstellt.&lt;/li>
+&lt;/ul>
+&lt;h2 id="beispiele-für-use-case-diagramme">Beispiele für Use Case Diagramme&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Buchveröffentlichung:&lt;/strong> Visualisiert den Prozess des Schreibens und Veröffentlichens eines Buches.
+&lt;image src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/UML-use-case-diagram-tutorial/Book_Publishing_Use_Case_Scenario_UML.PNG" alt="UML-usecase">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Zugbuchungen:&lt;/strong> Kann angepasst werden, um den Kauf von Dienstleistungen darzustellen.
+&lt;image src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/UML-use-case-diagram-tutorial/Railway_Reservation_Use_Case_Scenario_UML.PNG" alt="UML-usecase">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Kettensägen:&lt;/strong> Stellt unterschiedliche Anwendungsfälle für die Nutzung einer Kettensäge dar, abhängig vom Kontext und der Situation.
+&lt;image src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/uml/use-case-diagram/use-case-diagram-example-525x528.jpg" alt="UML-usecase">&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Quelle: &lt;a href="https://www.lucidchart.com/pages/de/uml-anwendungsfalldiagramm" target="_blank" rel="noopener">https://www.lucidchart.com/pages/de/uml-anwendungsfalldiagramm&lt;/a>&lt;/p>
+&lt;p>Hier ist dein Lernzettel zu UML-Klassendiagrammen, formatiert in Markdown. Bitte beachte, dass ich Platzhalter für URLs verwende, da ich keine spezifischen Bild-URLs von der Webseite extrahieren kann. Ersetze &amp;ldquo;URL&amp;rdquo; durch die tatsächlichen URLs der Bilder, die du einfügen möchtest.&lt;/p>
+&lt;hr>
+&lt;h1 id="uml-klassendiagramm-tutorial">UML Klassendiagramm Tutorial&lt;/h1>
+&lt;p>Klassendiagramme sind besonders nützlich zur Verdeutlichung der Struktur eines Systems, indem dessen Klassen, Attribute, Vorgänge und die Beziehungen zwischen Objekten dargestellt werden. Mit unserer Software für UML-Diagramme wird die Erstellung dieser Diagramme erheblich vereinfacht. In diesem Leitfaden lernen Sie, wie man Klassendiagramme liest, plant und selbst erstellt.&lt;/p>
+&lt;h2 id="was-ist-ein-klassendiagramm-in-uml">Was ist ein Klassendiagramm in UML?&lt;/h2>
+&lt;p>Die Unified Modeling Language (UML) kann Ihnen helfen, Systeme auf unterschiedliche Weise zu modellieren. Beliebt in UML ist beispielsweise das Klassendiagramm. Klassendiagramme werden zum Beispiel häufig von Software-Ingenieuren genutzt, um die Software-Architektur zu dokumentieren. Es handelt sich um eine Art Strukturdiagramm, denn es beschreibt, was das modellierte System enthalten muss. Unsere unkomplizierte UML-Software lässt sich auch dann einfach nutzen, wenn Sie mit UML oder Klassendiagrammen bislang noch nicht vertraut sind.&lt;/p>
+&lt;p>Die Idee hinter UML war es, ein normiertes Modell zur Beschreibung eines objektorientierten Codierungsansatzes zu entwickeln. Da Klassen die Bausteine von Objekten darstellen, können Klassendiagramme als die Bausteine von UML verstanden werden. Die unterschiedlichen Komponenten eines Klassendiagramms können die zu programmierenden Klassen, die Hauptobjekte oder die Interaktionen zwischen Klassen und Objekten darstellen.&lt;/p>
+&lt;p>Die Klassenform an sich besteht aus einem Rechteck mit drei Reihen. Die oberste Reihe enthält den Namen der Klasse, die mittlere Reihe gibt ihre Attribute an, und die unterste Reihe gibt Aufschluss über die Methoden oder Abläufe innerhalb der Klasse. Klassen und Unterklassen werden gruppiert, um die statische Beziehung zwischen den einzelnen Objekten zu verdeutlichen.&lt;/p>
+&lt;h2 id="vorteile-von-klassendiagrammen">Vorteile von Klassendiagrammen&lt;/h2>
+&lt;p>Klassendiagramme bieten Unternehmen eine Menge Vorteile. Sie können UML-Klassendiagramme zu folgenden Zwecken nutzen:&lt;/p>
+&lt;ul>
+&lt;li>Veranschaulichung von Datenmodellen für Informationssysteme, und zwar unabhängig von deren Komplexitätsgrad.&lt;/li>
+&lt;li>Genauerer allgemeiner Überblick über die Schaltpläne einer Anwendung.&lt;/li>
+&lt;li>Visuelle Beschreibung der spezifischen Anforderungen eines Systems und unternehmensweite Verbreitung dieser Informationen.&lt;/li>
+&lt;li>Erstellen detaillierter Diagramme, die spezifischen Code hervorheben, der für die Programmierung und Implementierung der beschriebenen Struktur erforderlich ist.&lt;/li>
+&lt;li>Beschreibung der Datentypen unabhängig von der Implementierung, die innerhalb eines Systems verwendet und später zwischen den Komponenten ausgetauscht werden.&lt;/li>
+&lt;/ul>
+&lt;h2 id="grundbestandteile-eines-klassendiagramms">Grundbestandteile eines Klassendiagramms&lt;/h2>
+&lt;p>Standardmäßig besteht ein Klassendiagramm aus drei Teilen:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Oberer Teil:&lt;/strong> Enthält die Bezeichnung der Klasse. Dieser Abschnitt ist unabhängig davon erforderlich, ob Sie sich mit einem Klassifizierer oder einem Objekt befassen.&lt;/li>
+&lt;li>&lt;strong>Mittelteil:&lt;/strong> Enthält die Attribute der Klasse. Tragen Sie hier die Eigenschaften der Klasse ein. Dies ist nur erforderlich, wenn eine bestimmte Instanz einer Klasse beschrieben werden soll.&lt;/li>
+&lt;li>&lt;strong>Unterer Teil:&lt;/strong> Enthält Klassenvorgänge (Methoden). Vorgänge werden im Listenformat (ein Vorgang pro Zeile) dargestellt. Die Vorgänge beschreiben, wie die jeweilige Klasse mit Daten interagiert.&lt;/li>
+&lt;/ul>
+&lt;h3 id="zugriffsmodifikatoren">Zugriffsmodifikatoren&lt;/h3>
+&lt;p>Sämtliche Klassen verfügen, je nach Zugriffsmodifikator (Sichtbarkeit), über unterschiedliche Zugriffsebenen. Hier sehen Sie die unterschiedlichen Zugriffsebenen mitsamt ihren jeweiligen Symbolen:&lt;/p>
+&lt;ul>
+&lt;li>Öffentlich (+)&lt;/li>
+&lt;li>Privat (-)&lt;/li>
+&lt;li>Geschützt (#)&lt;/li>
+&lt;li>Paket (~)&lt;/li>
+&lt;li>Abgeleitet (/)&lt;/li>
+&lt;li>Statisch (unterstrichen)&lt;/li>
+&lt;/ul>
+&lt;h3 id="wirkungsbereiche-für-mitglieder">Wirkungsbereiche für Mitglieder&lt;/h3>
+&lt;p>Es gibt zwei Wirkungsbereiche für Mitglieder: Klassifizierer und Instanzen.&lt;/p>
+&lt;p>Klassifizierer sind statische Mitglieder, während Instanzen die spezifischen Instanzen einer Klasse umfassen. Wenn Sie mit den Grundlagen der objektorientierten Programmierung vertraut sind, dürfte dies für Sie nichts Neues sein.&lt;/p>
+&lt;h3 id="zusätzliche-bestandteile-von-klassendiagrammen">Zusätzliche Bestandteile von Klassendiagrammen&lt;/h3>
+&lt;p>Je nach Kontext können Klassen in einem Klassendiagramm die Hauptobjekte, die Interaktionen in der Anwendung oder die zu programmierenden Klassen darstellen. Um die Frage „Was ist ein Klassendiagramm in UML?“ beantworten zu können, sollten Sie zunächst deren grundlegenden Aufbau verstehen.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Klassen:&lt;/strong> Vorlage für die Erstellung von Objekten und die Implementierung von Verhalten innerhalb eines Systems. Im Rahmen von UML repräsentiert eine Klasse ein Objekt bzw. eine Klasse von Objekten, die eine gemeinsame Struktur und ein gemeinsames Verhalten aufweisen. Klassen werden durch ein Rechteck dargestellt, das Reihen für den Namen der Klasse, ihre Attribute und ihre Vorgänge enthält. Wenn ein Klassendiagramm auf ein anderes Klassendiagramm gezeichnet wird, muss nur die oberste Zeile ausgefüllt werden. Die übrigen Zeilen können optional ausgefüllt&lt;/li>
+&lt;/ul>
+&lt;p>werden, wenn Sie weitere Angaben machen möchten.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Name:&lt;/strong> Erste Zeile in einer Klassen-Notation.&lt;/li>
+&lt;li>&lt;strong>Attribute:&lt;/strong> Zweite Zeile in einer Klassen-Notation. Jedes Attribut der Klasse wird in einer separaten Zeile dargestellt.&lt;/li>
+&lt;li>&lt;strong>Methoden:&lt;/strong> Dritte Zeile in einer Klassen-Notation. Auch als Vorgänge bekannt. Sie werden im Listenformat dargestellt, wobei jeder Vorgang seine eigene Zeile einnimmt.&lt;/li>
+&lt;/ul>
+&lt;h3 id="interaktionen">Interaktionen&lt;/h3>
+&lt;p>Als „Interaktionen“ werden die verschiedenen Beziehungen und Verbindungen bezeichnet, die innerhalb von Klassen- und Objektdiagrammen bestehen. Zu den gängigsten Interaktionen gehören:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Vererbung:&lt;/strong> Prozess, bei dem eine Unterklasse die Eigenschaften einer Oberklasse übernimmt, wird auch als Generalisierung bezeichnet. Dargestellt durch eine gerade Verbindungslinie mit geschlossener Pfeilspitze, die auf die Oberklasse zeigt.&lt;/li>
+&lt;/ul>
+&lt;image src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/uml/class-diagram/class-diagram-inheritance-175x279.PNG" alt="UML-klassen">
+&lt;ul>
+&lt;li>&lt;strong>Bidirektionale Assoziation:&lt;/strong> die standardmäßige Beziehung zwischen zwei Klassen. Beide Klassen haben Kenntnis von der jeweils anderen und ihrer Beziehung zueinander. Diese Assoziation wird mit einer geraden Linie zwischen zwei Klassen dargestellt.&lt;/li>
+&lt;/ul>
+&lt;image src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/uml/class-diagram/class-diagram-bi-directional-association-689x182.PNG" alt="UML-klassen">
+&lt;ul>
+&lt;li>&lt;strong>Unidirektionale Assoziation:&lt;/strong> eine etwas weniger gebräuchliche Beziehung zwischen zwei Klassen. Eine Klasse hat Kenntnis von der anderen und interagiert mit ihr. Unidirektionale Assoziationen werden mit einer geraden Verbindungslinie dargestellt, die mit einem offenen Pfeil von der informierten Klasse auf die bekannte Klasse zeigt.&lt;/li>
+&lt;/ul>
+&lt;image src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/uml/class-diagram/class-diagram-unidirectional-association-600x184.PNG" alt="UML-klassen">
+&lt;h3 id="beispiele-für-ein-klassendiagramm">Beispiele für ein Klassendiagramm&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Klassendiagramm für ein Hotelmanagementsystem:&lt;/strong> Klassendiagramme können die Beziehungen zwischen den einzelnen Objekten eines Hotelmanagementsystems abbilden, darunter Informationen zu Gästen, Mitarbeiterzuständigkeiten und Zimmerbelegung.&lt;/li>
+&lt;/ul>
+&lt;image src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/class-diagram-for-hotel-management-system-UML/UML_class_diagram_hotel-949x683.PNG" alt="UML-klassen">
+&lt;ul>
+&lt;li>&lt;strong>Klassendiagramm für ein Geldautomatensystem:&lt;/strong> Geldautomaten sind nur auf den ersten Blick simpel: Obwohl Kunden nur einige wenige Tasten drücken müssen, um Geld abzuheben, gibt es zahlreiche Sicherheitsschichten, die ein sicherer und effektiver Geldautomat durchlaufen muss, um Betrug zu verhindern und Bankkunden einen Mehrwert zu bieten.&lt;/li>
+&lt;/ul>
+&lt;image src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/class-diagram-for-ATM-system-UML/Class-Diagram-ATM-system-750x660.png" alt="UML-klassen">
+&lt;p>Quelle: &lt;a href="https://www.lucidchart.com/pages/uml-class-diagram" target="_blank" rel="noopener">https://www.lucidchart.com/pages/uml-class-diagram&lt;/a>&lt;/p></description></item></channel></rss>
