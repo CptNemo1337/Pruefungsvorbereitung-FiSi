@@ -193,6 +193,8 @@ Ein Unterprogramm wird modelliert, um innerhalb eines Prozesses einen inhaltlich
 &lt;/table>
 &lt;/li>
 &lt;/ol>
+&lt;p>Diagramm:
+&lt;image src="https://project-base.org/wp-content/uploads/2022/01/Programmablaufplan-Leitfaden-2-1200x803.png.webp" alt="PAP">&lt;/p>
 &lt;p>Quelle - 06.04.24:
 &lt;a href="https://project-base.org/flussdiagramm/programmablaufplan/" target="_blank" rel="noopener">https://project-base.org/flussdiagramm/programmablaufplan/&lt;/a>&lt;/p>
 &lt;p>Erklärvideo:
@@ -239,7 +241,33 @@ Ein Unterprogramm wird modelliert, um innerhalb eines Prozesses einen inhaltlich
 &lt;p>Quelle - 06.04.24:
 &lt;a href="https://www.iim.maschinenbau.tu-darmstadt.de/kursunterlagen_archiv/ikt_ws1415/03/Theorie/nassishneidermandiagramm.html" target="_blank" rel="noopener">https://www.iim.maschinenbau.tu-darmstadt.de/kursunterlagen_archiv/ikt_ws1415/03/Theorie/nassishneidermandiagramm.html&lt;/a>&lt;/p>
 &lt;p>Erklärvideo:
-&lt;a href="https://www.youtube.com/watch?v=uQa4DBrqF-g" target="_blank" rel="noopener">Youtube&lt;/a>&lt;/p></description></item><item><title>Abfalltrennung und -vermeidung</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/04-umweltschutz-4-iii-nr.-4-zur-vermeidung-betriebsbedingter-umweltbelastungen-im-beruflichen-einwirkungsbereich-beitragen/01.-umweltbelastungen-wahrnehmen-und-vermeiden-helfen/abfalltrennung-und--vermeidung/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/04-umweltschutz-4-iii-nr.-4-zur-vermeidung-betriebsbedingter-umweltbelastungen-im-beruflichen-einwirkungsbereich-beitragen/01.-umweltbelastungen-wahrnehmen-und-vermeiden-helfen/abfalltrennung-und--vermeidung/</guid><description>&lt;h1 id="abfalltrennung-und--vermeidung">Abfalltrennung und -vermeidung&lt;/h1>
+&lt;a href="https://www.youtube.com/watch?v=uQa4DBrqF-g" target="_blank" rel="noopener">Youtube&lt;/a>&lt;/p>
+&lt;p>Hier ist dein Lernzettel zum Thema Pseudocode, formatiert in Markdown:&lt;/p>
+&lt;hr>
+&lt;h1 id="pseudocode">Pseudocode&lt;/h1>
+&lt;p>Pseudocode dient als eine Zwischenstufe zwischen konzeptionellen Diagrammen und dem eigentlichen Programmcode. Er ermöglicht es, Programmstrukturen auf eine einfache und verständliche Weise darzustellen, ohne sich dabei auf die Syntax einer spezifischen Programmiersprache festzulegen. Die Syntax von Pseudocode ist stark an die Programmiersprache Pascal angelehnt und unterstützt die Darstellung der drei grundlegenden Programmkonstrukte: Sequenz, Auswahl, und Wiederholung.&lt;/p>
+&lt;h2 id="konstrukte">Konstrukte&lt;/h2>
+&lt;h3 id="sequenz-1">Sequenz&lt;/h3>
+&lt;p>Eine Sequenz von Anweisungen wird einfach hintereinander aufgelistet, umgesetzt in Pseudocode als:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">BEGIN
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Anweisung
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">END;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="auswahl-1">Auswahl&lt;/h3>
+&lt;p>Eine bedingte Anweisung (IF-THEN-ELSE), die je nach Bedingung unterschiedliche Anweisungen ausführt:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">IF Bedingung THEN
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Anweisungen
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">ELSE
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Anweisungen
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">END IF;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="wiederholung-1">Wiederholung&lt;/h3>
+&lt;p>Eine Wiederholungsanweisung (WHILE-DO), die Anweisungen so lange wiederholt, wie eine Bedingung wahr ist:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">WHILE Bedingung DO
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">BEGIN
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Anweisungen
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">END;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Der Pseudocode ermöglicht es, komplexe Programme durch Schachtelung dieser Konstrukte zu erstellen. Es ist wichtig zu beachten, dass, obwohl die Befehle in Pseudocode denen in echten Programmiersprachen ähneln, sie nicht direkt in Programmcode übertragen werden können, ohne Anpassungen an die Syntax der jeweiligen Zielprogrammiersprache vorzunehmen.&lt;/p>
+&lt;hr>
+&lt;p>Pseudocode ist ein mächtiges Werkzeug in der Softwareentwicklung, da es Entwicklern ermöglicht, logische Strukturen eines Programms zu skizzieren, ohne sich in den Details einer bestimmten Programmiersprache zu verlieren.&lt;/p></description></item><item><title>Abfalltrennung und -vermeidung</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/04-umweltschutz-4-iii-nr.-4-zur-vermeidung-betriebsbedingter-umweltbelastungen-im-beruflichen-einwirkungsbereich-beitragen/01.-umweltbelastungen-wahrnehmen-und-vermeiden-helfen/abfalltrennung-und--vermeidung/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---03-wirtschafts--und-sozialkunde/04-umweltschutz-4-iii-nr.-4-zur-vermeidung-betriebsbedingter-umweltbelastungen-im-beruflichen-einwirkungsbereich-beitragen/01.-umweltbelastungen-wahrnehmen-und-vermeiden-helfen/abfalltrennung-und--vermeidung/</guid><description>&lt;h1 id="abfalltrennung-und--vermeidung">Abfalltrennung und -vermeidung&lt;/h1>
 &lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item><item><title>Abfrage über mehrere Tabellen (JOIN)</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/abfrage-uber-mehrere-tabellen-join/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/abfrage-uber-mehrere-tabellen-join/</guid><description>&lt;h1 id="abfrage-über-mehrere-tabellen-join">Abfrage über mehrere Tabellen (JOIN)&lt;/h1>
 &lt;h2 id="einleitung">Einleitung&lt;/h2>
 &lt;p>&lt;strong>JOINs&lt;/strong> in SQL werden verwendet, um Zeilen aus zwei oder mehr Tabellen zu kombinieren, basierend auf einer verwandten Spalte zwischen ihnen. Das Verständnis von JOINs ist entscheidend, um komplexe Abfragen zu erstellen und relationale Datenbanken effektiv zu nutzen.&lt;/p>
