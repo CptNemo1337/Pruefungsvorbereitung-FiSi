@@ -1,12 +1,10 @@
 ---
-title: "OpenData, API-Schnittstellen"
+title: "OpenData und API-Schnittstellen"
 date: 2024-04-07
 draft: false
 type: docs
 description: "OpenData APISchnittstellen"
 ---
-
-# OpenData und API-Schnittstellen
 
 ## Open Data
 

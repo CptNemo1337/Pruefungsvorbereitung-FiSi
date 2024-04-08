@@ -6,8 +6,6 @@ type: docs
 description: "AggregatFunktionen zB SUM"
 ---
 
-# Aggregat-Funktionen, z.B. SUM
-
 Aggregatfunktionen in SQL sind mächtige Werkzeuge, die es ermöglichen, statistische Informationen aus Datensätzen zu berechnen. Sie werden typischerweise in Kombination mit der `GROUP BY`-Klausel verwendet, können aber auch ohne sie angewendet werden.
 
 ## SUM

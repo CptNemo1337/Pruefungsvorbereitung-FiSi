@@ -6,8 +6,6 @@ type: docs
 description: "Relationale und nichtrelationale Datenbanken NoSQL Datenbanken"
 ---
 
-# Relationale und nicht-relationale Datenbanken, NoSQL Datenbanken
-
 ## Relationale Datenbanken
 
 ### Grundlagen

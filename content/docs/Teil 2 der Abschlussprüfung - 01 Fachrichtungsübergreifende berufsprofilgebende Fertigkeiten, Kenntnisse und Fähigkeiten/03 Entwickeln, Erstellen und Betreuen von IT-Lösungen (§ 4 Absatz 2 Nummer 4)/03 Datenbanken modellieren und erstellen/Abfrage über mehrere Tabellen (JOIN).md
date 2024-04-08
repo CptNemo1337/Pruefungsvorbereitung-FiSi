@@ -6,8 +6,6 @@ type: docs
 description: "Abfrage über mehrere Tabellen JOIN"
 ---
 
-# Abfrage über mehrere Tabellen (JOIN)
-
 ## Einleitung
 
 **JOINs** in SQL werden verwendet, um Zeilen aus zwei oder mehr Tabellen zu kombinieren, basierend auf einer verwandten Spalte zwischen ihnen. Das Verständnis von JOINs ist entscheidend, um komplexe Abfragen zu erstellen und relationale Datenbanken effektiv zu nutzen.

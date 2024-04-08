@@ -6,8 +6,6 @@ type: docs
 description: "Datenbankabfrage Datenpflege"
 ---
 
-# Datenbankabfrage, Datenpflege
-
 ## Grundlagen
 
 ## SELECT-Befehl

@@ -6,8 +6,6 @@ type: docs
 description: "Ausdrücke und Bedingungen"
 ---
 
-# Ausdrücke und Bedingungen (Operatoren)
-
 Ausdrücke und Bedingungen in SQL werden verwendet, um spezifische Datensätze zu filtern, Daten zu modifizieren oder Berechnungen durchzuführen. Sie sind entscheidend für die Erstellung effektiver und effizienter SQL-Abfragen.
 
 ## Grundlegende Vergleichsoperatoren
