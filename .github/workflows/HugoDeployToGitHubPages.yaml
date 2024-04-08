@@ -27,8 +27,11 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Copy CNAME to public directory
+        run: cp CNAME ./public/CNAME
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          publish_dir: ./public # Stelle sicher, dass dies das Verzeichnis ist in das Hugo die Seite baut
+          publish_dir: ./public # Stelle sicher, dass dies das Verzeichnis ist, in das Hugo die Seite baut
