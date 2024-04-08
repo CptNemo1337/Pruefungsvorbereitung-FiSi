@@ -38,7 +38,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "cpt_logo.png"
     button:
       enable: true
       text: "Get Started"
