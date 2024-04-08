@@ -89,6 +89,9 @@ Mit dem folgenden Leitfaden kannst du deinen Programmablaufplan einfach erstelle
    |             |                      | (wenn n !> 1) fakultaet ausgeben        |
    | Ende        |                      |                                         |
 
+Diagramm:
+<image src="https://project-base.org/wp-content/uploads/2022/01/Programmablaufplan-Leitfaden-2-1200x803.png.webp" alt="PAP">
+
 Quelle - 06.04.24:
 https://project-base.org/flussdiagramm/programmablaufplan/
 
@@ -145,3 +148,52 @@ https://www.iim.maschinenbau.tu-darmstadt.de/kursunterlagen_archiv/ikt_ws1415/03
 
 Erklärvideo:
 [Youtube](https://www.youtube.com/watch?v=uQa4DBrqF-g)
+
+Hier ist dein Lernzettel zum Thema Pseudocode, formatiert in Markdown:
+
+---
+
+# Pseudocode
+
+Pseudocode dient als eine Zwischenstufe zwischen konzeptionellen Diagrammen und dem eigentlichen Programmcode. Er ermöglicht es, Programmstrukturen auf eine einfache und verständliche Weise darzustellen, ohne sich dabei auf die Syntax einer spezifischen Programmiersprache festzulegen. Die Syntax von Pseudocode ist stark an die Programmiersprache Pascal angelehnt und unterstützt die Darstellung der drei grundlegenden Programmkonstrukte: Sequenz, Auswahl, und Wiederholung.
+
+## Konstrukte
+
+### Sequenz
+
+Eine Sequenz von Anweisungen wird einfach hintereinander aufgelistet, umgesetzt in Pseudocode als:
+
+```
+BEGIN
+  Anweisung
+END;
+```
+
+### Auswahl
+
+Eine bedingte Anweisung (IF-THEN-ELSE), die je nach Bedingung unterschiedliche Anweisungen ausführt:
+
+```
+IF Bedingung THEN
+  Anweisungen
+ELSE
+  Anweisungen
+END IF;
+```
+
+### Wiederholung
+
+Eine Wiederholungsanweisung (WHILE-DO), die Anweisungen so lange wiederholt, wie eine Bedingung wahr ist:
+
+```
+WHILE Bedingung DO
+BEGIN
+  Anweisungen
+END;
+```
+
+Der Pseudocode ermöglicht es, komplexe Programme durch Schachtelung dieser Konstrukte zu erstellen. Es ist wichtig zu beachten, dass, obwohl die Befehle in Pseudocode denen in echten Programmiersprachen ähneln, sie nicht direkt in Programmcode übertragen werden können, ohne Anpassungen an die Syntax der jeweiligen Zielprogrammiersprache vorzunehmen.
+
+---
+
+Pseudocode ist ein mächtiges Werkzeug in der Softwareentwicklung, da es Entwicklern ermöglicht, logische Strukturen eines Programms zu skizzieren, ohne sich in den Details einer bestimmten Programmiersprache zu verlieren.
