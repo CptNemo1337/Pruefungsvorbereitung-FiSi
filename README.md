@@ -62,7 +62,7 @@
 
 ## Über das Projekt
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://ap.cptnemo1337.de)
 
 ## Über das Projekt
 
@@ -130,7 +130,7 @@ Jede Mitwirkung, sei es durch das Teilen von Wissen oder durch Vorschläge zur V
 
 ## Lizenz
 
-Verbreitet unter der MIT Lizenz. Siehe `LICENSE.txt` für weitere Informationen.
+Verbreitet unter der MIT Lizenz. Siehe `LICENSE.md` für weitere Informationen.
 
 <!-- CONTACT -->
 
@@ -161,7 +161,7 @@ Projekt Link: [https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi](https:
 [issues-shield]: https://img.shields.io/github/issues/CptNemo1337/Pruefungsvorbereitung-FiSi.svg?style=for-the-badge
 [issues-url]: https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi/issues
 [license-shield]: https://img.shields.io/github/license/CptNemo1337/Pruefungsvorbereitung-FiSi.svg?style=for-the-badge
-[license-url]: https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi/blob/master/LICENSE.txt
+[license-url]: https://github.com/CptNemo1337/Pruefungsvorbereitung-FiSi/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/eric-fischer-834a38243/
 [product-screenshot]: images/screenshot.png
