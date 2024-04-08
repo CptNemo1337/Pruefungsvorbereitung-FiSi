@@ -1,44 +1,42 @@
 ---
 # Display name
-title: 吳健雄
+title: Eric Fischer
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Eric Fischer
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Eric
+last_name: Fischer
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Enthusiast of Cloud Computing, Docker, and Virtualization
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Independent Technologist
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cloud computing, containerization with Docker, virtualization technologies, Linux, and developing intuitive web GUIs.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: "mailto:your-email@example.com"
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/CptNemo1337
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/eric-fischer-834a38243/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -54,6 +52,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a passionate technologist and a fervent advocate for cloud computing, Docker, and virtualization technologies. With a strong foundation in Linux and a knack for crafting intuitive web GUIs, I aim to simplify complex IT processes and workflows. Beyond my technical pursuits, I engage with a community of like-minded individuals, sharing insights and fostering innovation in the tech space. Join me as we explore the boundless possibilities of today's digital landscape.
