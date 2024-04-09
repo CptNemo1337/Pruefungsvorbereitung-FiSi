@@ -1078,12 +1078,7 @@ E&lt;/p></description></item><item><title>Datenübertragungsrate</title><link>ht
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git clone benutzername@host:/pfad/zum/repository
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="workflow">Workflow&lt;/h2>
 &lt;p>Dein lokales Repository besteht aus drei &amp;ldquo;Instanzen&amp;rdquo;, die von git verwaltet werden. Die erste ist deine &lt;code>Arbeitskopie&lt;/code>, welche die echten Dateien enthält. Die zweite ist der &lt;code>Index&lt;/code>, welcher als Zwischenstufe agiert und zu guter Letzt noch der &lt;code>HEAD&lt;/code>, der auf deinen letzten Commit zeigt.&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="flex justify-center ">
-&lt;div class="w-100" >&lt;img src="img/trees.png" alt="Workflow" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
+&lt;image src="https://rogerdudler.github.io/git-guide/img/trees.png" alt="Git">
 &lt;h2 id="add--commit">Add &amp;amp; Commit&lt;/h2>
 &lt;p>Du kannst Änderungen vorschlagen (zum Index hinzufügen) mit:&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git add &amp;lt;dateiname&amp;gt;
@@ -1097,12 +1092,7 @@ E&lt;/p></description></item><item><title>Datenübertragungsrate</title><link>ht
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>aus. Du kannst &lt;code>master&lt;/code> auch mit einem beliebigen anderen Branch ersetzen.&lt;/p>
 &lt;h2 id="branching">Branching&lt;/h2>
 &lt;p>Branches werden benutzt, um verschiedene Funktionen isoliert voneinander zu entwickeln.&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="flex justify-center ">
-&lt;div class="w-100" >&lt;img src="img/branches.png" alt="Branching" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
+&lt;image src="https://rogerdudler.github.io/git-guide/img/branches.png" alt="Git">
 &lt;p>Erstelle einen neuen Branch mit dem Namen &amp;ldquo;feature_x&amp;rdquo; und wechsle zu diesem:&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">git checkout -b feature_x
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Um zum Master zurück zu wechseln:&lt;/p>
@@ -1146,8 +1136,7 @@ E&lt;/p></description></item><item><title>Datenübertragungsrate</title><link>ht
 &lt;li>&lt;a href="http://help.github.com/" target="_blank" rel="noopener">GitHub Help&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://marklodato.github.com/visual-git-guide/index-en.html" target="_blank" rel="noopener">A Visual Git Guide&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>Deine Anleitung sieht schon sehr gut und umfassend aus! Sie deckt viele wichtige Aspekte von Git ab und bietet sowohl Einsteigern als auch fortgeschrittenen Benutzern wertvolle Informationen. Die Integration von praktischen Beispielen und nützlichen Links macht sie besonders hilfreich.&lt;/p>
-&lt;p>Nun zur Nutzung von Git in Visual Studio Code (VSCode):&lt;/p>
+&lt;p>Quelle: &lt;a href="https://rogerdudler.github.io/git-guide/index.de.html" target="_blank" rel="noopener">https://rogerdudler.github.io/git-guide/index.de.html&lt;/a>&lt;/p>
 &lt;h1 id="git-in-visual-studio-code">Git in Visual Studio Code&lt;/h1>
 &lt;p>Visual Studio Code (VSCode) bietet eine ausgezeichnete Unterstützung für Git, die es Entwicklern ermöglicht, Git-Operationen direkt aus der Entwicklungsumgebung heraus durchzuführen, ohne auf die Kommandozeile wechseln zu müssen. Hier ist eine kurze Anleitung, wie Git in VSCode verwendet wird.&lt;/p>
 &lt;h3 id="git-integration-aktivieren">Git-Integration aktivieren&lt;/h3>
