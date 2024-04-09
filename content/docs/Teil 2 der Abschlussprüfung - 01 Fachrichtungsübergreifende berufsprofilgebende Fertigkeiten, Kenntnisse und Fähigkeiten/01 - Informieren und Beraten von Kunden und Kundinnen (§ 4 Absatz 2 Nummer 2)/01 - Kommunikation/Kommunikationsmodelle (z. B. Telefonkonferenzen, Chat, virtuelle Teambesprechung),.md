@@ -25,7 +25,6 @@ description: "Kommunikationsmodelle z B Telefonkonferenzen Chat virtuelle Teambe
 - **Technik:** Sicherstellen, dass alle Teilnehmer mit der verwendeten Software vertraut sind und über die notwendige Technik verfügen.
 - **Interaktivität:** Einsatz von Tools zur Steigerung der Interaktivität und Beteiligung (z.B. Umfragen, gemeinsame Dokumentenbearbeitung).
 - **Visualisierung:** Präsentationen und visuelle Hilfsmittel nutzen, um Inhalte anschaulich zu vermitteln.
-
 ## Betriebliche Grundsätze:
 
 - **Zielgerichtetheit:** Jede Kommunikationsform sollte zielgerichtet eingesetzt werden, um Zeit und Ressourcen effizient zu nutzen.
