@@ -8,15 +8,15 @@ description: "Routing"
 
 Routing ist ein wesentlicher Bestandteil von Netzwerken, insbesondere im Internet. Es bezieht sich auf den Prozess, Datenpakete von einer Quelle zu einem Ziel durch ein Netzwerk zu leiten. 
 
-1. **Quelle und Ziel**: Der Prozess des Routings beginnt, wenn ein Gerät (z. B. ein Computer oder ein Server) in einem Netzwerk Daten senden möchte. Diese Daten haben eine Quelladresse (die Adresse des sendenden Geräts) und eine Zieladresse (die Adresse des empfangenden Geräts).
+**Quelle und Ziel**: Der Prozess des Routings beginnt, wenn ein Gerät (z. B. ein Computer oder ein Server) in einem Netzwerk Daten senden möchte. Diese Daten haben eine Quelladresse (die Adresse des sendenden Geräts) und eine Zieladresse (die Adresse des empfangenden Geräts).
 
-2. **Routing-Entscheidung**: Das sendende Gerät schaut sich die Zieladresse der Datenpakete an und entscheidet, wie sie am besten zum Ziel geleitet werden können. Diese Entscheidung basiert auf einer Routing-Tabelle, die im Gerät gespeichert ist. Die Routing-Tabelle enthält Informationen darüber, wie verschiedene Netzwerkadressen erreicht werden können und welche Wege dafür am besten geeignet sind.
+**Routing-Entscheidung**: Das sendende Gerät schaut sich die Zieladresse der Datenpakete an und entscheidet, wie sie am besten zum Ziel geleitet werden können. Diese Entscheidung basiert auf einer Routing-Tabelle, die im Gerät gespeichert ist. Die Routing-Tabelle enthält Informationen darüber, wie verschiedene Netzwerkadressen erreicht werden können und welche Wege dafür am besten geeignet sind.
 
-3. **Weiterleitung der Datenpakete**: Sobald das sendende Gerät eine Routing-Entscheidung getroffen hat, leitet es die Datenpakete an das nächste Gerät weiter, das sich auf dem Weg zum Ziel befindet. Dieses nächste Gerät wird als Router bezeichnet. Router sind spezielle Geräte, die für das Weiterleiten von Datenpaketen zwischen verschiedenen Netzwerken verantwortlich sind.
+**Weiterleitung der Datenpakete**: Sobald das sendende Gerät eine Routing-Entscheidung getroffen hat, leitet es die Datenpakete an das nächste Gerät weiter, das sich auf dem Weg zum Ziel befindet. Dieses nächste Gerät wird als Router bezeichnet. Router sind spezielle Geräte, die für das Weiterleiten von Datenpaketen zwischen verschiedenen Netzwerken verantwortlich sind.
 
-4. **Weiteres Routing**: Die Datenpakete werden von Router zu Router weitergeleitet, wobei jeder Router anhand seiner Routing-Tabelle entscheidet, wohin die Pakete als nächstes gesendet werden sollen. Dieser Prozess wird fortgesetzt, bis die Daten ihr Ziel erreichen.
+**Weiteres Routing**: Die Datenpakete werden von Router zu Router weitergeleitet, wobei jeder Router anhand seiner Routing-Tabelle entscheidet, wohin die Pakete als nächstes gesendet werden sollen. Dieser Prozess wird fortgesetzt, bis die Daten ihr Ziel erreichen.
 
-5. **Ankunft am Ziel**: Schließlich erreichen die Datenpakete ihr Zielgerät. Dieses Zielgerät empfängt die Daten und kann entsprechend darauf reagieren, je nachdem, welche Art von Anwendung oder Dienst die Daten angefordert hat.
+**Ankunft am Ziel**: Schließlich erreichen die Datenpakete ihr Zielgerät. Dieses Zielgerät empfängt die Daten und kann entsprechend darauf reagieren, je nachdem, welche Art von Anwendung oder Dienst die Daten angefordert hat.
 
 Beispiel
 
