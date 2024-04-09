@@ -400,8 +400,7 @@
 &lt;li>In jeder Tabelle gibt es einen eindeutigen Primärschlüssel.&lt;/li>
 &lt;li>Fremdschlüssel werden für Referenzen auf Datensätze in anderen Tabellen verwendet.&lt;/li>
 &lt;/ul>
-&lt;p>Quelle:
-&lt;a href="https://it-berufe-podcast.de/normalisierung-einer-datenbank-am-konkreten-beispiel-anwendungsentwickler-podcast-144/" target="_blank" rel="noopener">Quelle&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://it-berufe-podcast.de/normalisierung-einer-datenbank-am-konkreten-beispiel-anwendungsentwickler-podcast-144/" target="_blank" rel="noopener">Quelle 07.04.2024&lt;/a>&lt;/p>
 &lt;p>Erklärvideo:
 &lt;a href="https://www.youtube.com/watch?v=caMVrHP-SIs" target="_blank" rel="noopener">Youtube&lt;/a>&lt;/p></description></item><item><title>OpenData und API-Schnittstellen</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/opendata-api-schnittstellen/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---01-fachrichtungsubergreifende-berufsprofilgebende-fertigkeiten-kenntnisse-und-fahigkeiten/03-entwickeln-erstellen-und-betreuen-von-it-losungen--4-absatz-2-nummer-4/03-datenbanken-modellieren-und-erstellen/opendata-api-schnittstellen/</guid><description>&lt;h2 id="open-data">Open Data&lt;/h2>
 &lt;p>&lt;strong>Open Data&lt;/strong> bezieht sich auf Daten, die für jeden frei zugänglich und nutzbar sind, mit dem Ziel, Transparenz zu fördern und innovative Lösungen zu ermöglichen. Open Data wird häufig von Regierungen, Forschungseinrichtungen und Non-Profit-Organisationen in Formaten bereitgestellt, die leicht zu verwenden, zu teilen und zu modifizieren sind.&lt;/p>
