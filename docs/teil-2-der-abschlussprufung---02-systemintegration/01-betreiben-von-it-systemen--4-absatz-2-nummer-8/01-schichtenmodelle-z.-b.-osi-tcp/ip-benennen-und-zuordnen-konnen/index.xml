@@ -17,6 +17,68 @@
 &lt;p>&lt;strong>Layer-2-Adresse&lt;/strong>: Die MAC-Adresse wird auf der zweiten Schicht des OSI-Modells (Data Link Layer) verwendet. Sie ermöglicht die Adressierung und Übertragung von Daten innerhalb eines lokalen Netzwerks, unabhängig von der darüber liegenden Netzwerkprotokollschicht (wie z. B. IP-Adressen auf der Netzwerkschicht).&lt;/p>
 &lt;p>&lt;strong>Nicht routbar&lt;/strong>: Im Allgemeinen wird die MAC-Adresse nicht über Router hinaus geroutet. Sie ist nur innerhalb desselben Netzwerks sichtbar, in dem das Gerät physisch angeschlossen ist.&lt;/p>
 &lt;p>Die MAC-Adresse spielt eine wichtige Rolle bei der Kommunikation zwischen Geräten in einem Netzwerk und wird in verschiedenen Netzwerkprotokollen wie Ethernet und Wi-Fi verwendet.&lt;/p>
-&lt;p>&lt;a href="https://de.wikipedia.org/wiki/MAC-Adresse" target="_blank" rel="noopener">Quelle 09.04.24&lt;/a>&lt;/p></description></item><item><title>Routing</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/ip-benennen-und-zuordnen-konnen/routing/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/ip-benennen-und-zuordnen-konnen/routing/</guid><description>&lt;h1 id="routing">Routing&lt;/h1>
-&lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item><item><title>Switching</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/ip-benennen-und-zuordnen-konnen/switching/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/ip-benennen-und-zuordnen-konnen/switching/</guid><description>&lt;h1 id="switching">Switching&lt;/h1>
+&lt;p>&lt;a href="https://de.wikipedia.org/wiki/MAC-Adresse" target="_blank" rel="noopener">Quelle 09.04.24&lt;/a>&lt;/p></description></item><item><title>Routing</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/ip-benennen-und-zuordnen-konnen/routing/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/ip-benennen-und-zuordnen-konnen/routing/</guid><description>&lt;p>Routing ist ein wesentlicher Bestandteil von Netzwerken, insbesondere im Internet. Es bezieht sich auf den Prozess, Datenpakete von einer Quelle zu einem Ziel durch ein Netzwerk zu leiten.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Quelle und Ziel&lt;/strong>: Der Prozess des Routings beginnt, wenn ein Gerät (z. B. ein Computer oder ein Server) in einem Netzwerk Daten senden möchte. Diese Daten haben eine Quelladresse (die Adresse des sendenden Geräts) und eine Zieladresse (die Adresse des empfangenden Geräts).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Routing-Entscheidung&lt;/strong>: Das sendende Gerät schaut sich die Zieladresse der Datenpakete an und entscheidet, wie sie am besten zum Ziel geleitet werden können. Diese Entscheidung basiert auf einer Routing-Tabelle, die im Gerät gespeichert ist. Die Routing-Tabelle enthält Informationen darüber, wie verschiedene Netzwerkadressen erreicht werden können und welche Wege dafür am besten geeignet sind.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Weiterleitung der Datenpakete&lt;/strong>: Sobald das sendende Gerät eine Routing-Entscheidung getroffen hat, leitet es die Datenpakete an das nächste Gerät weiter, das sich auf dem Weg zum Ziel befindet. Dieses nächste Gerät wird als Router bezeichnet. Router sind spezielle Geräte, die für das Weiterleiten von Datenpaketen zwischen verschiedenen Netzwerken verantwortlich sind.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Weiteres Routing&lt;/strong>: Die Datenpakete werden von Router zu Router weitergeleitet, wobei jeder Router anhand seiner Routing-Tabelle entscheidet, wohin die Pakete als nächstes gesendet werden sollen. Dieser Prozess wird fortgesetzt, bis die Daten ihr Ziel erreichen.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Ankunft am Ziel&lt;/strong>: Schließlich erreichen die Datenpakete ihr Zielgerät. Dieses Zielgerät empfängt die Daten und kann entsprechend darauf reagieren, je nachdem, welche Art von Anwendung oder Dienst die Daten angefordert hat.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Beispiel&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Zielnetzwerk&lt;/th>
+&lt;th>Subnetzmaske&lt;/th>
+&lt;th>Gateway&lt;/th>
+&lt;th>Schnittstelle&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>192.168.1.0&lt;/td>
+&lt;td>255.255.255.0&lt;/td>
+&lt;td>192.168.1.1&lt;/td>
+&lt;td>LAN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>192.168.2.0&lt;/td>
+&lt;td>255.255.255.0&lt;/td>
+&lt;td>192.168.2.1&lt;/td>
+&lt;td>LAN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>0.0.0.0&lt;/td>
+&lt;td>0.0.0.0&lt;/td>
+&lt;td>192.168.1.254&lt;/td>
+&lt;td>WAN&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Zielnetzwerk&lt;/strong>: Dies ist die Zieladresse des Pakets, für die eine Routing-Entscheidung getroffen werden soll.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Subnetzmaske&lt;/strong>: Die Subnetzmaske definiert, welche Teil der IP-Adresse die Netzwerkadresse und welche Teil die Hostadresse ist. Sie wird verwendet, um das Zielnetzwerk zu identifizieren.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Gateway&lt;/strong>: Dies ist die IP-Adresse des nächsten Routers oder Gateways auf dem Weg zum Zielnetzwerk. Wenn das Zielnetzwerk lokal im selben Subnetz liegt, ist das Gateway die IP-Adresse des Geräts im lokalen Netzwerk.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Schnittstelle&lt;/strong>: Dies ist die Netzwerkschnittstelle, über die das Paket weitergeleitet werden soll. Es kann entweder eine lokale Schnittstelle sein, die mit demselben Subnetz verbunden ist, oder eine Schnittstelle, die mit dem WAN (Wide Area Network) verbunden ist, das das Paket in Richtung des nächsten Routers im Netzwerk weiterleitet.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>In diesem Beispiel wird beispielsweise festgelegt, dass Pakete, die an ein Zielnetzwerk mit der IP-Adresse 192.168.1.0/24 (d. h. Subnetzmaske 255.255.255.0) gerichtet sind, über das Gateway 192.168.1.1 und die lokale LAN-Schnittstelle weitergeleitet werden sollen. Wenn das Zielnetzwerk jedoch 192.168.2.0/24 ist, wird es ebenfalls lokal über die LAN-Schnittstelle erreicht, jedoch über das Gateway 192.168.2.1. Schließlich werden Pakete mit einem Ziel außerhalb der lokalen Subnetze (0.0.0.0/0) über das WAN-Gateway 192.168.1.254 und die entsprechende WAN-Schnittstelle weitergeleitet.&lt;/p></description></item><item><title>Switching</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/ip-benennen-und-zuordnen-konnen/switching/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/01-schichtenmodelle-z.-b.-osi-tcp/ip-benennen-und-zuordnen-konnen/switching/</guid><description>&lt;h1 id="switching">Switching&lt;/h1>
 &lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item></channel></rss>
