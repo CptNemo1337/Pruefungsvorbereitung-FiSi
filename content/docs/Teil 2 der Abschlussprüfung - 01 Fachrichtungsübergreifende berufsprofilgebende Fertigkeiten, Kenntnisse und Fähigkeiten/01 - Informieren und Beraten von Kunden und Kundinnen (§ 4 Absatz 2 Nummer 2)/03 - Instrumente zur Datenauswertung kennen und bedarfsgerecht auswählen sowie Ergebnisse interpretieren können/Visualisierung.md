@@ -37,4 +37,3 @@ Visualisierung bezieht sich auf die Technik, Daten und Informationen durch visue
 ## Fazit
 
 Die Fähigkeit, Daten und Systemanalysen visuell aufzubereiten, ist für Fachinformatiker für Systemintegration unerlässlich. Sie ermöglicht es, komplexe Sachverhalte verständlich zu machen und unterstützt die Kommunikation zwischen technischen Teams und anderen Stakeholdern.
-
