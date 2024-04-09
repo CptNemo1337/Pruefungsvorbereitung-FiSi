@@ -80,7 +80,7 @@ git clone benutzername@host:/pfad/zum/repository
 
 Dein lokales Repository besteht aus drei "Instanzen", die von git verwaltet werden. Die erste ist deine `Arbeitskopie`, welche die echten Dateien enthält. Die zweite ist der `Index`, welcher als Zwischenstufe agiert und zu guter Letzt noch der `HEAD`, der auf deinen letzten Commit zeigt.
 
-![Workflow](img/trees.png)
+<image src="https://rogerdudler.github.io/git-guide/img/trees.png" alt="Git">
 
 ## Add & Commit
 
@@ -113,7 +113,7 @@ aus. Du kannst `master` auch mit einem beliebigen anderen Branch ersetzen.
 
 Branches werden benutzt, um verschiedene Funktionen isoliert voneinander zu entwickeln.
 
-![Branching](img/branches.png)
+<image src="https://rogerdudler.github.io/git-guide/img/branches.png" alt="Git">
 
 Erstelle einen neuen Branch mit dem Namen "feature_x" und wechsle zu diesem:
 
@@ -192,9 +192,7 @@ git checkout -- <filename>
 - [GitHub Help](http://help.github.com/)
 - [A Visual Git Guide](http://marklodato.github.com/visual-git-guide/index-en.html)
 
-Deine Anleitung sieht schon sehr gut und umfassend aus! Sie deckt viele wichtige Aspekte von Git ab und bietet sowohl Einsteigern als auch fortgeschrittenen Benutzern wertvolle Informationen. Die Integration von praktischen Beispielen und nützlichen Links macht sie besonders hilfreich.
-
-Nun zur Nutzung von Git in Visual Studio Code (VSCode):
+Quelle: https://rogerdudler.github.io/git-guide/index.de.html
 
 # Git in Visual Studio Code
 
