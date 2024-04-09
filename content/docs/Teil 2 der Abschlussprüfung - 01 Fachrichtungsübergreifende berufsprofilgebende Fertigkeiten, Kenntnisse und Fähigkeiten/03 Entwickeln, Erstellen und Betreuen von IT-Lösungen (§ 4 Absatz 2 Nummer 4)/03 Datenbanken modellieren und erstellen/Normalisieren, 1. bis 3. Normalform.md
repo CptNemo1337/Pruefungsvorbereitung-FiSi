@@ -66,8 +66,7 @@ Wir verwenden ein „klassisches" Beispiel, das so oder ähnlich in vielen IHK-P
 - In jeder Tabelle gibt es einen eindeutigen Primärschlüssel.
 - Fremdschlüssel werden für Referenzen auf Datensätze in anderen Tabellen verwendet.
 
-Quelle:
-[Quelle](https://it-berufe-podcast.de/normalisierung-einer-datenbank-am-konkreten-beispiel-anwendungsentwickler-podcast-144/)
+[Quelle 07.04.2024](https://it-berufe-podcast.de/normalisierung-einer-datenbank-am-konkreten-beispiel-anwendungsentwickler-podcast-144/)
 
 Erklärvideo:
 [Youtube](https://www.youtube.com/watch?v=caMVrHP-SIs)

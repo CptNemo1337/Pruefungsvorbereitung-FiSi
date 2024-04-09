@@ -39,7 +39,7 @@ description: "ERDiagramm Attribute Beziehungen Kardinalitäten relerenzielle Int
 <image src="https://www.herrmix.de/dokuwiki/lib/exe/fetch.php?media=datenbanken:relational:er-beispiel2.png" alt="ER-Diagramm">
 
 Bildquelle - 06.04.24:
-https://www.herrmix.de/dokuwiki/lib/exe/fetch.php?media=datenbanken:relational:er-beispiel2.png
+<https://www.herrmix.de/dokuwiki/lib/exe/fetch.php?media=datenbanken:relational:er-beispiel2.png>
 
 Erklärvideo:
 [Youtube](https://www.youtube.com/watch?v=fVbYB_34v-E)
