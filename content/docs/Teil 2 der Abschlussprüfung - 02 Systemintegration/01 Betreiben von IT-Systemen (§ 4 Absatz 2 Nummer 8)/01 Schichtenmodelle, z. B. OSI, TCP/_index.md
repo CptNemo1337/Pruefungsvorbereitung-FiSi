@@ -40,7 +40,9 @@ description: "01 Schichtenmodelle, z. B. OSI, TCP description"
 | TACACS-DS         | 65         | TACACS-Database Service                |
 | **DNS**               | 53         | Domain Name System (DNS)               |
  Bootps            | 67         | Bootstrap Protocol Server              |
+| DHCP    | 67   | DHCP-Server läuft auf diesem Port und wartet auf Anfragen von Clients.  |
 | Bootpc            | 68         | Bootstrap Protocol Client              |
+| DHCP    | 68   | DHCP-Clients senden ihre Anfragen normalerweise an diesen Port.    |
 | **TFTP**              | 69         | Trivial File Transfer Protocol (TFTP)  |
 | gopher            | 70         | Gopher                                 |
 | rje               | 77         | Remote Job Entry                       |
