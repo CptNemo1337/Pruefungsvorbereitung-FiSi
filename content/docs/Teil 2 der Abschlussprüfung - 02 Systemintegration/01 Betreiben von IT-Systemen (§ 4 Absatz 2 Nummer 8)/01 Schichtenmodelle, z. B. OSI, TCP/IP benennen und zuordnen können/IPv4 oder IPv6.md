@@ -37,4 +37,4 @@ Die IPv6-Adressen können auch in verkürzter Form geschrieben werden, um sie ha
 Es ist wichtig zu beachten, dass IPv6-Adressen im Gegensatz zu IPv4-Adressen normalerweise nicht in Dezimalzahlen geschrieben werden, sondern in Hexadezimalzahlen, um die Länge zu reduzieren und die menschliche Lesbarkeit zu verbessern.
 
 
-![Erklär Video IPv6 Subnetting](https://www.youtube.com/watch?v=z2NDIHsxP1Q&t=458s)
+[Erklär Video IPv6 Subnetting](https://www.youtube.com/watch?v=z2NDIHsxP1Q&t=458s)
