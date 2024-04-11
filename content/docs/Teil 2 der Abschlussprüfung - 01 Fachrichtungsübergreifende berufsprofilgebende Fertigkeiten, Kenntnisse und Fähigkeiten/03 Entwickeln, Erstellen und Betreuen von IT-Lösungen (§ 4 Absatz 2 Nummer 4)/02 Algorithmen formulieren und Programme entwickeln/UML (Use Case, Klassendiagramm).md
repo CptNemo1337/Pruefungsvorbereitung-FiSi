@@ -37,7 +37,7 @@ Um ein Use Case Diagramm zu verstehen, ist es wichtig, seine Grundbausteine zu k
 - **System:** Die Sequenz von Aktionen und Interaktionen zwischen Akteuren und dem System.
 - **Ziele:** Die Endziele der Anwendungsfälle, die das Diagramm veranschaulichen sollte.
 
-<image src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/what-is-a-use-case-diagram-in-UML/UML_use_case_example1-750x731.png" alt="UML-usecase">
+![UML-Usecase](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/what-is-a-use-case-diagram-in-UML/UML_use_case_example1-750x731.png)
 
 ## Symbole und Notation in Anwendungsfalldiagrammen
 
