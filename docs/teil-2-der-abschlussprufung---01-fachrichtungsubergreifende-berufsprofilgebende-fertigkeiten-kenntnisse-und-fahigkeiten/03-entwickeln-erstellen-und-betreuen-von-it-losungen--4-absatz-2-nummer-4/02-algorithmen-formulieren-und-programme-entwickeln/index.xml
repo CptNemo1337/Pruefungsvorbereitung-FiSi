@@ -288,7 +288,12 @@ Ein Unterprogramm wird modelliert, um innerhalb eines Prozesses einen inhaltlich
 &lt;li>&lt;strong>System:&lt;/strong> Die Sequenz von Aktionen und Interaktionen zwischen Akteuren und dem System.&lt;/li>
 &lt;li>&lt;strong>Ziele:&lt;/strong> Die Endziele der Anwendungsfälle, die das Diagramm veranschaulichen sollte.&lt;/li>
 &lt;/ul>
-&lt;image src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/what-is-a-use-case-diagram-in-UML/UML_use_case_example1-750x731.png" alt="UML-usecase">
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/what-is-a-use-case-diagram-in-UML/UML_use_case_example1-750x731.png" alt="UML-Usecase" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;h2 id="symbole-und-notation-in-anwendungsfalldiagrammen">Symbole und Notation in Anwendungsfalldiagrammen&lt;/h2>
 &lt;p>Die Notation in Anwendungsfalldiagrammen ist relativ einfach und umfasst:&lt;/p>
 &lt;ul>
