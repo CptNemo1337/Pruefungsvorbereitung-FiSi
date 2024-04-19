@@ -207,7 +207,7 @@
 &lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>Beschreibung&lt;/strong>: Teilt Daten gleichmäßig ohne Parität über zwei oder mehr Festplatten. Dies erhöht die Leistung, bietet jedoch keine Redundanz.&lt;/li>
-&lt;li>&lt;strong>Kapazität&lt;/strong>: \( \text{Kapazität} = N \times \text{kleinste Festplattengröße} \)&lt;/li>
+&lt;li>&lt;strong>Kapazität&lt;/strong>: Kapazität = N * kleinste Festplattengröße&lt;/li>
 &lt;li>&lt;strong>Redundanz&lt;/strong>: Keine&lt;/li>
 &lt;li>&lt;strong>Beispiel&lt;/strong>: 2 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.&lt;/li>
 &lt;/ul>
@@ -220,7 +220,7 @@
 &lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>Beschreibung&lt;/strong>: Spiegelt Daten auf zwei oder mehr Festplatten. Dies bietet eine hohe Redundanz, aber die nutzbare Kapazität entspricht nur der eines Laufwerks.&lt;/li>
-&lt;li>&lt;strong>Kapazität&lt;/strong>: \( \text{Kapazität} = \text{kleinste Festplattengröße} \)&lt;/li>
+&lt;li>&lt;strong>Kapazität&lt;/strong>: Kapazität = kleinste Festplattengröße&lt;/li>
 &lt;li>&lt;strong>Redundanz&lt;/strong>: Vollständig&lt;/li>
 &lt;li>&lt;strong>Beispiel&lt;/strong>: 2 Disks zu je 1TB bieten eine Gesamtkapazität von 1TB.&lt;/li>
 &lt;/ul>
@@ -233,7 +233,7 @@
 &lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>Beschreibung&lt;/strong>: Verteilt Paritätsinformationen auf alle Festplatten der Gruppe, was Fehlerkorrektur ermöglicht. Mindestens drei Disks sind erforderlich.&lt;/li>
-&lt;li>&lt;strong>Kapazität&lt;/strong>: \( \text{Kapazität} = (N - 1) \times \text{kleinste Festplattengröße} \)&lt;/li>
+&lt;li>&lt;strong>Kapazität&lt;/strong>: Kapazität = (N - 1) * kleinste Festplattengröße&lt;/li>
 &lt;li>&lt;strong>Redundanz&lt;/strong>: Eine Festplatte kann ausfallen, ohne dass Daten verloren gehen.&lt;/li>
 &lt;li>&lt;strong>Beispiel&lt;/strong>: 3 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.&lt;/li>
 &lt;/ul>
@@ -246,7 +246,7 @@
 &lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>Beschreibung&lt;/strong>: Ähnlich wie RAID 5, aber es werden zwei unabhängige Paritätsblöcke verwendet, sodass zwei Disks ausfallen können.&lt;/li>
-&lt;li>&lt;strong>Kapazität&lt;/strong>: \( \text{Kapazität} = (N - 2) \times \text{kleinste Festplattengröße} \)&lt;/li>
+&lt;li>&lt;strong>Kapazität&lt;/strong>: Kapazität = (N - 2) * kleinste Festplattengröße&lt;/li>
 &lt;li>&lt;strong>Redundanz&lt;/strong>: Zwei Festplatten können ausfallen.&lt;/li>
 &lt;li>&lt;strong>Beispiel&lt;/strong>: 4 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.&lt;/li>
 &lt;/ul>
@@ -259,7 +259,7 @@
 &lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>Beschreibung&lt;/strong>: Kombination aus Mirroring und Striping. Es bietet die Vorteile von RAID 0 und RAID 1.&lt;/li>
-&lt;li>&lt;strong>Kapazität&lt;/strong>: \( \text{Kapazität} = \frac{N}{2} \times \text{kleinste Festplattengröße} \)&lt;/li>
+&lt;li>&lt;strong>Kapazität&lt;/strong>: Kapazität = (N / 2) * kleinste Festplattengröße&lt;/li>
 &lt;li>&lt;strong>Redundanz&lt;/strong>: Eine Disk pro Spiegel kann ausfallen.&lt;/li>
 &lt;li>&lt;strong>Beispiel&lt;/strong>: 4 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.&lt;/li>
 &lt;/ul>
