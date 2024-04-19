@@ -145,7 +145,7 @@ Ein vereinfachtes Beispiel: Sie speichern auf zwei Festplatten je eine Zahl: 4 u
 ![Raid-0](https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-systeme-00.200x0-is-hidpi.png)
 
 - **Beschreibung**: Teilt Daten gleichmäßig ohne Parität über zwei oder mehr Festplatten. Dies erhöht die Leistung, bietet jedoch keine Redundanz.
-- **Kapazität**: \( \text{Kapazität} = N \times \text{kleinste Festplattengröße} \)
+- **Kapazität**: Kapazität = N * kleinste Festplattengröße
 - **Redundanz**: Keine
 - **Beispiel**: 2 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.
 
@@ -154,7 +154,7 @@ Ein vereinfachtes Beispiel: Sie speichern auf zwei Festplatten je eine Zahl: 4 u
 ![Raid-1](https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-systeme-01.png)
 
 - **Beschreibung**: Spiegelt Daten auf zwei oder mehr Festplatten. Dies bietet eine hohe Redundanz, aber die nutzbare Kapazität entspricht nur der eines Laufwerks.
-- **Kapazität**: \( \text{Kapazität} = \text{kleinste Festplattengröße} \)
+- **Kapazität**: Kapazität = kleinste Festplattengröße
 - **Redundanz**: Vollständig
 - **Beispiel**: 2 Disks zu je 1TB bieten eine Gesamtkapazität von 1TB.
 
@@ -163,7 +163,7 @@ Ein vereinfachtes Beispiel: Sie speichern auf zwei Festplatten je eine Zahl: 4 u
 ![Raid-5](https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-systeme-05.png)
 
 - **Beschreibung**: Verteilt Paritätsinformationen auf alle Festplatten der Gruppe, was Fehlerkorrektur ermöglicht. Mindestens drei Disks sind erforderlich.
-- **Kapazität**: \( \text{Kapazität} = (N - 1) \times \text{kleinste Festplattengröße} \)
+- **Kapazität**: Kapazität = (N - 1) * kleinste Festplattengröße
 - **Redundanz**: Eine Festplatte kann ausfallen, ohne dass Daten verloren gehen.
 - **Beispiel**: 3 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.
 
@@ -172,7 +172,7 @@ Ein vereinfachtes Beispiel: Sie speichern auf zwei Festplatten je eine Zahl: 4 u
 ![Raid-6](https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-systeme-06.png)
 
 - **Beschreibung**: Ähnlich wie RAID 5, aber es werden zwei unabhängige Paritätsblöcke verwendet, sodass zwei Disks ausfallen können.
-- **Kapazität**: \( \text{Kapazität} = (N - 2) \times \text{kleinste Festplattengröße} \)
+- **Kapazität**: Kapazität = (N - 2) * kleinste Festplattengröße
 - **Redundanz**: Zwei Festplatten können ausfallen.
 - **Beispiel**: 4 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.
 
@@ -181,7 +181,7 @@ Ein vereinfachtes Beispiel: Sie speichern auf zwei Festplatten je eine Zahl: 4 u
 ![Raid-10](https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-systeme-10.png)
 
 - **Beschreibung**: Kombination aus Mirroring und Striping. Es bietet die Vorteile von RAID 0 und RAID 1.
-- **Kapazität**: \( \text{Kapazität} = \frac{N}{2} \times \text{kleinste Festplattengröße} \)
+- **Kapazität**: Kapazität = (N / 2) * kleinste Festplattengröße
 - **Redundanz**: Eine Disk pro Spiegel kann ausfallen.
 - **Beispiel**: 4 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.
 
