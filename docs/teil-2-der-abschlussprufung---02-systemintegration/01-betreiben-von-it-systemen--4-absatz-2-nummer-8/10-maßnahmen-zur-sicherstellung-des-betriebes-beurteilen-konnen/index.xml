@@ -1,4 +1,200 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können | AP vorbereitung</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/</link><atom:link href="https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/index.xml" rel="self" type="application/rss+xml"/><description>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><image><url>https://ap.cptnemo1337.de/media/logo.svg</url><title>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/</link></image><item><title>Elektrotechnisch (USV)</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/elektrotechnisch-usv/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/elektrotechnisch-usv/</guid><description>&lt;h1 id="elektrotechnisch-usv">Elektrotechnisch (USV)&lt;/h1>
-&lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item><item><title>Hardwaretechnisch (Redundanzen), RAID</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</guid><description>&lt;h1 id="hardwaretechnisch-redundanzen-raid">Hardwaretechnisch (Redundanzen), RAID&lt;/h1>
-&lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item><item><title>Softwaretechnisch (Back-ups ...)</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/softwaretechnisch-back-ups-.../</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/softwaretechnisch-back-ups-.../</guid><description>&lt;h1 id="softwaretechnisch-back-ups-">Softwaretechnisch (Back-ups &amp;hellip;)&lt;/h1>
+&lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item><item><title>Hardwaretechnisch (Redundanzen), RAID</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</guid><description>&lt;h1 id="redundante-systeme">Redundante Systeme&lt;/h1>
+&lt;h1 id="raid-systeme">RAID-Systeme&lt;/h1>
+&lt;h2 id="überblick">Überblick&lt;/h2>
+&lt;p>RAID steht für &amp;ldquo;Redundant Array of Independent Disks&amp;rdquo; und bezeichnet eine Technologie, die mehrere physische Festplatten verwendet, um Daten redundant zu speichern oder die Leistung zu verbessern.&lt;/p>
+&lt;h2 id="raid-funktionsweisen">RAID Funktionsweisen&lt;/h2>
+&lt;h3 id="spiegelung-mirroring">Spiegelung (Mirroring)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-beispiele-1.png" alt="Mirroring" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Bei der Spiegelung wird ein Datensatz &amp;ldquo;AB&amp;rdquo; komplett auf zwei verschiedenen Festplatten abgespeichert. Beim Ausfall einer Platte gehen keine Informationen verloren, da der ganze Datensatz auch auf der zweiten Platte vorhanden ist.&lt;/p>
+&lt;h3 id="streifen-striping">Streifen (Striping)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-beispiele-2.png" alt="Striping" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Beim Streifen wird ein Datensatz &amp;ldquo;AB&amp;rdquo; aufgeteilt und auf mehrere aufeinanderfolgende Festplatten gespeichert. Beim Ausfall einer Platte sind alle Informationen verloren, da sämtliche Platten benötigt werden, um den Datensatz vollständig lesen zu können.&lt;/p>
+&lt;p>Mit Streifen wird die Lese- und Schreibgeschwindigkeit erhöht, da von mehreren Festplatten gleichzeitig gelesen werden kann.&lt;/p>
+&lt;h3 id="parität-parity">Parität (Parity)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-beispiele-3.png" alt="Parity" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Parität ergänzt jeden Streifen mit der Möglichkeit, in einen Datensatz verlorene Informationen wiederherzustellen. Ein Datensatz &amp;ldquo;AB&amp;rdquo; wird mit Streifen auf mehrere Platten verteilt. Auf einer zusätzlichen Platte wird für jeden Streifen ein Paritätswert &amp;ldquo;P&amp;rdquo; errechnet. Fällt eine Platte aus, kann mit Hilfe der Parität die fehlende Information errechnet werden.&lt;/p>
+&lt;p>Ein vereinfachtes Beispiel: Sie speichern auf zwei Festplatten je eine Zahl: 4 und 7. Auf der dritten Paritätsplatte speichern Sie die Summe der beiden Zahlen: 11. Fällt eine der beiden Platten aus, können Sie mit Hilfe der Summe die fehlende Zahl berechnen.&lt;/p>
+&lt;h2 id="tabellarische-übersicht">Tabellarische Übersicht:&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>RAID-Level&lt;/th>
+&lt;th>RAID 0&lt;/th>
+&lt;th>RAID 1&lt;/th>
+&lt;th>RAID 5&lt;/th>
+&lt;th>RAID 6&lt;/th>
+&lt;th>RAID 10 (1+0)&lt;/th>
+&lt;th>RAID 50&lt;/th>
+&lt;th>RAID 60&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Mindestanzahl an Festplatten&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>6 (2 Gruppen von 3 Disks)&lt;/td>
+&lt;td>8 (2 Gruppen von 4 Disks)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Verwendete Verfahren&lt;/td>
+&lt;td>Striping&lt;/td>
+&lt;td>Spiegelung (Mirroring)&lt;/td>
+&lt;td>Striping und Parität&lt;/td>
+&lt;td>Striping und doppelte Parität&lt;/td>
+&lt;td>Striping gespiegelter Daten&lt;/td>
+&lt;td>Kombination von RAID 5 und Striping&lt;/td>
+&lt;td>Kombination von RAID 6 und Striping&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ausfallsicherheit&lt;/td>
+&lt;td>niedrig&lt;/td>
+&lt;td>sehr hoch; Ausfall eines Laufwerks möglich&lt;/td>
+&lt;td>mittel; Ausfall eines Laufwerks möglich&lt;/td>
+&lt;td>hoch; Ausfall von zwei Laufwerken möglich&lt;/td>
+&lt;td>sehr hoch; Ausfall eines Laufwerks pro Sub-Array möglich&lt;/td>
+&lt;td>hoch; Ausfall eines Laufwerks pro RAID-5-Gruppe möglich&lt;/td>
+&lt;td>sehr hoch; Ausfall von zwei Laufwerken pro RAID-6-Gruppe möglich&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Speicherkapazität für Nutzdaten&lt;/td>
+&lt;td>100 Prozent&lt;/td>
+&lt;td>50 Prozent&lt;/td>
+&lt;td>67 Prozent (steigt mit jeder weiteren Platte)&lt;/td>
+&lt;td>50 Prozent (steigt mit jeder weiteren Platte)&lt;/td>
+&lt;td>50 Prozent&lt;/td>
+&lt;td>Über 67 Prozent, abhängig von der Anzahl der Disks&lt;/td>
+&lt;td>Über 50 Prozent, abhängig von der Anzahl der Disks&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Geschwindigkeit beim Schreiben&lt;/td>
+&lt;td>sehr hoch&lt;/td>
+&lt;td>niedrig&lt;/td>
+&lt;td>mittel&lt;/td>
+&lt;td>niedrig&lt;/td>
+&lt;td>mittel&lt;/td>
+&lt;td>hoch&lt;/td>
+&lt;td>mittel&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Geschwindigkeit beim Lesen&lt;/td>
+&lt;td>sehr hoch&lt;/td>
+&lt;td>mittel&lt;/td>
+&lt;td>hoch&lt;/td>
+&lt;td>hoch&lt;/td>
+&lt;td>sehr hoch&lt;/td>
+&lt;td>sehr hoch&lt;/td>
+&lt;td>hoch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Kostenfaktor&lt;/td>
+&lt;td>niedrig&lt;/td>
+&lt;td>sehr hoch&lt;/td>
+&lt;td>mittel&lt;/td>
+&lt;td>hoch&lt;/td>
+&lt;td>sehr hoch&lt;/td>
+&lt;td>sehr hoch&lt;/td>
+&lt;td>sehr hoch&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="erklärung-prüfungsrelevanter-raid-systeme">Erklärung Prüfungsrelevanter RAID-Systeme&lt;/h2>
+&lt;h3 id="raid-0-striping">RAID 0 (Striping)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-systeme-00.200x0-is-hidpi.png" alt="Raid-0" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Teilt Daten gleichmäßig ohne Parität über zwei oder mehr Festplatten. Dies erhöht die Leistung, bietet jedoch keine Redundanz.&lt;/li>
+&lt;li>&lt;strong>Kapazität&lt;/strong>: \( \text{Kapazität} = N \times \text{kleinste Festplattengröße} \)&lt;/li>
+&lt;li>&lt;strong>Redundanz&lt;/strong>: Keine&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>: 2 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.&lt;/li>
+&lt;/ul>
+&lt;h3 id="raid-1-mirroring">RAID 1 (Mirroring)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-systeme-01.png" alt="Raid-1" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Spiegelt Daten auf zwei oder mehr Festplatten. Dies bietet eine hohe Redundanz, aber die nutzbare Kapazität entspricht nur der eines Laufwerks.&lt;/li>
+&lt;li>&lt;strong>Kapazität&lt;/strong>: \( \text{Kapazität} = \text{kleinste Festplattengröße} \)&lt;/li>
+&lt;li>&lt;strong>Redundanz&lt;/strong>: Vollständig&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>: 2 Disks zu je 1TB bieten eine Gesamtkapazität von 1TB.&lt;/li>
+&lt;/ul>
+&lt;h3 id="raid-5-striping-mit-parität">RAID 5 (Striping mit Parität)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-systeme-05.png" alt="Raid-5" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Verteilt Paritätsinformationen auf alle Festplatten der Gruppe, was Fehlerkorrektur ermöglicht. Mindestens drei Disks sind erforderlich.&lt;/li>
+&lt;li>&lt;strong>Kapazität&lt;/strong>: \( \text{Kapazität} = (N - 1) \times \text{kleinste Festplattengröße} \)&lt;/li>
+&lt;li>&lt;strong>Redundanz&lt;/strong>: Eine Festplatte kann ausfallen, ohne dass Daten verloren gehen.&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>: 3 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.&lt;/li>
+&lt;/ul>
+&lt;h3 id="raid-6-striping-mit-doppelter-parität">RAID 6 (Striping mit doppelter Parität)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-systeme-06.png" alt="Raid-6" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Ähnlich wie RAID 5, aber es werden zwei unabhängige Paritätsblöcke verwendet, sodass zwei Disks ausfallen können.&lt;/li>
+&lt;li>&lt;strong>Kapazität&lt;/strong>: \( \text{Kapazität} = (N - 2) \times \text{kleinste Festplattengröße} \)&lt;/li>
+&lt;li>&lt;strong>Redundanz&lt;/strong>: Zwei Festplatten können ausfallen.&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>: 4 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.&lt;/li>
+&lt;/ul>
+&lt;h3 id="raid-10-10">RAID 10 (1+0)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://www.globalsystem.ch/site/assets/files/1247/ratgeber-raid-systeme-10.png" alt="Raid-10" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Beschreibung&lt;/strong>: Kombination aus Mirroring und Striping. Es bietet die Vorteile von RAID 0 und RAID 1.&lt;/li>
+&lt;li>&lt;strong>Kapazität&lt;/strong>: \( \text{Kapazität} = \frac{N}{2} \times \text{kleinste Festplattengröße} \)&lt;/li>
+&lt;li>&lt;strong>Redundanz&lt;/strong>: Eine Disk pro Spiegel kann ausfallen.&lt;/li>
+&lt;li>&lt;strong>Beispiel&lt;/strong>: 4 Disks zu je 1TB bieten eine Gesamtkapazität von 2TB.&lt;/li>
+&lt;/ul>
+&lt;h3 id="wichtige-überlegungen">Wichtige Überlegungen&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Ausfallsicherheit&lt;/strong>: RAID ist keine Backup-Lösung. Es bietet Redundanz zum Schutz gegen Hardware-Ausfälle, nicht gegen Datenkorruption oder -verlust aus anderen Gründen.&lt;/li>
+&lt;li>&lt;strong>Performance&lt;/strong>: RAID-Level, die Striping verwenden (z.B. RAID 0, 5, 10), können die Lese- und Schreibgeschwindigkeit verbessern.&lt;/li>
+&lt;li>&lt;strong>Kosten und Nutzen&lt;/strong>: Höhere RAID-Level bieten bessere Redundanz und Leistung, sind aber teurer in der Implementierung, da mehr Festplatten benötigt werden.&lt;/li>
+&lt;/ul>
+&lt;h2 id="hot-spare">Hot Spare&lt;/h2>
+&lt;p>Ein &lt;strong>Hot Spare&lt;/strong> ist eine Reservefestplatte, die in einem RAID-Array oder Server eingebaut, aber nicht aktiv genutzt wird. Sie dient dazu, im Falle eines Ausfalls einer aktiven Festplatte automatisch und ohne manuellen Eingriff deren Funktion zu übernehmen. Der Hauptvorteil eines Hot Spares liegt in der schnellen Wiederherstellung der vollen RAID-Funktionalität und Redundanz, da die Rekonstruktion des RAID-Arrays sofort beginnen kann, sobald eine Festplatte ausfällt. Dies reduziert das Risiko eines Datenverlustes während der Wiederherstellung.&lt;/p>
+&lt;h2 id="hot-swap">Hot Swap&lt;/h2>
+&lt;p>&lt;strong>Hot Swap&lt;/strong> bezeichnet die Fähigkeit, eine Komponente – typischerweise eine Festplatte – zu entfernen und zu ersetzen, während das System in Betrieb ist, ohne dass dieses heruntergefahren werden muss. Diese Fähigkeit ist besonders wertvoll in Umgebungen, die eine hohe Verfügbarkeit erfordern, wie z.B. Datenzentren und Serverräume. Hot Swapping ermöglicht die Wartung oder den Austausch von Hardware, ohne die Systemleistung oder Verfügbarkeit zu beeinträchtigen.&lt;/p>
+&lt;h1 id="quellen">Quellen&lt;/h1>
+&lt;p>19.04.2024
+&lt;a href="https://www.ionos.de/digitalguide/server/sicherheit/raid-level-im-vergleich/" target="_blank" rel="noopener">Tabelle&lt;/a>
+&lt;a href="https://www.globalsystem.ch/ratgeber/raid-systeme-erklaert/" target="_blank" rel="noopener">Content + Bilder&lt;/a>&lt;/p></description></item><item><title>Softwaretechnisch (Back-ups ...)</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/softwaretechnisch-back-ups-.../</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/softwaretechnisch-back-ups-.../</guid><description>&lt;h1 id="softwaretechnisch-back-ups-">Softwaretechnisch (Back-ups &amp;hellip;)&lt;/h1>
 &lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item></channel></rss>

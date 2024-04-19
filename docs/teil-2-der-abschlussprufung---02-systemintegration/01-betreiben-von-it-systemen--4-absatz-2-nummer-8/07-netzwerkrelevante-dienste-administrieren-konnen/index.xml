@@ -1,5 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>07 Netzwerkrelevante Dienste administrieren können | AP vorbereitung</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/</link><atom:link href="https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/index.xml" rel="self" type="application/rss+xml"/><description>07 Netzwerkrelevante Dienste administrieren können</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><image><url>https://ap.cptnemo1337.de/media/logo.svg</url><title>07 Netzwerkrelevante Dienste administrieren können</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/</link></image><item><title>DHCP</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dhcp/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dhcp/</guid><description>&lt;h1 id="dhcp">DHCP&lt;/h1>
-&lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item><item><title>DNS</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dns/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dns/</guid><description>&lt;h1 id="dns">DNS&lt;/h1>
+&lt;p>DHCP steht für &amp;ldquo;Dynamic Host Configuration Protocol&amp;rdquo;. Es ist ein Netzwerkprotokoll, das automatisch IP-Adressen und andere Netzwerkeinstellungen an Geräte in einem Netzwerk verteilt.&lt;/p>
+&lt;h2 id="dhcp-funktionsweise">DHCP Funktionsweise&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Schritt&lt;/th>
+&lt;th>Aktion&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1. Anfrage (Discover)&lt;/td>
+&lt;td>Das Gerät sendet eine DHCP-Anfrage, um eine IP-Adresse zu&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>erhalten. Diese Anfrage wird als &amp;ldquo;Discover&amp;rdquo;-Nachricht bezeichnet&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>und an alle Geräte im Netzwerk gesendet.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/td>
+&lt;td>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2. Angebot (Offer)&lt;/td>
+&lt;td>DHCP-Server im Netzwerk empfangen die Discover-Nachricht und&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>antworten mit einem Angebot (&amp;ldquo;Offer&amp;rdquo;). Der DHCP-Server&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>schlägt eine verfügbare IP-Adresse vor.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/td>
+&lt;td>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3. Anforderung&lt;/td>
+&lt;td>Das Gerät wählt aus den Angeboten einen DHCP-Server aus und&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>(Request)&lt;/td>
+&lt;td>sendet eine Anforderung (&amp;ldquo;Request&amp;rdquo;) für die zugewiesene&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>IP-Adresse an diesen Server.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/td>
+&lt;td>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4. Bestätigung&lt;/td>
+&lt;td>Der DHCP-Server vergibt die IP-Adresse an das Gerät und sendet&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>(Acknowledge)&lt;/td>
+&lt;td>eine Bestätigung (&amp;ldquo;Acknowledge&amp;rdquo;). Diese enthält neben der&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>IP-Adresse auch andere Netzwerkkonfigurationseinstellungen.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/td>
+&lt;td>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5. Nutzung&lt;/td>
+&lt;td>Das Gerät verwendet nun die zugewiesene IP-Adresse und andere&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Netzwerkkonfigurationseinstellungen, um mit dem Netzwerk zu&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>kommunizieren.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>DNS</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dns/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/dns/</guid><description>&lt;h1 id="dns">DNS&lt;/h1>
 &lt;p>DNS steht für &amp;ldquo;Domain Name System&amp;rdquo; und dient als Grundlage für das Internet, indem es Domainnamen in IP-Adressen umwandelt und umgekehrt.&lt;/p>
 &lt;h2 id="dns-funktionen">DNS Funktionen&lt;/h2>
 &lt;p>&lt;strong>Auflösung von Domainnamen zu IP-Adressen:&lt;/strong> DNS übersetzt leicht zu merkende Domainnamen wie &amp;ldquo;example.com&amp;rdquo; in die entsprechende IP-Adresse des Servers, auf dem die Website gehostet wird. Dies ermöglicht es Benutzern, über den Namen auf Websites und andere Netzwerkdienste zuzugreifen, anstatt sich die komplexen numerischen IP-Adressen merken zu müssen.
@@ -7,4 +94,11 @@
 &lt;strong>Mail-Routing (MX-Einträge):&lt;/strong> DNS ermöglicht die Konfiguration von Mail-Exchanger (MX)-Einträgen, die angeben, welcher Mailserver für eine bestimmte Domain verantwortlich ist. Dies ist entscheidend für das Routing von E-Mails im Internet.
 &lt;strong>Sicherheit (DNSSEC):&lt;/strong> DNSSEC (DNS Security Extensions) ist eine Erweiterung des DNS, die die Integrität und Authentizität von DNS-Daten sicherstellt. Sie schützt vor DNS-Manipulationen und ermöglicht es Benutzern, sicherzustellen, dass die empfangenen DNS-Antworten echt sind und nicht gefälscht oder manipuliert wurden.
 **Zwischenspeicherung von DNS-Antworten (Caching): ** DNS-Server können DNS-Antworten zwischenspeichern, um zukünftige Anfragen schneller zu beantworten und die Netzwerkleistung zu verbessern. Dies reduziert die Notwendigkeit, die gleichen Anfragen erneut an andere DNS-Server zu senden.&lt;/p></description></item><item><title>Proxy</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/proxy/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/07-netzwerkrelevante-dienste-administrieren-konnen/proxy/</guid><description>&lt;h1 id="proxy">Proxy&lt;/h1>
-&lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item></channel></rss>
+&lt;p>Ein Proxy-Server hat verschiedene Funktionen und Aufgaben, die im Wesentlichen dazu dienen, den Datenverkehr zwischen Client und Server zu vermitteln und zu kontrollieren.&lt;/p>
+&lt;h1 id="proxy-funktionen">Proxy Funktionen&lt;/h1>
+&lt;p>&lt;strong>Zwischenspeicherung (Caching):&lt;/strong> Ein Proxy kann häufig angeforderte Inhalte zwischenspeichern, um zukünftige Anfragen schneller zu bedienen. Dadurch können Bandbreite gespart und die Ladezeiten für Benutzer verkürzt werden.&lt;/p>
+&lt;p>&lt;strong>Anonymisierung und Datenschutz:&lt;/strong> Proxy-Server können die IP-Adresse des Clients verbergen und somit die Privatsphäre und Anonymität im Internet erhöhen. Indem der Proxy als Vermittler fungiert, werden die tatsächlichen IP-Adressen der Clients vor den Servern verborgen, zu denen sie eine Verbindung herstellen.&lt;/p>
+&lt;p>&lt;strong>Zugriffskontrolle und Filterung:&lt;/strong> Ein Proxy kann den Zugriff auf bestimmte Websites oder Inhalte kontrollieren und filtern. Dies ermöglicht es Organisationen, Richtlinien für die Internetnutzung durchzusetzen, indem sie den Zugriff auf unangemessene oder unerwünschte Inhalte blockieren.&lt;/p>
+&lt;p>&lt;strong>Lastenausgleich und Netzwerkoptimierung:&lt;/strong> Proxy-Server können den Datenverkehr auf verschiedene Server verteilen, um die Last gleichmäßig zu verteilen und die Leistung des Netzwerks zu optimieren. Dadurch können Engpässe vermieden und die Ausfallsicherheit verbessert werden.&lt;/p>
+&lt;p>&lt;strong>Protokollumwandlung und Verschlüsselung:&lt;/strong> Ein Proxy kann verschiedene Netzwerkprotokolle umwandeln und den Datenverkehr zwischen Client und Server verschlüsseln. Dies ermöglicht es, die Sicherheit zu erhöhen und den Datenverkehr vor unbefugtem Zugriff zu schützen.&lt;/p>
+&lt;p>&lt;strong>Monitoring und Logging:&lt;/strong> Proxy-Server können den Datenverkehr überwachen und Protokolle über die Aktivitäten der Benutzer führen. Dies ermöglicht es Administratoren, den Netzwerkverkehr zu analysieren, Sicherheitsbedrohungen zu erkennen und die Netzwerkleistung zu optimieren.&lt;/p></description></item></channel></rss>
