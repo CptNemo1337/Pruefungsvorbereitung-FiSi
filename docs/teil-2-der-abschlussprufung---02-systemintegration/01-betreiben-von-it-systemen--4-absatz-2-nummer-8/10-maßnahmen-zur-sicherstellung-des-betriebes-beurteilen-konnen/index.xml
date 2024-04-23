@@ -1,5 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können | AP vorbereitung</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/</link><atom:link href="https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/index.xml" rel="self" type="application/rss+xml"/><description>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><image><url>https://ap.cptnemo1337.de/media/logo.svg</url><title>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/</link></image><item><title>Elektrotechnisch (USV)</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/elektrotechnisch-usv/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/elektrotechnisch-usv/</guid><description>&lt;h1 id="elektrotechnisch-usv">Elektrotechnisch (USV)&lt;/h1>
-&lt;p>Hier könnte Ihr Text stehen&lt;/p></description></item><item><title>Hardwaretechnisch (Redundanzen), RAID</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</guid><description>&lt;h1 id="redundante-it-systeme--it-infrastruktur">Redundante IT-Systeme / IT-Infrastruktur&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können | AP vorbereitung</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/</link><atom:link href="https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/index.xml" rel="self" type="application/rss+xml"/><description>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><image><url>https://ap.cptnemo1337.de/media/logo.svg</url><title>10 Maßnahmen zur Sicherstellung des Betriebes beurteilen können</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/</link></image><item><title>Elektrotechnisch (USV)</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/elektrotechnisch-usv/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/elektrotechnisch-usv/</guid><description>&lt;h3 id="unterbrechungsfreie-stromversorgung-usv">Unterbrechungsfreie Stromversorgung (USV)&lt;/h3>
+&lt;p>Eine unterbrechungsfreie Stromversorgung (USV) ist ein elektrisches Gerät, das kontinuierlich Strom liefert, selbst wenn die Hauptstromquelle ausfällt. USVs werden häufig in kritischen Umgebungen eingesetzt, wie in Krankenhäusern, Datenzentren und anderen Bereichen, in denen ein Stromausfall schwerwiegende Folgen haben könnte.&lt;/p>
+&lt;h4 id="hauptfunktionen">Hauptfunktionen:&lt;/h4>
+&lt;ol>
+&lt;li>&lt;strong>Notstromversorgung:&lt;/strong> Eine USV liefert Strom, wenn die Hauptstromquelle ausfällt, und verhindert so einen unerwarteten Stromausfall.&lt;/li>
+&lt;li>&lt;strong>Spannungsschutz:&lt;/strong> Sie schützt die angeschlossenen Geräte vor Spannungsschwankungen, die Schäden verursachen können.&lt;/li>
+&lt;li>&lt;strong>Stromqualität:&lt;/strong> Eine USV verbessert die Qualität des Stroms, indem sie Frequenzschwankungen und andere Störungen ausgleicht.&lt;/li>
+&lt;/ol>
+&lt;h3 id="typen-von-usv-systemen">Typen von USV-Systemen&lt;/h3>
+&lt;p>USV-Systeme werden in drei Haupttypen eingeteilt, basierend auf ihrer Technologie und Funktionsweise:&lt;/p>
+&lt;h4 id="1vfd-voltage-frequency-dependent-spannung-und-frequenz-abhängig-vom-netz--offline-usv">1.VFD (Voltage Frequency Dependent, Spannung und Frequenz abhängig vom Netz) / Offline-USV&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Funktionsweise:&lt;/strong> Schaltet sich nur ein, wenn die Hauptstromquelle ausfällt.&lt;/li>
+&lt;li>&lt;strong>Einsatzbereich:&lt;/strong> Am besten für kleinere Büros oder Heimanwendungen geeignet, wo die Anforderungen an die Stromqualität geringer sind.&lt;/li>
+&lt;li>&lt;strong>Vorteile:&lt;/strong> Kostengünstig, einfach zu installieren.&lt;/li>
+&lt;li>&lt;strong>Nachteile:&lt;/strong> Bietet keinen Schutz gegen Stromschwankungen, solange die Hauptstromquelle aktiv ist.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://www.schrack-technik.de/fileadmin/_processed_/9/6/csm_Off-Line_VFD__Voltage_and_Frequency_Dependent__abc4ebb30c.png" alt="VFD" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h4 id="2vi-voltage-independent-from-mains-supply-spannung-unabhängig-vom-netz--line-interactive-usv">2.VI (Voltage Independent from mains supply, Spannung unabhängig vom Netz) / Line Interactive USV:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Funktionsweise:&lt;/strong> Verbessert die Offline-USV durch Hinzufügen einer automatischen Spannungsregelung (AVR), die Spannungsschwankungen korrigieren kann, ohne auf die Batterie zurückzugreifen.&lt;/li>
+&lt;li>&lt;strong>Einsatzbereich:&lt;/strong> Geeignet für kleine bis mittelgroße Geschäftsumgebungen.&lt;/li>
+&lt;li>&lt;strong>Vorteile:&lt;/strong> Bietet Schutz gegen Spannungsschwankungen; effizienter als die Offline-USV.&lt;/li>
+&lt;li>&lt;strong>Nachteile:&lt;/strong> Reagiert langsamer als eine Online-USV bei einem Stromausfall.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://www.schrack-technik.de/fileadmin/_processed_/6/b/csm_Line_Interactive_VI___Voltage_Independent__d423b606ae.png" alt="VI" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h4 id="3vfi-voltage-and-frequency-independent-from-mains-supply-spannung-und-frequenz-unabhängig-vom-netz--online-usv-doppelwandler">3.VFI (Voltage and Frequency Independent from mains supply, Spannung und Frequenz unabhängig vom Netz) / Online-USV (Doppelwandler)&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Funktionsweise:&lt;/strong> Die angeschlossenen Geräte werden kontinuierlich über die Batterie versorgt, die wiederum ständig vom Hauptnetz geladen wird. Die Stromversorgung erfolgt immer über den Inverter, unabhängig davon, ob die Hauptstromquelle verfügbar ist oder nicht.&lt;/li>
+&lt;li>&lt;strong>Einsatzbereich:&lt;/strong> Hochkritische Anwendungen wie Serverräume, große Datenzentren und medizinische Geräte.&lt;/li>
+&lt;li>&lt;strong>Vorteile:&lt;/strong> Bietet den höchsten Schutzgrad, indem sie eine vollständige Isolation der angeschlossenen Geräte von Stromschwankungen im Netz bietet.&lt;/li>
+&lt;li>&lt;strong>Nachteile:&lt;/strong> Teurer in der Anschaffung und im Betrieb; erfordert regelmäßige Wartung.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://www.schrack-technik.de/fileadmin/_processed_/9/6/csm_Off-Line_VFD__Voltage_and_Frequency_Dependent__abc4ebb30c.png" alt="VFI" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Diese Typen von USVs sorgen für eine breite Palette an Schutz und können je nach Bedarf und Budget ausgewählt werden. Es ist wichtig, die spezifischen Anforderungen der zu schützenden Geräte zu bewerten, bevor man eine Entscheidung trifft.&lt;/p>
+&lt;p>&lt;a href="https://www.schrack-technik.de/know-how/netzwerktechnik/netzwerktechnik-usv/usv/was-ist-eine-usv" target="_blank" rel="noopener">Quelle 23.04.2024&lt;/a>&lt;/p></description></item><item><title>Hardwaretechnisch (Redundanzen), RAID</title><link>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://ap.cptnemo1337.de/docs/teil-2-der-abschlussprufung---02-systemintegration/01-betreiben-von-it-systemen--4-absatz-2-nummer-8/10-ma%C3%9Fnahmen-zur-sicherstellung-des-betriebes-beurteilen-konnen/hardwaretechnisch-redundanzen-raid/</guid><description>&lt;h1 id="redundante-it-systeme--it-infrastruktur">Redundante IT-Systeme / IT-Infrastruktur&lt;/h1>
 &lt;p>Redundante IT-Systeme sind entscheidend für die Aufrechterhaltung hoher Verfügbarkeit und Zuverlässigkeit in kritischen Netzwerk- und Anwendungsumgebungen. Redundanz in der IT bedeutet, dass kritische Komponenten doppelt vorhanden sind, um bei einem Ausfall eines Teils weiterhin Betriebssicherheit zu gewährleisten.&lt;/p>
 &lt;h2 id="grundlagen-der-redundanz">Grundlagen der Redundanz&lt;/h2>
 &lt;h3 id="definition-und-ziel">Definition und Ziel&lt;/h3>
